@@ -1,5 +1,5 @@
-# beans
+## FISH 546: Bioinformatics for Environmental Sciences
 
-Go say hi
+_Fall 2016_
 
 
