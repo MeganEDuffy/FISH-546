@@ -2,4 +2,4 @@
 
 _Fall 2016_
 
-testing
+This repository contains the analysis and data for my class project.
