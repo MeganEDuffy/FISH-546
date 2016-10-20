@@ -1,4 +1,4 @@
-### Metaproteomic profiling of the Eastern Tropical Pacific Oxygen Minimum Zone ###
+### A metaproteomic profile in the Eastern Tropical Pacific Oxygen Minimum Zone ###
 
 ![dissolved oxygen in the world oceans](https://github.com/MeganEDuffy/FISH-546/blob/master/images/dO2_world.jpg)
 
