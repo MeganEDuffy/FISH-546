@@ -32,4 +32,4 @@
 4. Spectral Processing
 
   Raw MS^e spectral data was imported into Protein Lynx Global Server ver 3.0.2 (Waters, 2016) as .RAW directories
-  Raw data were processed with an intensity threshold of 750 counts.
+  Raw data were processed with an intensity threshold of 750 counts and output as 'pseudo MS/MS' Masot Generic Format (.mgf) files 
