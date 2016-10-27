@@ -26,7 +26,7 @@ dim(deseq2.res[!is.na(deseq2.res$padj) & deseq2.res$padj <= 0.05, ])
 #Step 6: Create plot
 tmp <- deseq2.res
 #The main plot
-plot(tmp$baseMean, tmp$log2FoldChange, pch=20, cex=0.45, ylim=c(-3, 3), log="x", col="darkgray", main="DEG Virus Exposure  (pval <= 0.05)", xlab="mean of normalized counts", ylab="Log2 Fold Change")
+plot(tmp$baseMean, tmp$log2FoldChange, pch=20, cex=0.45, ylim=c(-3, 3), log="x", col="orangered", main="DEG Virus Exposure  (pval <= 0.05)", xlab="mean of normalized counts", ylab="Log2 Fold Change")
 #Getting the significant points and plotting them again so they're a different color
 tmp.sig <- deseq2.res[!is.na(deseq2.res$padj) & deseq2.res$padj <= 0.05, ]
 points(tmp.sig$baseMean, tmp.sig$log2FoldChange, pch=20, cex=0.45, col="aquamarine")
