@@ -6,3 +6,5 @@ data/uniprot_sprot.pin
 data/uniprot_sprot.psq
 
 data/uniprot_sprot.phr
+
+data/*.mgf
