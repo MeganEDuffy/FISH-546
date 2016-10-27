@@ -2,7 +2,7 @@
 
 1. Sample collection
 
-  Sediments were sampled from the Gulf of Maine on 2015-05-10 by L. Mayer, and frozen at -20 until extraction.
+  Samples were collected on 2015-05-10 by L. Mayer, and frozen at -20 until extraction.
   
   | Sample   | Depth (cm)|
   | -------- | --------- |
