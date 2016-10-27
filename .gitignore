@@ -8,3 +8,5 @@ data/uniprot_sprot.psq
 data/uniprot_sprot.phr
 
 data/*.mgf
+
+data/051216_Mayer_R3.mgf
