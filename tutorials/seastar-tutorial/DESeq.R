@@ -74,7 +74,7 @@ head(tmp.sig)
 
 head(./Galaxy_Phel_transcriptome.tab)
 
-#Step 10: Merge two datatables modified from Galaxy
+#Step 10: Merge the two datatables modified from Galaxy
 
 full_transcriptome <- read.table("./data/Galaxy_Phel_transciptome.tab") #tab file of full seastar transcriptome NOTE I SPELLED TRANSCIPTOME WRONG!
 diffexpressedgenes <- read.table("./data/Phel_DEGlist.tab") #tab file of differentially expressed genes in seastars with wasting disease vs healthy
