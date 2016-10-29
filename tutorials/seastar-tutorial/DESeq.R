@@ -56,9 +56,55 @@ tmp.sig <- deseq2.res[!is.na(deseq2.res$padj) & deseq2.res$padj <= 0.05, ]
 points(tmp.sig$baseMean, tmp.sig$log2FoldChange, pch=20, cex=0.75, col="cornflowerblue")
 
 # Step 7. 2: 2 FC lines
+
 abline(h=c(-1,1), col="orangered")
 
 
-#Step 8: Create tab-delimited table of genes that were differentially expressed
+# Step 8: Write tab-delimited table of genes that were differentially expressed
 # This file is exported to ./seastar-tutorial/data directory
+
 write.table(tmp.sig, "./data/Phel_DEGlist.tab", row.names = T)
+
+# Step 9: Look at Phel_DEGlist.tab
+
+head(tmp.sig)
+
+
+### At this point, inspired by Yaamini and Laura, I converted the dowloaded Phel_transcriptome.fasta file into a .tab file using Galaxy (How many columns to divide title string into? = 1)
+
+head(./Galaxy_Phel_transcriptome.tab)
+
+#Step 10: Merge two datatables modified from Galaxy
+
+full_transcriptome <- read.table("./data/Galaxy_Phel_transciptome.tab") #tab file of full seastar transcriptome NOTE I SPELLED TRANSCIPTOME WRONG!
+diffexpressedgenes <- read.table("./data/Phel_DEGlist.tab") #tab file of differentially expressed genes in seastars with wasting disease vs healthy
+
+colnames(full_transcriptome) <- c("contig", "sequence") #add column names to full_transcriptome
+head(full_transcriptome) #confirm addition of column names
+
+install.packages("data.table")
+library(data.table)
+setDT(diffexpressedgenes, keep.rownames = TRUE) 
+
+#convert row names to a separate column in diffexpressedgenes
+colnames(diffexpressedgenes) <- c("contig", "baseMean", "log2FoldChange", "lfcSE", "stat", "pvalue", "padj")
+head(diffexpressedgenes) #confirm addition of column names
+
+Phel_diffexpressed_transcriptome <- merge(x = diffexpressedgenes, y = full_transcriptome, by = "contig") #merge two dataframes together
+
+#Step 11: Remove all columns that are not "contig" and "sequence" (ie. remove "baseMean", "log2FoldChange", "lfcSE", "stat", "pvalue", "padj")
+
+Phel_diffexpressed_transcriptome$baseMean <- NULL
+Phel_diffexpressed_transcriptome$log2FoldChange <- NULL
+Phel_diffexpressed_transcriptome$lfcSE <- NULL
+Phel_diffexpressed_transcriptome$stat <- NULL
+Phel_diffexpressed_transcriptome$pvalue <- NULL
+Phel_diffexpressed_transcriptome$padj <- NULL
+head(Phel_diffexpressed_transcriptome) #confirm column removal
+
+#Step 12: Write out Phel_diff_transcritpome as a tab file. Need to remove row and column names using "row.names" and "col.names" arguments
+
+write.table(Phel_diffexpressed_transcriptome, "./data/Phel_diff_transcriptome.tab", col.names = F, row.names = F)
+?write.table
+
+### The Phel_diff_transcriptome.tab will be converted (again with Galaxy) into a fasta file for use as  a database in BLAST 
