@@ -72,6 +72,8 @@ head(tmp.sig)
 
 ### At this point, inspired by Yaamini and Laura, I converted the dowloaded Phel_transcriptome.fasta file into a .tab file using Galaxy (How many columns to divide title string into? = 1)
 
+###NOTE: in the end, all the work done below here I dicarded, and just manipulated files in Galaxy, starting with Phel_DEGlist.tab (see 03-Galaxy.ipynb).
+
 head(./Galaxy_Phel_transcriptome.tab)
 
 #Step 10: Merge the two datatables modified from Galaxy
