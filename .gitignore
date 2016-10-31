@@ -12,6 +12,8 @@ data/*.mgf
 
 data/051216_Mayer_R3.mgf
 
+data/051216_Mayer_R1.mgf.csv
+
 #Copied from Octocat Gist:
 # Compiled source #
 ###################
