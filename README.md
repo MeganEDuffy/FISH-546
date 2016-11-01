@@ -6,7 +6,7 @@ _This repository contains the analysis and data for my class project as part of 
 
 ### Goals ###
 
-1. Complete both database searching based and de novo sequencing protein identifications for a series of six depths from the Eastern Tropical North Pacific Oxygen (ETNP). Compare the quality of identifications from each method and with depth.
+1. Complete both database searching based and _de novo_ sequencing protein identifications for a series of six depths from the Eastern Tropical North Pacific Oxygen (ETNP). Compare the quality of identifications from each method and with depth.
 
 2. Use identified proteins and peptides to get a sense of microbial function compared with oxygen concentration. 
 
@@ -24,9 +24,9 @@ _Week 4_:
 
 _Week 5_:
 
-- Use Novor to de novo sequence peptides for each sample (.mgf input).
+- Use Novor to _de novo_ sequence peptides for each sample (.mgf input).
 
-- Input Novor outputs (csv files) into UniPept. Try and do this without GUIs.
+- Input Novor outputs (csv files) into UniPept for taxonomic distribution anaysis. Try and do this without GUIs.
 
 ### Repository Structure ###
 
