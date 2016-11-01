@@ -30,17 +30,17 @@ _Week 5_:
 
 ### Repository Structure ###
 
-- ```data/``` now has output .mgf files generated in PLGS (raw MS/MS spectral data is on a remote server). Will have more soon.
+- ```data/``` [This directory](https://github.com/MeganEDuffy/FISH-546/tree/master/data) has output .mgf files generated in PLGS (raw MS/MS spectral data is on a remote server). Will have more soon.
 
-- ```analyses/``` empty as of 2016-10-21, but will contain output .csv files from novor, unipept.
+- ```analyses/``` [This directory](https://github.com/MeganEDuffy/FISH-546/tree/master/analyses) is empty as of 2016-10-21, but will contain output .csv files from novor, unipept.
 
-- ```notebooks/``` jupyter notebooks for developing scripts, running reproducible data analysis
+- ```notebooks/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/notebooks) containing Jupyter notebooks for developing scripts, running reproducible data analysis
 
-- ```scripts/``` empty as of 2016-10-21, but will contain shell scripts to novor, msconvert, and unipept from the command line
+- ```scripts/``` [Directory]() empty as of 2016-10-21, but will contain shell scripts to novor, msconvert, and unipept from the command line
 
-- ```tutorials/``` scripts and jupyter notebooks for course tutorials in blast, DESeq2
+- ```tutorials/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/tutorials) for scripts and Jupyter notebooks for course tutorials in blast, DESeq2
 
-- ```course-notes/``` my notes from class, all md files
+- ```course-notes/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/course-notes) for my notes from class, all md files
 
 >**Project Background:** Oxygen minimum zones (OMZs) naturally occur where aerobic respiration of organic matter (OM) combines with water column stabilization to form a persistent, low-oxygen layer at mid-depths. OMZs make up less than 1% by volume of the world ocean, yet account for 30-50% of the oceanic nitrogen loss as N2, driving nitrogen limitation of primary productivity over vast regions of the ocean. The size of OMZs is sensitive to climate change and variability: a 1% reduction of the ocean’s O2 content is predicted to double the size of world OMZs. Critically, climate models predict an approximate 5% decrease to the ocean’s O2 reservoir within this century due to warming and stratification. 
 
