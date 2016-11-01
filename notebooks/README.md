@@ -8,6 +8,8 @@ The notebooks in this directory detail my work installing and running 2 main CLI
 [Novor](http://www.rapidnovor.com/) is a de novo peptide sequencing tool. Its algorthim deduces peptide sequences directly from observed MS/MS spectra, based solely on spacing between fragment ions that is consistent with specific amino acids.
 Hence, there's no database required to search MS/MS spectra against to get protein matches.
 
+![de novo sequencing](https://raw.githubusercontent.com/MeganEDuffy/FISH-546/master/images/denovo.png)
+
 
 ### Unipept ###
 
