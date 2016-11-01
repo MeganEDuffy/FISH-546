@@ -6,7 +6,7 @@ _This repository contains the analysis and data for my class project as part of 
 
 ### Goals ###
 
-1. Complete both database searching based and de novo sequencing protein identifications for a series of six depths from the Eastern Tropical North Pacific Oxygen (ETNP). Compare the quality of identifications from each method and with depth.
+1. Complete both database searching based and _de novo_ sequencing protein identifications for a series of six depths from the Eastern Tropical North Pacific Oxygen (ETNP). Compare the quality of identifications from each method and with depth.
 
 2. Use identified proteins and peptides to get a sense of microbial function compared with oxygen concentration. 
 
@@ -24,23 +24,23 @@ _Week 4_:
 
 _Week 5_:
 
-- Use Novor to de novo sequence peptides for each sample (.mgf input).
+- Use Novor to _de novo_ sequence peptides for each sample (.mgf input).
 
-- Input Novor outputs (csv files) into UniPept. Try and do this without GUIs.
+- Input Novor outputs (csv files) into UniPept for taxonomic distribution anaysis. Try and do this without GUIs.
 
 ### Repository Structure ###
 
-- ```data/``` now has output .mgf files generated in PLGS (raw MS/MS spectral data is on a remote server). Will have more soon.
+- ```data/``` [This directory](https://github.com/MeganEDuffy/FISH-546/tree/master/data) has output .mgf files generated in PLGS (raw MS/MS spectral data is on a remote server). Will have more soon.
 
-- ```analyses/``` empty as of 2016-10-21, but will contain output .csv files from novor, unipept.
+- ```analyses/``` [This directory](https://github.com/MeganEDuffy/FISH-546/tree/master/analyses) is empty as of 2016-10-21, but will contain output .csv files from novor, unipept.
 
-- ```notebooks/``` jupyter notebooks for developing scripts, running reproducible data analysis
+- ```notebooks/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/notebooks) containing Jupyter notebooks for developing scripts, running reproducible data analysis
 
-- ```scripts/``` empty as of 2016-10-21, but will contain shell scripts to novor, msconvert, and unipept from the command line
+- ```scripts/``` [Directory]() empty as of 2016-10-21, but will contain shell scripts to novor, msconvert, and unipept from the command line
 
-- ```tutorials/``` scripts and jupyter notebooks for course tutorials in blast, DESeq2
+- ```tutorials/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/tutorials) for scripts and Jupyter notebooks for course tutorials in blast, DESeq2
 
-- ```course-notes/``` my notes from class, all md files
+- ```course-notes/``` [Directory](https://github.com/MeganEDuffy/FISH-546/tree/master/course-notes) for my notes from class, all md files
 
 >**Project Background:** Oxygen minimum zones (OMZs) naturally occur where aerobic respiration of organic matter (OM) combines with water column stabilization to form a persistent, low-oxygen layer at mid-depths. OMZs make up less than 1% by volume of the world ocean, yet account for 30-50% of the oceanic nitrogen loss as N2, driving nitrogen limitation of primary productivity over vast regions of the ocean. The size of OMZs is sensitive to climate change and variability: a 1% reduction of the ocean’s O2 content is predicted to double the size of world OMZs. Critically, climate models predict an approximate 5% decrease to the ocean’s O2 reservoir within this century due to warming and stratification. 
 
