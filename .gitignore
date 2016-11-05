@@ -14,6 +14,10 @@ data/051216_Mayer_R3.mgf
 
 data/051216_Mayer_R1.mgf.csv
 
+data/raw-data-plgs-20161105T044203Z-3.zip
+
+data/raw-data-plgs/*.mgf
+
 #Copied from Octocat Gist:
 # Compiled source #
 ###################
