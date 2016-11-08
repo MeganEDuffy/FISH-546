@@ -1,0 +1,17 @@
+Notes from class Tuedsday, November 08
+
+DNA Methylation
+
+[see slides](https://github.com/sr320/course-fish546-2016/blob/master/06-Notes/2016-FISH546-Methylation.pdf)
+
+Folic acid is a methylator, can be used to alter methylation between individuals (see mouse examples in slides).
+
+About 70% human cytosines are methylated (except promotor regions). 
+
+Gene body - both exons and introns
+
+We look at DNA methylation with FASTQ files. Bisulfite treatment (any non methylated C gets converted to T).
+
+Bismark is an alignment tool for looking at methylation data.
+
+So little of the gemone is expressed - so it's cheaper to do an enrichement step to just get methylated regions. This is performed with antibodies.
