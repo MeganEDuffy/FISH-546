@@ -8,5 +8,5 @@ After identifying highly methylated sequences, I'll BLAST them against a marine 
 
 Virus-host relationships are poorly understood in marine systems, but the concept of the 'viral shunt' posits that phage lysis is an important means of releasing nutrients and carbon back into seawater to fuel microbial heterotrophy and autotrophy. This process could 'prime' of the microbial loop, rather than microbial cells being soley the fuel of high trophic levels like zooplankton. 
 
-![viral shunt](https://raw.githubusercontent.com/MeganEDuffy/FISH-546/master/tutorials/dnameth-tutorial/images/viralshunt.jpg =100x)
+![viral shunt](https://raw.githubusercontent.com/MeganEDuffy/FISH-546/master/tutorials/dnameth-tutorial/images/viralshunt.jpg)
 
