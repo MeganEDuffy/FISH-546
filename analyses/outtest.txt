@@ -1,0 +1,1493 @@
+peptide,uniprot_id,protein_name,taxon_id
+GGDDR,P19109,ATP-dependent RNA helicase p62,7227
+GGDDR,Q8TVB2,Aspartate carbamoyltransferase,190192
+GGDDR,Q173M7,Eukaryotic translation initiation factor 3 subunit A,7159
+GGDDR,O82245,Translocator protein homolog,3702
+GGDDR,C5C0H4,30S ribosomal protein S5,471853
+GGDDR,L1I766,Uncharacterized protein,905079
+GGDDR,A0A0E3XM05,Nitroreductase,1774
+GGDDR,W9TJG8,Siderophore receptor,1439940
+GGDDR,C6HRI5,Uncharacterized protein,544712
+GGDDR,A0A024QW85,Virginiamycin B hydrolase,1795
+GGDDR,A0A0P5SIV5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GGT9,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5I9W5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LEU0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0C1IF75,Uncharacterized protein,1463156
+GGDDR,A0A0B1TZV1,"Cyclic beta-1,2-glucan synthase",1562888
+GGDDR,E9AN43,Uncharacterized protein,929439
+GGDDR,R4LGV5,Thymidylate kinase,649831
+GGDDR,T0GEU3,Uncharacterized protein,1114964
+GGDDR,A0A0P7CKF5,Nitroreductase,269536
+GGDDR,D8TNR2,Putative uncharacterized protein,3068
+GGDDR,D8LRH2,U4/U6-associated splicing factor PRP4,2880
+GGDDR,H2LKF5,Uncharacterized protein,8090
+GGDDR,A0A0C2WFP5,Uncharacterized protein,933852
+GGDDR,A0A0H8UZB6,Uncharacterised protein,666
+GGDDR,D3PWD4,Uncharacterized protein,446470
+GGDDR,A0A0S2NXG3,Uncharacterized protein,264445
+GGDDR,A0A0F5VA99,4Fe-4S ferredoxin,265726
+GGDDR,S8BGF9,Uncharacterized protein,933388
+GGDDR,S5UYV3,Transcriptional regulator,1214242
+GGDDR,S5V4Y5,Uncharacterized protein,1214242
+GGDDR,A0A0K2R475,Glyceraldehyde-3-phosphate dehydrogenase,1588021
+GGDDR,A0A0E0R5D6,Uncharacterized protein,4529
+GGDDR,A0A034W8S0,Protein lingerer,27457
+GGDDR,E1JJ68,"Rm62, isoform H",7227
+GGDDR,R6QMT9,Uncharacterized protein,1262761
+GGDDR,A0A086K983,Uncharacterized protein,1130820
+GGDDR,A0A0M8XD83,Glucose sorbosone dehydrogenase,1415549
+GGDDR,B6H6E5,Pc15g02110 protein,500485
+GGDDR,A0A084Y4C4,Uncharacterized protein,1457154
+GGDDR,Q1NLA5,Uncharacterized protein,262489
+GGDDR,A0A136IZV2,Uncharacterized protein,196109
+GGDDR,F4CNY6,Uncharacterized protein,675635
+GGDDR,K0ETL9,Guanyl-specific ribonuclease,1133849
+GGDDR,A0A0Q5CDJ7,Cytotoxic translational repressor of toxin-antitoxin stability system,1736264
+GGDDR,R6WWB8,Uncharacterized protein,1262873
+GGDDR,Q2H6U3,Uncharacterized protein,306901
+GGDDR,A0A0S4QN14,"Deazaflavin-dependent oxidoreductase, nitroreductase family",1747450
+GGDDR,A0A0E9NE20,Vacuolar protein sorting-associated protein 35,698492
+GGDDR,A0A0M8Y9B1,Succinate dehydrogenase,1519494
+GGDDR,A0A0F4ZLW6,Uncharacterized protein,72032
+GGDDR,W9XHP4,Signal recognition particle subunit SRP72,1182542
+GGDDR,W9T6M9,Uncharacterized protein,1439940
+GGDDR,A0A0B7K0A6,Uncharacterized protein,29856
+GGDDR,A0A0C2CWN0,DNA helicase,215803
+GGDDR,A0A0P5K421,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BGL5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NMM8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NTI1,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N7ZU65,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0S8AWZ0,Uncharacterized protein,1703357
+GGDDR,A0A0Q7W391,Uncharacterized protein,1736555
+GGDDR,A0A101JQM4,Uncharacterized protein,68262
+GGDDR,A0A060I480,Uncharacterized protein,1432050
+GGDDR,A0A074TFU2,Uncharacterized protein,1185766
+GGDDR,A0A087ECF6,YfiH family protein,356829
+GGDDR,C3ME67,Putative transposase for insertion sequence NGRIS-8a,394
+GGDDR,K2PBS7,Uncharacterized protein,85056
+GGDDR,A0A0T6BCR8,Eukaryotic translation initiation factor 3 subunit A,1629725
+GGDDR,I4EJB1,Uncharacterized protein,1129897
+GGDDR,A0A086QB22,Histone lysine methyltransferase SET1,943118
+GGDDR,A0A0J6YID1,Uncharacterized protein,404692
+GGDDR,V4K6T9,Transcriptional regulator,1223307
+GGDDR,A0A0Q1D522,Glycosyl transferase,102891
+GGDDR,A4FKB8,Uncharacterized protein,405948
+GGDDR,D3CVV8,Uncharacterized protein,102897
+GGDDR,A0A0K9PCJ1,Serine/threonine-protein kinase WNK,29655
+GGDDR,W7TTR2,Pleckstrin domain-containing protein,72520
+GGDDR,A0A0D3B188,Uncharacterized protein,109376
+GGDDR,A0A024H1P8,Glyceraldehyde-3-phosphate dehydrogenase,861266
+GGDDR,A0A058ZHK2,Uncharacterized protein,1461693
+GGDDR,A0A0D3LFF6,Transcription termination factor Rho,1257021
+GGDDR,A0A0K8U0W7,Protein lingerer,174628
+GGDDR,A0A0Q9ML03,Glyceraldehyde-3-phosphate dehydrogenase,1736395
+GGDDR,A3T1W4,Uncharacterized protein,314267
+GGDDR,S8GNS6,Uncharacterized protein,508771
+GGDDR,R9VKD7,Methyltransferase,1166130
+GGDDR,A0A0G4FPA9,Uncharacterized protein,1169474
+GGDDR,A0A136J2Y4,Uncharacterized protein,196109
+GGDDR,N8VGA0,Uncharacterized protein,1217714
+GGDDR,T1JDI1,Uncharacterized protein,126957
+GGDDR,A0A0A0RCL3,VP1,1565591
+GGDDR,L5NGF7,Uncharacterized protein,1243180
+GGDDR,A0A085LLL4,Uncharacterized protein,68888
+GGDDR,A0A0P1AWY7,Rho gtpase activating protein 2,4781
+GGDDR,A0A0D6JQ20,Methyl-accepting chemotaxis protein 2,1476858
+GGDDR,D3B3S8,U1 small nuclear ribonucleoprotein 70 kDa protein,13642
+GGDDR,D1C7C5,Uncharacterized protein,479434
+GGDDR,Q0G6E5,Uncharacterized protein,314231
+GGDDR,A0A0K3CKU8,Uncharacterized protein,5286
+GGDDR,A0A074SZC2,Uncharacterized protein,99158
+GGDDR,A0A0D1EA48,Uncharacterized protein,935700
+GGDDR,A0A0E8EHS2,Uncharacterised protein,520
+GGDDR,V4ZL54,Uncharacterized protein,432359
+GGDDR,R0LCP2,WD repeat-containing protein 22,8839
+GGDDR,A0A0B7FDL0,Carboxylic ester hydrolase,1108050
+GGDDR,E9HZ08,Putative uncharacterized protein,6669
+GGDDR,A0A0A1V8T6,Cid1 family poly A polymerase,568076
+GGDDR,A0A0N8DVL8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NXJ6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NFU9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LT60,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,L7IYQ0,Nucleoside-diphosphate-sugar epimerase family protein,1143193
+GGDDR,G9MI28,Ca2+ transporter,413071
+GGDDR,A0A0L0D444,CMGC/CK2 protein kinase,461836
+GGDDR,A0A139IR04,Uncharacterized protein,113226
+GGDDR,A0A0M8Z1C7,MerR family transcriptional regulator,1519498
+GGDDR,A0A0M8Z6C0,Glucose sorbosone dehydrogenase,1519498
+GGDDR,D5VFR3,Uncharacterized protein,509190
+GGDDR,F0K3G8,Homoserine O-succinyltransferase,353496
+GGDDR,A0A086QGP8,Uncharacterized protein,943118
+GGDDR,B6K367,Fungal protein,402676
+GGDDR,S2J8F1,Uncharacterized protein,1220926
+GGDDR,J2VNY2,Lipid A core-O-antigen ligase-like enyme,1144342
+GGDDR,F0Y2K0,Putative uncharacterized protein,44056
+GGDDR,A0A0F5RCB6,GTPase RsgA,665792
+GGDDR,A0A0A0RBI1,VP1,1565590
+GGDDR,F1T563,Tat pathway signal sequence domain protein,525256
+GGDDR,A0A0P4REI5,Uncharacterized protein,1546107
+GGDDR,A0A0S9C572,Glyceraldehyde-3-phosphate dehydrogenase,1736232
+GGDDR,A0A086KIF6,"Splicing factor, CC1 family protein",1130820
+GGDDR,A0A0E0E2K5,Uncharacterized protein,40149
+GGDDR,A0A138ZXY6,DUF814-domain-containing protein,1344416
+GGDDR,A0A0C3G008,Uncharacterized protein,765440
+GGDDR,U4LQM9,Similar to U1 snRNP-associated protein usp106 acc. no. Q9USM4,1076935
+GGDDR,C1AWH3,Uncharacterized protein,632772
+GGDDR,H0JXB3,Serine protease,1114960
+GGDDR,A0A0L6DHJ5,tRNA-dihydrouridine synthase 1,294750
+GGDDR,A4PHL3,Non ribosomal peptide synthetase for virginiamycin S,1961
+GGDDR,U2YEL7,Uncharacterized protein,1261545
+GGDDR,A0A109DA09,Uncharacterized protein,1194427
+GGDDR,Q2GNW5,Uncharacterized protein,306901
+GGDDR,A0A0S4JAN8,Uncharacterized protein,75058
+GGDDR,A0A0C4DVE1,Uncharacterized protein,644358
+GGDDR,B6K8V1,"Splicing factor, CC1 family protein",432359
+GGDDR,A0A0G1SFG6,RNP-1 like protein RNA-binding protein,1618842
+GGDDR,R7Q3U7,Uncharacterized protein,2769
+GGDDR,G9AGN0,Putative hemolysin-type calcium-binding protein,1117943
+GGDDR,A0A0R3U5W6,Uncharacterized protein,53468
+GGDDR,A0A0Q9ML64,Uncharacterized protein,1736399
+GGDDR,I0WAW1,Uncharacterized protein,1165867
+GGDDR,A0A0P5GPL5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LT57,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5HXL4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NES4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5QHC7,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A086DXT9,Nitroreductase,1529318
+GGDDR,R7STJ8,Uncharacterized protein,732165
+GGDDR,A9VBN3,Predicted protein,81824
+GGDDR,A0A091F320,DDB1-and CUL4-associated factor 5,85066
+GGDDR,A0A0F4RS40,Uncharacterized protein,379347
+GGDDR,Q0UUV3,Uncharacterized protein,321614
+GGDDR,F6WHN2,Uncharacterized protein,8364
+GGDDR,L8G0W3,Uncharacterized protein,658429
+GGDDR,A7V8U7,Glycosyl hydrolase family 3 C-terminal domain protein,411479
+GGDDR,A0A0J8U617,Uncharacterized protein,396776
+GGDDR,R7A284,Uncharacterized protein,1262800
+GGDDR,A0A086MAV4,"Splicing factor, CC1 family protein",935652
+GGDDR,A0A064CAA4,Uncharacterized protein,1440774
+GGDDR,S9SLI5,Acetyltransferase component of pyruvate dehydrogenase complex,1123069
+GGDDR,G8SDK7,Uncharacterized protein,134676
+GGDDR,A0A086L5E2,Histone lysine methyltransferase SET1,943167
+GGDDR,M7TTS5,Putative branchpoint-bridging protein,1290391
+GGDDR,A0A0H4C8Z5,Primase,1577075
+GGDDR,T5C4X2,Uncharacterized protein,447095
+GGDDR,F0XX51,Putative uncharacterized protein,44056
+GGDDR,S9Q569,DNA helicase,1123237
+GGDDR,F0Y2T0,Putative uncharacterized protein,44056
+GGDDR,T0SJ75,Uncharacterized protein,1201288
+GGDDR,A0A0L0RI44,Homoserine O-succinyltransferase,249265
+GGDDR,A0A090M390,Thioredoxin-like fold,70448
+GGDDR,C5Z4Z8,Putative uncharacterized protein Sb10g004800,4558
+GGDDR,A0A0P4UL77,Uncharacterized protein,77044
+GGDDR,A0A0X8GWG3,RNA-dependent RNA polymerase,77204
+GGDDR,A0A089XBH5,Uncharacterized protein,1907
+GGDDR,W7T3Q3,Cytochrome b5,72520
+GGDDR,A0A060WSZ5,Uncharacterized protein,8022
+GGDDR,A0A024EAK3,RpiR family transcriptional regulator,1147786
+GGDDR,A0A0B1T1Z2,Thiolase protein,61180
+GGDDR,A0A067SVC4,Uncharacterized protein,685588
+GGDDR,Q4QHI3,Uncharacterized protein,5664
+GGDDR,H3H4A1,Uncharacterized protein,164328
+GGDDR,A0A068Y4K8,E3 ubiquitin protein ligase UBR4,6211
+GGDDR,A0A077M2T6,ThiJ/PfpI domain protein,1193518
+GGDDR,A0A081XW84,Uncharacterized protein,55952
+GGDDR,Q0RIL5,Uncharacterized protein,326424
+GGDDR,A0A086L0P4,"Splicing factor, CC1 family protein",943119
+GGDDR,A0A0S7K958,G3BP2,188132
+GGDDR,W4HKK1,RTX toxin,1317118
+GGDDR,A0A0F3UH96,Phage tail protein,562
+GGDDR,A0A0M2YPZ0,Uncharacterized protein,1428620
+GGDDR,Q9Z9Q3,YndF2,86665
+GGDDR,J9F7P3,Poly [ADP-ribose] polymerase,1172189
+GGDDR,J9J1S1,Poly [ADP-ribose] polymerase,1172189
+GGDDR,B8AGW8,Putative uncharacterized protein,39946
+GGDDR,B1HEL0,Putative lipoprotein,320374
+GGDDR,E6ZQI7,Related to RLR1-Subunit of the THO complex,999809
+GGDDR,E1VHY7,ATP-dependent RNA helicase,83406
+GGDDR,A0A0L1L215,Uncharacterized protein,1090379
+GGDDR,A0A061B8G2,RHTO0S12e01618g1_1,5286
+GGDDR,A0A074SZ76,Uncharacterized protein,99158
+GGDDR,A0A0Q8G0H3,1-deoxy-D-xylulose-5-phosphate synthase,1736579
+GGDDR,B9QZZ9,Translation initiation factor IF-2,244592
+GGDDR,I4YMP8,Putative calcium-binding protein,864069
+GGDDR,A0A0P5MCG9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LIY6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5HZQ4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5EXQ3,Eukaryotic translation initiation factor 4 gamma-like protein,35525
+GGDDR,A0A0P5XDG9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,W5WAB0,Uncharacterized protein,1449976
+GGDDR,A0A067PL81,Uncharacterized protein,933084
+GGDDR,G7H5T4,Uncharacterized protein,1073574
+GGDDR,X5L532,Clp protease subunit,547163
+GGDDR,L7IJA9,Serine/threonine-protein kinase MARK2,1143189
+GGDDR,A0A0F6YN71,Uncharacterized protein,927083
+GGDDR,G7XHP7,Cytochrome P450 family protein,1033177
+GGDDR,A0A074YJY1,Uncharacterized protein,1043005
+GGDDR,A0A0N1LVP9,Nitroreductase,83262
+GGDDR,T1B2U9,Acriflavin resistance protein,410659
+GGDDR,D1CSN5,Putative uncharacterized protein,76745
+GGDDR,A0A085TZR6,Uncharacterized protein,1317124
+GGDDR,A0A117PJ05,Uncharacterized protein,146536
+GGDDR,A0A0E0N8L7,Uncharacterized protein,4529
+GGDDR,A0A0E0N8L1,Uncharacterized protein,4529
+GGDDR,A0A081CNQ3,CRAL/TRIO domain protein,84753
+GGDDR,A0A010RUN9,Uncharacterized protein,1445577
+GGDDR,A0A067L1L9,Uncharacterized protein,180498
+GGDDR,A0A0Q5LFT5,Uncharacterized protein,1736282
+GGDDR,A0A0B4K6T7,"Rm62, isoform K",7227
+GGDDR,A0A070FHP8,Phage tail protein,1446581
+GGDDR,A0A066XU32,Putative RNA recognition domain-containing protein,1173701
+GGDDR,A0A0A8RG64,Uncharacterized protein,287
+GGDDR,I3XPN6,PHIST81,5827
+GGDDR,W7HIZ3,Uncharacterized protein,1043628
+GGDDR,A0A0D0P052,Uncharacterized protein,2064
+GGDDR,B9LRG5,Uncharacterized protein,416348
+GGDDR,A0A087XG75,Uncharacterized protein,48698
+GGDDR,U7LHW8,Uncharacterized protein,1203560
+GGDDR,A0A125YMG0,"Splicing factor, CC1 family protein",508771
+GGDDR,A0A0Q8JTB2,Uncharacterized protein,1736480
+GGDDR,A0A0C3CCF0,Uncharacterized protein,686832
+GGDDR,S3INY7,Acriflavin resistance protein,990285
+GGDDR,U4L3R7,Similar to Uncharacterized RNA-binding protein C25G10.01 acc. no. Q10422,1076935
+GGDDR,K6UCH5,Uncharacterized protein,1120755
+GGDDR,M2TCD5,Uncharacterized protein,665912
+GGDDR,A0A077JIF0,RNA-dependent RNA polymerase,1435294
+GGDDR,A7EPE7,Uncharacterized protein,665079
+GGDDR,U1BJI5,Peptidase C69,1388764
+GGDDR,H2V8Z7,Eukaryotic translation initiation factor 3 subunit A,31033
+GGDDR,Q0A5X5,"ATPase, ParA family",187272
+GGDDR,A0A0J8UD12,Clp protease subunit,451644
+GGDDR,A9QP58,Translation initiation factor IF-2,480665
+GGDDR,A0A0P6UER1,Nucleoside-diphosphate sugar epimerase,1892
+GGDDR,A0A0L0NBS2,Serine/threonine-protein kinase KIN4,1163406
+GGDDR,A0A0R3S3Q4,Uncharacterized protein,1147741
+GGDDR,Q06IS2,StaP,28044
+GGDDR,A0A0P5GMR8,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8AZX3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5KFV9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8E304,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GGB6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,R5E9N3,YgiT-type zinc finger domain protein,1262825
+GGDDR,N0CSB0,Uncharacterized protein,1303692
+GGDDR,A0A094ECN9,Uncharacterized protein,1420912
+GGDDR,A7ACJ8,Uncharacterized protein,411477
+GGDDR,G0P0K3,Putative uncharacterized protein,135651
+GGDDR,D8TJY7,Putative uncharacterized protein,3068
+GGDDR,A0A093FQK2,DDB1-and CUL4-associated factor 5,56313
+GGDDR,A0A060LU44,Uncharacterized protein,1246626
+GGDDR,A0A0B5I7V9,Uncharacterized protein,362257
+GGDDR,G4I4A1,Uncharacterized protein,931627
+GGDDR,G8RZH6,Lipolytic protein G-D-S-L family,134676
+GGDDR,H1DI69,Uncharacterized protein,742817
+GGDDR,A0A0B4G5V3,tRNA-dihydrouridine synthase 3,1276141
+GGDDR,A0A086LHA1,"Splicing factor, CC1 family protein",943167
+GGDDR,A0A086MPV1,Monooxygenase,1549810
+GGDDR,A0A0L0RL18,Homoserine O-succinyltransferase,249265
+GGDDR,F5XJR3,Uncharacterized protein,1032480
+GGDDR,A0A061HBC7,Uncharacterized protein,1277687
+GGDDR,A0A0U4B9A2,VP1,40059
+GGDDR,K1VRI9,ADP-ribosylation/crystallin J1,1220162
+GGDDR,A0A0K2QZY6,Histidine kinase,1588021
+GGDDR,J9KUR8,Uncharacterized protein,7029
+GGDDR,E9EQ69,PAP/25A-associated-like protein,655844
+GGDDR,A0A0V1I747,Protein RMD5-like protein A,268475
+GGDDR,A0A0D3DDY8,Uncharacterized protein,109376
+GGDDR,W5Y4H3,Porin B carbohydrate-selective OprB,1296990
+GGDDR,A0A059L0G7,Uncharacterized protein,1419583
+GGDDR,K8EZV1,Glycosylphosphatidylinositol anchor attachment protein GAA1 (ISS),41875
+GGDDR,A0A0A8XPV5,Uncharacterized protein,35708
+GGDDR,M3UGN5,Uncharacterized protein,1223542
+GGDDR,W4HER3,Uncharacterized protein,1317118
+GGDDR,A0A136IU99,Uncharacterized protein,196109
+GGDDR,G3S5F2,Uncharacterized protein,9595
+GGDDR,A0A078EQF0,BnaC09g10610D protein,3708
+GGDDR,L2TRM5,Uncharacterized protein,1195242
+GGDDR,A0A139XZE2,Uncharacterized protein,1074872
+GGDDR,S3BRN0,Nucleoside-diphosphate-sugar epimerase family protein,1262450
+GGDDR,S7QPG2,Porphobilinogen deaminase,670483
+GGDDR,Q9KBD8,Spore germination protein,272558
+GGDDR,B2AKW0,Putative RNA-binding protein,515849
+GGDDR,D4GYC8,Transducer protein HemAT,309800
+GGDDR,S9UYZ9,DNA topoisomerase 2,59799
+GGDDR,A0A0C1J8U6,Uncharacterized protein,1577903
+GGDDR,A0A0Q1BB66,Uncharacterized protein,1700845
+GGDDR,D7GIC1,Uncharacterized protein,754252
+GGDDR,A0A063C8P2,Uncharacterized protein,1159556
+GGDDR,A0A011PMD5,Uncharacterized protein,1454001
+GGDDR,A0A101QKT6,DNA primase,1903
+GGDDR,A0A0Q5HBF8,Glyceraldehyde-3-phosphate dehydrogenase,1736271
+GGDDR,A0A0P6FGJ0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0A1WIH8,ATP-dependent RNA helicase p62,28588
+GGDDR,A0A0P4ZQ93,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,C7NRQ5,Oxidoreductase domain protein,519442
+GGDDR,A0A0L0BW41,RNA-binding protein cabeza,7375
+GGDDR,A0A034ULU6,Putative guanyl-specific ribonuclease,1206724
+GGDDR,H2LRV4,Uncharacterized protein,8090
+GGDDR,A0A0M2R1T3,Uncharacterized protein,1409964
+GGDDR,D1BC69,Glycosyl transferase,446469
+GGDDR,S2JG18,Uncharacterized protein,1220926
+GGDDR,A0A0Q7YQ80,Uncharacterized protein,1736473
+GGDDR,V5GFF1,"Transformer-SR ribonucleoprotein, putative",1356009
+GGDDR,A0A0M8Y6R5,Nucleoside-diphosphate sugar epimerase,1519495
+GGDDR,A0A034W8R5,Protein lingerer,27457
+GGDDR,A0A124IBV9,MerR family transcriptional regulator,1739111
+GGDDR,C1FFT9,Uncharacterized protein,296587
+GGDDR,A0A0C9MLD5,ATP-dependent RNA helicase dbp-2,91626
+GGDDR,U5E7L5,Uncharacterized protein,1110697
+GGDDR,Q9WAT3,RNA-dependent RNA polymerase VP1,77204
+GGDDR,F2TJF6,Uncharacterized protein,653446
+GGDDR,A0A0N5A2T2,Uncharacterized protein,131310
+GGDDR,M2Y927,Response regulator receiver modulated diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(S),1244869
+GGDDR,A0A0L0SND3,Uncharacterized protein,578462
+GGDDR,U5FT05,Uncharacterized protein,3694
+GGDDR,A0A091VUF7,DDB1-and CUL4-associated factor 5,30419
+GGDDR,K9RJQ1,"Ca2+-binding protein, RTX toxin",373994
+GGDDR,X7F3X8,Uncharacterized protein,1449351
+GGDDR,A0A0Q4F925,NAD-dependent dehydratase,1735682
+GGDDR,Q9HH40,Uncharacterized protein,173824
+GGDDR,A0A093PSD1,DDB1-and CUL4-associated factor 5,328815
+GGDDR,A0A0E0FZW6,Uncharacterized protein,4536
+GGDDR,A0A139XX17,Histone lysine methyltransferase SET1,1074872
+GGDDR,V4JLR9,Uncharacterized protein,1385625
+GGDDR,A0A066RQK7,4Fe-4S ferredoxin,1654360
+GGDDR,A0A024YMV9,Sialic acid transporter,1460244
+GGDDR,A0A0W7VRP1,CAMK/CAMKL/KIN4 protein kinase,398673
+GGDDR,A0A099GK68,Uncharacterized protein,1545044
+GGDDR,J9IT48,"Poly ADP-ribose polymerase family, member 14-like protein",1172189
+GGDDR,A2Z0V7,Putative uncharacterized protein,39946
+GGDDR,A0A0A8GF58,Uncharacterized protein,1432049
+GGDDR,A0A132BZ86,Uncharacterized protein,1768241
+GGDDR,Q9L3R6,ORF119,103690
+GGDDR,A0A0G3PY46,Uncharacterized protein,571
+GGDDR,M0GEI0,Transducer protein HemAT,1227462
+GGDDR,W4FIY5,Uncharacterized protein,112090
+GGDDR,B8P6E6,Predicted protein,561896
+GGDDR,A9VWV6,Uncharacterized protein,419610
+GGDDR,A0A0P5JID3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,C0W671,Uncharacterized protein,525246
+GGDDR,L0KCY5,Sulfate adenylyltransferase subunit 1,748449
+GGDDR,E2CEA4,Translation initiation factor IF-2,744980
+GGDDR,A0A0K1JM24,30S ribosomal protein S5,571913
+GGDDR,W6UR78,Protein purity of essence,6210
+GGDDR,A0A0G3UZY3,"Deazaflavin-dependent oxidoreductase, nitroreductase family",1650658
+GGDDR,A0A0U1NJC1,Modulator of FtsH protease HflK,282199
+GGDDR,K0RV00,Uncharacterized protein,159749
+GGDDR,E9E6L3,Putative uncharacterized protein,655827
+GGDDR,H3CQM2,Uncharacterized protein,99883
+GGDDR,N4WYJ5,Uncharacterized protein,665024
+GGDDR,D8SEN4,Putative uncharacterized protein,88036
+GGDDR,A0A0E0N8L6,Uncharacterized protein,4529
+GGDDR,A0A0T5NTJ1,Uncharacterized protein,1641875
+GGDDR,A0A0D0HKR1,Uncharacterized protein,265546
+GGDDR,A0A0D3E3P4,Uncharacterized protein,109376
+GGDDR,S2LAM2,Antibiotic transport system ATP-binding protein,658086
+GGDDR,A0A0B3AKD5,Uncharacterized protein,1579371
+GGDDR,D5RIJ8,Type I secretion target GGXGXDXXX repeat (2 copies),525371
+GGDDR,A0A0N7JZS3,Nitroreductase,1096856
+GGDDR,A0A094BRE2,Uncharacterized protein,1420907
+GGDDR,D0NJH8,"Polypyrimidine tract-binding protein, putative",403677
+GGDDR,A0A078CU20,BnaA03g05350D protein,3708
+GGDDR,W5MU27,Eukaryotic translation initiation factor 3 subunit A,7918
+GGDDR,U2YIE6,Translation initiation factor IF-2,1219035
+GGDDR,A0A0A8JZI8,Uncharacterized protein,1384459
+GGDDR,A0A0Q2UR15,Uncharacterized protein,1225655
+GGDDR,A0A0Q4TRT2,Uncharacterized protein,1736241
+GGDDR,A0A076EQC6,Nitroreductase,37919
+GGDDR,A0A0Q4TUJ0,Uncharacterized protein,1736241
+GGDDR,A0A0F7VMM5,"Putative L,D-transpeptidase Rv0483/MT0501",1437453
+GGDDR,Q9X269,"Oligopeptide ABC transporter, permease protein",243274
+GGDDR,A0A090MS11,Uncharacterized protein,34506
+GGDDR,Q6W277,Transposase,394
+GGDDR,L1IE48,Uncharacterized protein,905079
+GGDDR,A0A101AHD0,Uncharacterized protein,1772282
+GGDDR,A0A0D9QCG8,Uncharacterized protein,1291519
+GGDDR,A0A0P5FT55,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5PYM7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6D274,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0Q9QTT7,Uncharacterized protein,1736409
+GGDDR,A0A0P5J259,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5BC61,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0G1NN02,Uncharacterized protein,1618732
+GGDDR,A0A0J6QS23,Uncharacterized protein,1295136
+GGDDR,A0JXP7,"Glyceraldehyde-3-phosphate dehydrogenase, type I",290399
+GGDDR,A0A0E0BGD7,Uncharacterized protein,40148
+GGDDR,A0A0D8CKF1,3-oxoadipate:succinyl-CoA transferase,1616823
+GGDDR,H0B9I7,MerR family transcriptional regulator,1055352
+GGDDR,D2SB73,CDP-glycerol:poly(Glycerophosphate) glycerophosphotransferase,526225
+GGDDR,D3D886,Acyl transferase,102897
+GGDDR,D6M555,TetR family transcriptional Regulator,465543
+GGDDR,C4RC21,"Peptidase S1 and S6, chymotrypsin/Hap",219305
+GGDDR,A0A0N9Y4B6,Uncharacterized protein,1766
+GGDDR,H3CDU9,Eukaryotic translation initiation factor 3 subunit A,99883
+GGDDR,L9YUU1,Uncharacterized protein,797303
+GGDDR,D8T960,Putative uncharacterized protein,88036
+GGDDR,A0A0F9TEM6,Uncharacterized protein,412755
+GGDDR,A0A034WDV6,Protein lingerer,27457
+GGDDR,A0A0P7AHE2,Polyribonucleotide nucleotidyltransferase,1647104
+GGDDR,D5SXD6,Uncharacterized protein,521674
+GGDDR,U1Q6F9,Superfamily I DNA and RNA helicase,1238427
+GGDDR,A0A0X3XP36,Uncharacterized protein,1609103
+GGDDR,G8RJZ7,Fatty acid desaturase,710685
+GGDDR,M0T0X8,Uncharacterized protein,214687
+GGDDR,V4YEC7,Superfamily I DNA and RNA helicase,1412873
+GGDDR,A0A120F8U5,Uncharacterized protein,291594
+GGDDR,A0A0N1IM25,Uncharacterized protein,5684
+GGDDR,D9TBN1,Penicillin-binding protein transpeptidase,644283
+GGDDR,R9TS36,Aliphatic sulfonate ABC transporter sulfonate-binding protein SsuA,766760
+GGDDR,A0A0C5GMZ2,Lipoprotein,477245
+GGDDR,E4SVF5,Homoserine O-succinyltransferase,767455
+GGDDR,G3AYQ5,Putative uncharacterized protein,590646
+GGDDR,A0A0Q4UC98,Uncharacterized protein,1736241
+GGDDR,A0A094MEI1,Uncharacterized protein,1427749
+GGDDR,Q63W38,Putative lipoprotein,272560
+GGDDR,A0A0K8UUX8,ATP-dependent RNA helicase p62,174628
+GGDDR,A0A0M7A9T3,Translation initiation factor IF-2,388408
+GGDDR,A0A0P6EFN4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8E9E7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0H1BGX0,Uncharacterized protein,1246674
+GGDDR,A0A0P5D8V1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5G9I7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GBF5,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BU00,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A086QAP0,"Splicing factor, CC1 family protein",933077
+GGDDR,M7SS97,Putative kinesin family protein,1287681
+GGDDR,A0A0D0Q8R0,Putative ATPase,1123501
+GGDDR,F1N0J7,Uncharacterized protein,9913
+GGDDR,L7HQ48,Nucleoside-diphosphate-sugar epimerase family protein,1143189
+GGDDR,D4JME7,Uncharacterized protein,657317
+GGDDR,H0BGI2,Putative uncharacterized protein,1055352
+GGDDR,C5G9W8,Uncharacterized protein,559297
+GGDDR,A0A086CZX7,Transcriptional regulator,1492922
+GGDDR,Q7QCT8,AGAP002800-PA,7165
+GGDDR,A0A0D6NYF0,30S ribosomal protein S6,1231343
+GGDDR,A0A0F0LNR5,Putative kinase inhibitor protein,582680
+GGDDR,A1TJP4,"Type III restriction enzyme, res subunit",397945
+GGDDR,J6F2Y9,ADP-ribosylation/crystallin J1,1186058
+GGDDR,C4MLH6,VP1,559180
+GGDDR,N4XH55,Uncharacterized protein,665024
+GGDDR,H8L5G9,DNA repair protein RecN,767434
+GGDDR,A0A0R1E898,"Uncharacterized protein, isoform B",7245
+GGDDR,Q1MNU4,Uncharacterized protein,363253
+GGDDR,A0A127MC93,Uncharacterized protein,1806885
+GGDDR,G8RLF5,Transcriptional activator of acetoin/glycerol metabolism,710685
+GGDDR,A0A077QT65,Uncharacterized protein,1398559
+GGDDR,A0A094GL90,Uncharacterized protein,1420915
+GGDDR,A0A0P9TDL8,Uncharacterized protein,251723
+GGDDR,W4PYX1,Uncharacterized protein,1236970
+GGDDR,B6R096,Glutamate-rich protein GrpB,439495
+GGDDR,G9P9F3,Uncharacterized protein,452589
+GGDDR,A0A086KMU9,Uncharacterized protein,943119
+GGDDR,M0RVH7,Uncharacterized protein,214687
+GGDDR,A0A022RGY8,Uncharacterized protein,4155
+GGDDR,A0A0C2G4L3,MerR family transcriptional regulator,183763
+GGDDR,A0A0G4F763,Uncharacterized protein,1169540
+GGDDR,A0A061JBP5,Uncharacterized protein,429131
+GGDDR,C5JUA3,Uncharacterized protein,559298
+GGDDR,A0A0Q7IEX5,Uncharacterized protein,1736537
+GGDDR,A0A0Q3L8G2,Uncharacterized protein,15368
+GGDDR,A0A067EQ34,Uncharacterized protein,2711
+GGDDR,A0A0M8JGB6,7-carboxy-7-deazaguanine synthase,262667
+GGDDR,A0A0Q4K3E2,TetR family transcriptional regulator,1736214
+GGDDR,A0A022T4B4,Eukaryotic translation initiation factor 3 subunit A,69319
+GGDDR,A0A0P6E560,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5M015,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6EFK3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0J6QFW9,Peptidase C69,536
+GGDDR,A0A0D6ZH29,Homoserine O-succinyltransferase,1585
+GGDDR,A0A0D9YL37,Uncharacterized protein,40148
+GGDDR,D7FSR0,Uncharacterized protein,2880
+GGDDR,M4DGR6,Uncharacterized protein,51351
+GGDDR,Q3JJ51,Uncharacterized protein,320372
+GGDDR,A0A0M0U5Z1,NmrA-like family domain-containing protein,100816
+GGDDR,A0A0J9XBS2,Uncharacterized protein,1173061
+GGDDR,B2B4P4,"Podospora anserina S mat+ genomic DNA chromosome 2, supercontig 2",515849
+GGDDR,I1D576,Transport permease protein,928724
+GGDDR,V6JM34,Uncharacterized protein,1352941
+GGDDR,D8R9R9,Putative uncharacterized protein,88036
+GGDDR,A0A0E0R5D3,Uncharacterized protein,4529
+GGDDR,A0A0W8JU53,Sulfonate ABC transporter substrate-binding protein,1131732
+GGDDR,A0A0B4D3B1,Glyceraldehyde-3-phosphate dehydrogenase,361575
+GGDDR,A0A098G9E2,ATP-dependent RNA helicase DeaD,1212491
+GGDDR,A0A0B4K624,"Rm62, isoform J",7227
+GGDDR,A0A0N4Z3P9,Uncharacterized protein,131310
+GGDDR,L8GIU4,RNA recognition motif domain containing protein,1257118
+GGDDR,G3NFS9,Eukaryotic translation initiation factor 3 subunit A,69293
+GGDDR,A0CAK3,Uncharacterized protein,5888
+GGDDR,A0A0G4HU58,Uncharacterized protein,1169474
+GGDDR,A0A0G3UHP0,Nucleoside-diphosphate sugar epimerase,465541
+GGDDR,A0A0N0A9F3,Primase,1519493
+GGDDR,U4L5W7,Uncharacterized protein,1076935
+GGDDR,K9Z7Y5,Delta-1-pyrroline-5-carboxylate dehydrogenase,755178
+GGDDR,A0A0D2WEG1,Uncharacterized protein,1385368
+GGDDR,G3AYQ6,Putative uncharacterized protein,590646
+GGDDR,W6Y5L7,Uncharacterized protein,930089
+GGDDR,A0A0Q5FSL7,Translation initiation factor IF-2,1736267
+GGDDR,A0A0D1EBE4,Cya_5 protein,935700
+GGDDR,Q6ETD8,Putative uncharacterized protein OJ1359_D06.8,39947
+GGDDR,A0A034WB98,Protein lingerer,27457
+GGDDR,Q2T037,Putative lipoprotein,271848
+GGDDR,B8HA65,Glyceraldehyde-3-phosphate dehydrogenase,452863
+GGDDR,A0A0P5K7R2,Uncharacterized protein,35525
+GGDDR,A0A0A1XH60,ATP-dependent RNA helicase p62,28588
+GGDDR,A0A0N8E1W7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5PQN4,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0M3QLD4,Glycosyl hydrolase,1649184
+GGDDR,L7JJI5,Serine/threonine-protein kinase MARK2,1143193
+GGDDR,A9V9C1,Predicted protein,81824
+GGDDR,Q0URV3,Uncharacterized protein,321614
+GGDDR,A0A0E1SFC2,Putative lipoprotein,425067
+GGDDR,A0A0J9TC43,MB2 protein,1035515
+GGDDR,A0A0J9VY70,Uncharacterized protein,1035515
+GGDDR,A0A0C3B3A8,Uncharacterized protein,933852
+GGDDR,M0IEK7,Transducer protein HemAT,1227458
+GGDDR,X8HXA1,Uncharacterized protein,1190621
+GGDDR,A0A0S8FGW4,Uncharacterized protein,1703405
+GGDDR,A0A0M2U9W2,Uncharacterized protein,1605376
+GGDDR,W1VF94,"ABC superfamily ATP binding cassette transporter, outer membrane protein",1403939
+GGDDR,W9Y1A7,Signal recognition particle subunit SRP72,1182541
+GGDDR,A0A0K1ISL7,Transducer protein HemAT,35746
+GGDDR,F0YEE6,Putative uncharacterized protein,44056
+GGDDR,A0A0U1NJW1,Uncharacterized protein,282199
+GGDDR,A0A0Q4HUB5,Uncharacterized protein,1735687
+GGDDR,H3CBC3,Eukaryotic translation initiation factor 3 subunit A,99883
+GGDDR,F9X444,Uncharacterized protein,336722
+GGDDR,A0A0U3LA96,Nucleoside-diphosphate sugar epimerase,1172567
+GGDDR,W7TET6,E3 ubiquitin ligase,72520
+GGDDR,A0A0F6ALJ9,Binding-protein-dependent transport systems inner membrane component,126740
+GGDDR,A0A0F7ZLU9,tRNA-dihydrouridine(47) synthase,1043627
+GGDDR,A0A0F7ZHB2,Uncharacterized protein,1043627
+GGDDR,A0A0J5QFK0,Uncharacterized protein,1618204
+GGDDR,A0A091VWK8,DDB1-and CUL4-associated factor 5,128390
+GGDDR,L5ND57,Uncharacterized protein,1246484
+GGDDR,A0A0Q9TID0,Uncharacterized protein,1736416
+GGDDR,A0A0K0FFC3,Uncharacterized protein,75913
+GGDDR,G1UHX2,Nonribosomal peptide synthetase for virginiamycin S,1961
+GGDDR,A0A0H5CX46,Uncharacterized protein,481446
+GGDDR,C1N8E1,Predicted protein,564608
+GGDDR,C1N369,Predicted protein,564608
+GGDDR,K1KXL8,Uncharacterized protein,1225176
+GGDDR,J9FUH6,Uncharacterized protein,1172189
+GGDDR,A0A0C2Q1Y2,Uncharacterized protein,1245935
+GGDDR,A5K9G3,Uncharacterized protein,126793
+GGDDR,A0A0G0BQE0,Uncharacterized protein,1618478
+GGDDR,A0A0F7VR48,Peptidase S1 And S6 Chymotrypsin/Hap,1437453
+GGDDR,Q1RQM5,Putative MerR-family transcriptional regulator,278992
+GGDDR,A0A0H0T5C9,Clp protease,1796
+GGDDR,A0A091QQE2,DDB1-and CUL4-associated factor 5,57421
+GGDDR,A0A0V7ZM00,Uncharacterized protein,371196
+GGDDR,A0A0P5QRT5,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5D0H4,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GNH5,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5N762,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BYP9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P4ZX41,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5IXS0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,V7EN96,Membrane protein,1408890
+GGDDR,A0A093J7P1,DDB1-and CUL4-associated factor 5,441894
+GGDDR,A0A060I6S3,GntR family transcriptional regulator protein,1432050
+GGDDR,G1UE27,D-aminopeptidase,878248
+GGDDR,A0A086LWC5,Histone lysine methyltransferase SET1,935652
+GGDDR,A0A0J1HWD4,Uncharacterized protein,1495853
+GGDDR,A0A086QZ58,"Splicing factor, CC1 family protein",943118
+GGDDR,G8S548,Lipolytic protein G-D-S-L family,134676
+GGDDR,A0A0D2J5R6,Uncharacterized protein,145388
+GGDDR,A0A010Q8H8,Arylsulfatase A family protein,1298865
+GGDDR,K5UR56,Uncharacterized protein,650164
+GGDDR,A0A0C1D4W9,Ribonuclease,1141657
+GGDDR,U1GLL4,Uncharacterized protein,1263415
+GGDDR,A0A0V0YGK9,Protein RMD5-like protein B,6337
+GGDDR,F0U7Y7,Putative uncharacterized protein,544711
+GGDDR,B7KSC4,Uncharacterized protein,440085
+GGDDR,A3N744,Putative lipoprotein,320373
+GGDDR,A0A0P7A9Y6,Helicase,1647104
+GGDDR,J7L7F9,MerR regulatory family protein,1205910
+GGDDR,A0A0U5LU26,Uncharacterized protein,1926
+GGDDR,T1DFB5,Putative ribosomal protein s10e,869069
+GGDDR,Q5ASQ5,Uncharacterized protein,227321
+GGDDR,X6JAX5,Transposase,1287089
+GGDDR,A0A0M4KZ64,ATP-dependent RNA helicase DeaD,65058
+GGDDR,R5BVF1,Thymidylate kinase,1262734
+GGDDR,R0KDE9,Uncharacterized protein,671987
+GGDDR,A0A0V8HTN3,GCN5 family acetyltransferase,993071
+GGDDR,M5RH58,"Glycosyl transferase, group 1 family domain protein",1265738
+GGDDR,D7BR37,Uncharacterized protein,749414
+GGDDR,A0A078C360,BnaC03g06880D protein,3708
+GGDDR,F0XUQ4,Decapping enzyme,655863
+GGDDR,B3UXC9,M02,524651
+GGDDR,A0A0N0RZD1,Uncharacterized protein,229535
+GGDDR,D3B9Y7,Uncharacterized protein,13642
+GGDDR,A0A0D6VB17,Lipoprotein,28450
+GGDDR,C0NBT4,Uncharacterized protein,447093
+GGDDR,Q11YT0,Pseudouridine synthase,269798
+GGDDR,A0A0L6CFD0,30S ribosomal protein S5,1631356
+GGDDR,A0A094B5P2,Uncharacterized protein,1420906
+GGDDR,G7MYI3,Uncharacterized protein,9544
+GGDDR,B7TWK5,Putative ATP-dependent RNA helicase,68249
+GGDDR,A0A0G0B8R2,Uncharacterized protein,1618485
+GGDDR,A0A0P5GMM4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5J3G7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,U5T5R5,Uncharacterized protein,1335757
+GGDDR,A0A0P5LPG8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6E9G3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6E481,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,W6R904,"Tyrosine-protein kinase, catalytic domain",1365484
+GGDDR,U6GIS7,Uncharacterized protein,5801
+GGDDR,G4MWY5,CAMK/CAMKL/KIN4 protein kinase,242507
+GGDDR,D2BCD3,Uncharacterized protein,479432
+GGDDR,A0A0M8MSD2,Uncharacterized protein,77020
+GGDDR,X7Y4B7,Amino acid adenylation domain protein,1299328
+GGDDR,A0A029IJZ2,Putative tail fiber protein,1444228
+GGDDR,A0A0V8ISJ4,Phosphoserine phosphatase,993070
+GGDDR,V6KAR3,MerR family transcriptional regulator,1352941
+GGDDR,Q4SWR1,"Chromosome 12 SCAF13545, whole genome shotgun sequence",99883
+GGDDR,A0A010QY26,Uncharacterized protein,1445577
+GGDDR,W5F3H7,Uncharacterized protein,4565
+GGDDR,W8ZEC2,Uncharacterized protein,483908
+GGDDR,Q0FDZ7,Translation initiation factor IF-2,367336
+GGDDR,A0A075UNE4,Uncharacterized protein,208439
+GGDDR,A0A0M7FB18,Ribosomal protein S12 methylthiotransferase RimO,134375
+GGDDR,V6AC60,Uncharacterized protein,1306165
+GGDDR,W9FLG2,MerR family transcriptional regulator,457430
+GGDDR,A0A0C1XRU1,Transporter integral membrane protein,1576605
+GGDDR,A0A0F2MGL2,Exocyst complex component EXO84,1397361
+GGDDR,K6UQH9,Uncharacterized protein,1120755
+GGDDR,A0A0Q2Y357,Uncharacterized protein,1225657
+GGDDR,A0A0P1AA59,WD40 repeat-containing protein,4781
+GGDDR,R4XD75,Putative Glycine-rich RNA-binding protein,1097556
+GGDDR,A0A0P0Z6E5,Uncharacterized protein,651183
+GGDDR,A0A0K3CLN8,BY PROTMAP: gi|472582411|gb|EMS20097.1| transformer-SR ribonucleoprotein [Rhodosporidium toruloides NP11] gi|647402461|emb|CDR48717.1| RHTO0S19e03136g,5286
+GGDDR,G6F7X6,Homoserine O-succinyltransferase,1042400
+GGDDR,H2TQF0,Uncharacterized protein,31033
+GGDDR,A0A0V1K5Z7,Protein RMD5-like protein A,6337
+GGDDR,F6FV36,Hemolysin-type calcium-binding region,743718
+GGDDR,B6B1L3,Putative uncharacterized protein,314270
+GGDDR,M0B715,Oligopeptide/dipeptide ABC transporter ATPase,1227491
+GGDDR,A0A0Q9J5Q7,Error-prone DNA polymerase,1736544
+GGDDR,A0A0D2ERG2,Phosphodiesterase,348802
+GGDDR,A0A0P4ZL85,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6EEA7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6E0G6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,H2JMG7,Uncharacterized protein,1133850
+GGDDR,A9V2Q5,Predicted protein,81824
+GGDDR,C6WA74,Uncharacterized protein,446462
+GGDDR,M4CQ05,Uncharacterized protein,51351
+GGDDR,A0A0J9W611,Phist protein (Pf-fam-b),1035515
+GGDDR,B0WB77,Molybdenum cofactor synthesis protein cinnamon,7176
+GGDDR,A0LNN7,Amidase,335543
+GGDDR,G0T1A9,Uncharacterized protein,1001064
+GGDDR,A0A0C1UD93,Nitroreductase,1550401
+GGDDR,A0A0K0ECX3,Uncharacterized protein,6248
+GGDDR,A0A0B4HF71,Topoisomerase family protein TRF4,1276141
+GGDDR,Q2F9N3,Respiratory burst oxidase-like protein,2788
+GGDDR,A0A0Q3T440,Ras GTPase-activating protein-binding protein 2 isoform X1,12930
+GGDDR,M0FQM0,Transducer protein HemAT,1227464
+GGDDR,W6KGM7,Uncharacterized protein,134006
+GGDDR,E9E8L0,tRNA-dihydrouridine synthase 3,655827
+GGDDR,A0A090M5M3,"Nucleotide-binding, alpha-beta plait",70448
+GGDDR,B4PHA9,Uncharacterized protein,7245
+GGDDR,B4PVK4,"Uncharacterized protein, isoform A",7245
+GGDDR,C7CA01,Uncharacterized protein,661410
+GGDDR,A0A0F7N3V7,Uncharacterized protein,444103
+GGDDR,M0BFB4,Uncharacterized protein,1227489
+GGDDR,A0A0F2T7V7,RNA helicase,359131
+GGDDR,G3TN15,Uncharacterized protein,9785
+GGDDR,A0A100VY66,Deazaflavin-dependent nitroreductase family protein,146020
+GGDDR,A0A061SJ69,Uncharacterized protein,83219
+GGDDR,A0A017H7V7,Uncharacterized protein,1122180
+GGDDR,A0A0D0LUT3,Uncharacterized protein,33069
+GGDDR,X7F7L5,Uncharacterized protein,1449351
+GGDDR,V5IA12,Isoaspartyl peptidase/L-asparaginase,217634
+GGDDR,A0A0D2M2Q1,Uncharacterized protein,945553
+GGDDR,A0A0N8FSZ7,Phospho-2-dehydro-3-deoxyheptonate aldolase,1225647
+GGDDR,A0A031MFI8,Membrane protein,653930
+GGDDR,G1PJ62,Uncharacterized protein,59463
+GGDDR,K8X7W2,Uncharacterized protein,1129896
+GGDDR,J9FYC5,Poly [ADP-ribose] polymerase,1172189
+GGDDR,A0A0P1FCV9,Lipase,321267
+GGDDR,A0A0D3GQG6,Uncharacterized protein,65489
+GGDDR,Q9FYP4,Putative uncharacterized protein P0702D12.6,39947
+GGDDR,W6Y790,Uncharacterized protein,930089
+GGDDR,G2GB23,Transcriptional regulator,700597
+GGDDR,Q6P361,Ras-GTPase activating protein SH3 domain-binding protein 2 (G3BP2),8364
+GGDDR,V4S3F8,Uncharacterized protein,85681
+GGDDR,A0A031JUN9,Amidohydrolase,158500
+GGDDR,E4WIH7,Putative non-ribosomal peptide synthetase,685727
+GGDDR,A0A095X1S2,Membrane protein,1284679
+GGDDR,D9QNM5,Error-prone DNA polymerase,633149
+GGDDR,M8E4H2,Uncharacterized protein,1300222
+GGDDR,A0A066U9H7,Uncharacterized protein,287986
+GGDDR,I4YK51,"Ca2+-binding protein, RTX toxin",864069
+GGDDR,A0A0P5QAW9,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8ARD6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5PVN1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5NA30,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6E4C2,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5M5S1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5M5X1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,U7PJK7,Uncharacterized protein,1391915
+GGDDR,M7SV86,Putative tetratricopeptide repeat protein 1 protein,1287681
+GGDDR,A0A077WN26,Uncharacterized protein,688394
+GGDDR,T1MEE8,Uncharacterized protein,4572
+GGDDR,A0A0E0BGD6,Uncharacterized protein,40148
+GGDDR,M4DY46,Uncharacterized protein,51351
+GGDDR,W5TKW3,Deazaflavin-dependent nitroreductase family protein,1415166
+GGDDR,A0A0U3EUC8,Uncharacterized protein,1768242
+GGDDR,C5GD42,Transformer-SR ribonucleoprotein,559297
+GGDDR,A0A091TJ55,DDB1-and CUL4-associated factor 5,97097
+GGDDR,M0HIG7,Uncharacterized protein,1227460
+GGDDR,A0A0A0AF24,DDB1-and CUL4-associated factor 5,50402
+GGDDR,A0A0A2N4P6,Integrase,511
+GGDDR,A0A091IXF2,DDB1-and CUL4-associated factor 5,188379
+GGDDR,H3C7L4,Uncharacterized protein,99883
+GGDDR,A0A0M6YG39,Uncharacterized protein,420998
+GGDDR,M7X829,Uncharacterized protein,1130832
+GGDDR,G4CT29,Iron-regulated protein FrpC,1030841
+GGDDR,J0KCJ7,MobA/MobL family protein,1144317
+GGDDR,A0A060YIE6,Uncharacterized protein,8022
+GGDDR,A0A089X1F1,Uncharacterized protein,1907
+GGDDR,A0A0A0REA8,VP1,1565589
+GGDDR,A0A0L0SYQ8,Uncharacterized protein,578462
+GGDDR,A0A0F2TA24,Uncharacterized protein,359131
+GGDDR,A0A0E0E2K6,Uncharacterized protein,40149
+GGDDR,Q7N274,Uncharacterized protein,243265
+GGDDR,A0A029HH82,Tail fiber domain protein,1444258
+GGDDR,C7D9F8,Uncharacterized protein,633131
+GGDDR,A0A0X1SJQ2,Cytotoxic translational repressor of toxin-antitoxin stability system,925818
+GGDDR,A0A078BXR2,BnaA10g18850D protein,3708
+GGDDR,A0A0V8AEK9,Uncharacterized protein,995020
+GGDDR,W7E068,Uncharacterized protein,930091
+GGDDR,S6BKM0,Uncharacterized protein,1245471
+GGDDR,G4FGD3,Oligopeptide transport system permease protein OppB,243274
+GGDDR,Q0S5L4,Uncharacterized protein,101510
+GGDDR,C7LAE4,"Rm62, isoform I",7227
+GGDDR,R7UBC4,Eukaryotic translation initiation factor 3 subunit A,283909
+GGDDR,V4TGM1,Uncharacterized protein,85681
+GGDDR,A0A0M3UBP1,Nitroreductase,1641402
+GGDDR,L7FI25,"Putative alpha-1,2-mannosidase",698760
+GGDDR,A0A0M4R281,Nitroreductase,445576
+GGDDR,A0A091P4C3,DDB1-and CUL4-associated factor 5,8969
+GGDDR,A0A068RTZ9,Heterogeneous nuclear ribonucleoprotein hrp1,1263082
+GGDDR,M9R3R6,Uncharacterized protein,391626
+GGDDR,C3ZGP9,Putative uncharacterized protein,7739
+GGDDR,A0A0P6FPC9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5HPX0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8A9M2,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5ZNT0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6E6P9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0A1XE48,ATP-dependent RNA helicase p62,28588
+GGDDR,A0A0Q8DHD6,Nucleoside-diphosphate sugar epimerase,1736573
+GGDDR,A0A0Q5RUC2,Uncharacterized protein,1736291
+GGDDR,U2T4B3,Uncharacterized protein,1125712
+GGDDR,V4H8G5,Uncharacterized protein,1324957
+GGDDR,D9XPB6,Transcriptional regulator,467200
+GGDDR,A0A0D2MFU5,Uncharacterized protein,145388
+GGDDR,A0A0S2PA89,Uncharacterized protein,264445
+GGDDR,B4X6Z8,Major surface glycoprotein Rucl1,42068
+GGDDR,A0A0M9A9W5,Putative chitinase 3,166423
+GGDDR,T5C5A1,Uncharacterized protein,447095
+GGDDR,N0DZY8,Uncharacterized protein,1193181
+GGDDR,W4B9T8,Uncharacterized protein,1226754
+GGDDR,A0A087NRC7,Uncharacterized protein,60550
+GGDDR,A0A100IPH7,Cytochrome P450 family protein,5061
+GGDDR,A0A0E0N8L4,Uncharacterized protein,4529
+GGDDR,A0A0F9IDX4,Uncharacterized protein,412755
+GGDDR,A0A0F9INH3,Uncharacterized protein,412755
+GGDDR,A0A101L561,Glyceraldehyde-3-phosphate dehydrogenase,1745378
+GGDDR,C1E7L8,Uncharacterized protein,296587
+GGDDR,A0A0V8SHK9,Cell division protein FtsX,1295626
+GGDDR,A0A0D1ZDX0,Uncharacterized protein,212818
+GGDDR,Q5QL34,Uncharacterized protein,235909
+GGDDR,W5FQW6,Uncharacterized protein,4565
+GGDDR,A0A0B4XQ82,Glycerophosphoryl diester phosphodiesterase,391936
+GGDDR,V6E0E3,Uncharacterized protein,1173487
+GGDDR,G9NTB5,Uncharacterized protein,452589
+GGDDR,E3Q4X7,RNA recognition domain-containing protein,645133
+GGDDR,A0A0F2LY56,Uncharacterized protein,1397361
+GGDDR,A0A0F2M2I7,Uncharacterized protein,1397361
+GGDDR,F0XAI9,Putative uncharacterized protein,655863
+GGDDR,S7UWZ8,Histone lysine methyltransferase SET1,507601
+GGDDR,G2E0G9,Putative uncharacterized protein,765913
+GGDDR,V2XL36,DNA-directed RNA polymerase subunit,1381753
+GGDDR,A0A024YUA5,Choline dehydrogenase,1460244
+GGDDR,J9ISW6,Zinc knuckle family protein,1172189
+GGDDR,C4ZHP7,Uncharacterized protein,515619
+GGDDR,A0A0S4QHP2,NADH-quinone oxidoreductase subunit L,1747450
+GGDDR,A0A0P1B6Y9,Uncharacterized protein,4781
+GGDDR,Q0E4Q2,Os02g0105600 protein,39947
+GGDDR,Q0JW59,Putative MerR-family transcriptional regulator,1889
+GGDDR,A0A0B4HKD1,Topoisomerase family protein TRF4,1276136
+GGDDR,F7PID3,Myo-inositol 2-dehydrogenase,1033806
+GGDDR,I1PRA6,Uncharacterized protein,4538
+GGDDR,C0NUW7,Uncharacterized protein,447093
+GGDDR,M0AH92,Oligopeptide/dipeptide ABC transporter ATPase,29540
+GGDDR,C3ZP12,Putative uncharacterized protein,7739
+GGDDR,A0A0P6E7E2,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5QAE7,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5ENF8,Eukaryotic translation initiation factor 4 gamma-like protein,35525
+GGDDR,A0A086QKE9,Histone lysine methyltransferase SET1,933077
+GGDDR,A0A086Q333,Uncharacterized protein,933077
+GGDDR,A0A0D2BB62,Uncharacterized protein,91928
+GGDDR,A0A0L0CFT8,Uncharacterized protein,7375
+GGDDR,Q7NUK0,Probable tldD protein family,243365
+GGDDR,A0A091CPE2,"39S ribosomal protein L50, mitochondrial",885580
+GGDDR,A2QZB0,"Aspergillus niger contig An12c0120, genomic contig",425011
+GGDDR,K8ZBB6,Px domain containing protein,1093141
+GGDDR,A0A0P7C244,Beta-ketoacyl synthase,269536
+GGDDR,J1RBJ8,Uncharacterized protein,745408
+GGDDR,D9XLI1,IclR family transcriptional regulator,467200
+GGDDR,A0A0D2JVW3,Uncharacterized protein,145388
+GGDDR,U1I1K5,Uncharacterized protein,1263415
+GGDDR,A0A0F5VHK3,Transcriptional regulator,265726
+GGDDR,A0A067N710,Uncharacterized protein,1137138
+GGDDR,A0A0Q9NBT9,Glyceraldehyde-3-phosphate dehydrogenase,1736400
+GGDDR,A5AVV8,Putative uncharacterized protein,29760
+GGDDR,A0A0N9N227,Cytidine deaminase,1136941
+GGDDR,W6KU55,Uncharacterized protein,134006
+GGDDR,A6DRG3,Serine/threonine protein kinase,313628
+GGDDR,A0A0E0N8L5,Uncharacterized protein,4529
+GGDDR,A0A0E0R5D4,Uncharacterized protein,4529
+GGDDR,A0A0R1E8W2,"Uncharacterized protein, isoform C",7245
+GGDDR,A0A0F9QEV6,Uncharacterized protein,412755
+GGDDR,D2A114,Uncharacterized protein,7070
+GGDDR,A0A0B4K6K1,"Rm62, isoform M",7227
+GGDDR,F6EN02,Uncharacterized protein,443218
+GGDDR,A6R4V6,Uncharacterized protein,339724
+GGDDR,Q4ZRV1,Hemolysin-type calcium-binding region:hemolysin-type calcium binding related protein,205918
+GGDDR,K3WQG4,Uncharacterized protein,431595
+GGDDR,Q38AK9,Putative uncharacterized protein,185431
+GGDDR,A0A0N0Y2P9,Membrane protein,1609099
+GGDDR,A0A0E0C1M5,Poly [ADP-ribose] polymerase,40149
+GGDDR,A0A077MC92,Beta-glucosidase-like glycosyl hydrolase,1193518
+GGDDR,A0A0T7G288,Sn-glycerol-3-phosphate import ATP-binding protein UgpC,323656
+GGDDR,A0A0F8ADU0,Eukaryotic translation initiation factor 3 subunit A,215358
+GGDDR,A0A0A9GUM8,Uncharacterized protein,35708
+GGDDR,W5MU35,Eukaryotic translation initiation factor 3 subunit A,7918
+GGDDR,A0A0Q7HQE7,Nucleoside-diphosphate sugar epimerase,1736448
+GGDDR,M4BZI4,Uncharacterized protein,559515
+GGDDR,L7LLU3,Uncharacterized protein,1223544
+GGDDR,C5JQB8,Transformer-SR ribonucleoprotein,559298
+GGDDR,A0A0A8GPR3,GntR family transcriptional regulator protein,1432049
+GGDDR,G2H0L1,Peptidase C80 protein,1005043
+GGDDR,H4FEC3,Animal heme peroxidase,1125979
+GGDDR,K6A6S5,Uncharacterized protein,999420
+GGDDR,F7VQG3,"WGS project CABT00000000 data, contig 2.4",771870
+GGDDR,W9CGN8,Branchpoint-bridging protein,1432307
+GGDDR,A0A0G4P8F8,Six-hairpin glycosidase-like,1429867
+GGDDR,A6GJ93,Putative RNA polymerase ECF-subfamily sigma factor,391625
+GGDDR,A0A0P5MYP8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5PN71,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GC38,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BCZ0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GQV9,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,U7PQG3,Uncharacterized protein,1391915
+GGDDR,M1GUW7,VP1,1289939
+GGDDR,A0A0U3BVA0,Homoserine O-succinyltransferase,1585
+GGDDR,A0A118JXP4,"Ubiquitin-conjugating enzyme, E2",59895
+GGDDR,U5Q7K7,WbqC-Like Family Protein,1400053
+GGDDR,U5QBF9,30S ribosomal protein S3,1400053
+GGDDR,A0A0C2ITY5,Uncharacterized protein,1398154
+GGDDR,A0A0H8U7J8,Uncharacterised protein,666
+GGDDR,V6VAW2,ATP-dependent RNA helicase DeaD,1258583
+GGDDR,A9SW36,Predicted protein,3218
+GGDDR,A0A0N5C189,Uncharacterized protein,174720
+GGDDR,G6A1P1,Uncharacterized protein,909943
+GGDDR,A0A0A8QZ50,Uncharacterized protein,1744
+GGDDR,A5BW39,Putative uncharacterized protein,29760
+GGDDR,S9S462,Uncharacterized protein,1316936
+GGDDR,L0JKZ7,Uncharacterized protein,797303
+GGDDR,A0A034WG23,ATP-dependent RNA helicase p62,27457
+GGDDR,M7XST2,Uncharacterized protein,1130832
+GGDDR,A0A0D2GSW6,Uncharacterized protein,1442371
+GGDDR,A0A0X3XTQ4,DeoR family transcriptional regulator,1609103
+GGDDR,S8DQC0,Uncharacterized protein,743788
+GGDDR,A0A058ZM83,"Calcium binding hemolysin protein, putative",1461693
+GGDDR,A0A0D2MPV3,Uncharacterized protein,29730
+GGDDR,I2H0A5,Uncharacterized protein,1071380
+GGDDR,S3AVA2,Integral membrane protein MviN,1203592
+GGDDR,S8EUR1,Histone lysine methyltransferase SET1,508771
+GGDDR,R6EWK7,Thymidylate kinase,1262748
+GGDDR,A0A0C3QMX7,Uncharacterized protein,1051891
+GGDDR,Q0RAQ2,Uncharacterized protein,326424
+GGDDR,E3BE53,DEAD/DEAH box helicase,188626
+GGDDR,A0A022QN60,Uncharacterized protein,4155
+GGDDR,X7F179,Uncharacterized protein,1449351
+GGDDR,V6UB55,MerR family transcriptional regulator,1396518
+GGDDR,D6AK99,Putative uncharacterized protein,457431
+GGDDR,W5N7K8,Uncharacterized protein,7918
+GGDDR,L5NKR5,Transducer protein HemAT,1243180
+GGDDR,S7W8F0,"Splicing factor, CC1 family protein",507601
+GGDDR,E6J8H2,Uncharacterized protein,910954
+GGDDR,E1Z458,Putative uncharacterized protein,554065
+GGDDR,W8B556,ATP-dependent RNA helicase p62,7213
+GGDDR,A0A0K0CXX5,Uncharacterized protein,6313
+GGDDR,C6RSD3,"Site-specific recombinase, phage integrase family",596318
+GGDDR,J9IVV1,Poly [ADP-ribose] polymerase,1172189
+GGDDR,A0A062VD24,Uncharacterized protein,1280954
+GGDDR,A0A061BFI2,RHTO0S19e03136g1_1,5286
+GGDDR,M7ZZ72,Uncharacterized protein,4572
+GGDDR,A0A0H5JVE1,Lipoprotein,28450
+GGDDR,A0A068EW88,Uncharacterized protein,1510155
+GGDDR,I1HPM4,Uncharacterized protein,15368
+GGDDR,A0A0P5HDQ7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,E9HM79,Putative uncharacterized protein,6669
+GGDDR,A0A022PI81,RtxA repeat/Peptidase C80 family,1393736
+GGDDR,W4HAY5,Uncharacterized protein,112090
+GGDDR,A0A0P5MAE1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BCF9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5K1T5,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6EKM9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5T8P0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,M2UEU2,Uncharacterized protein,701091
+GGDDR,A0A0P5GDB9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5G6N3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6F4Q0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5KCU4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,R4LIS2,Uncharacterized protein,649831
+GGDDR,M3AX77,Uncharacterized protein,383855
+GGDDR,A8IQZ9,Predicted protein,3055
+GGDDR,A0A0S4L7N0,Putative Ig family protein,1742973
+GGDDR,A0A0E9MHJ7,Uncharacterized protein,1632857
+GGDDR,A0A0F4GSY6,Uncharacterized protein,1047168
+GGDDR,A0A086LAH3,Uncharacterized protein,943167
+GGDDR,K8NWR1,Uncharacterized protein,883079
+GGDDR,A0A091MSH2,DDB1-and CUL4-associated factor 5,57068
+GGDDR,A0A0Q7KLP0,Molybdopterin-binding protein,1736540
+GGDDR,C5CP94,Putative chromosome segregation ATPase,543728
+GGDDR,K0RD01,Uncharacterized protein,159749
+GGDDR,R0ETJ5,Uncharacterized protein,81985
+GGDDR,A0A0L1LRA0,Glyceraldehyde-3-phosphate dehydrogenase,1676590
+GGDDR,G2YAM4,Uncharacterized protein,999810
+GGDDR,A0A034WCB1,Protein lingerer,27457
+GGDDR,E4N0X9,Uncharacterized protein,452652
+GGDDR,A0A089XBP5,Oxidoreductase,1907
+GGDDR,A0A0P7X8T5,Uncharacterized protein,113540
+GGDDR,D8Q7N4,Putative uncharacterized protein,578458
+GGDDR,A0A0K8UJB1,ATP-dependent RNA helicase p62,174628
+GGDDR,A0A070DEL4,Phage tail protein,1446599
+GGDDR,G4TAA4,Uncharacterized protein,1109443
+GGDDR,A0A029H6L4,Tail fiber domain protein,1444258
+GGDDR,A0A0A9JXV6,Uncharacterized protein,35708
+GGDDR,H8NTS0,Uncharacterized protein,1151116
+GGDDR,A0A0D9L5I2,Six-hairpin glycosidase-like protein,60172
+GGDDR,G5KAY1,"Transporter, major facilitator family protein",875093
+GGDDR,A0A0X3X7V3,MerR family transcriptional regulator,68280
+GGDDR,A0A139Y922,"Splicing factor, CC1 family protein",1074872
+GGDDR,A5KCK3,Phist protein (Pf-fam-b),126793
+GGDDR,M0GFY7,Transducer protein HemAT,1227461
+GGDDR,A0A0S4R0G7,Sulfotransferase family protein,1747450
+GGDDR,A0A0D3GE18,Uncharacterized protein,65489
+GGDDR,A0A0S4IWC0,"Exoribonuclease 2, putative",75058
+GGDDR,Q5VN70,Putative NBS-LRR disease resistance protein,39947
+GGDDR,D6E0S9,Uncharacterized protein,657318
+GGDDR,A0A0P1FIF5,Uncharacterized protein,266809
+GGDDR,B9Q843,SET domain-containing protein / Bromodomain-containing protein,432359
+GGDDR,V4RH80,3-ketoacyl-CoA synthase,85681
+GGDDR,A0A0P9YB18,Uncharacterized protein,59511
+GGDDR,W9RZM5,Glycerophosphoryl diester phosphodiesterase,981085
+GGDDR,A0A0Q5N1M0,Glyceraldehyde-3-phosphate dehydrogenase,1736342
+GGDDR,A0A0N0APC0,Erythromycin esterase,1415542
+GGDDR,A0A0P5QP28,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5H338,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GFG4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LS20,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A103XLS3,Auxin-responsive protein,59895
+GGDDR,D7FKJ2,Uncharacterized protein,2880
+GGDDR,A0A0B5ENM8,Sodium-coupled permease,1081613
+GGDDR,A0A0M0U806,Exocyst complex component SEC3,100816
+GGDDR,G3XVF4,Uncharacterized protein,380704
+GGDDR,G0S9Q1,Putative uncharacterized protein,759272
+GGDDR,L0NJK8,Uncharacterized protein,1125847
+GGDDR,A0A0F0KY20,Putative kinase inhibitor protein,582680
+GGDDR,A0A0U1NHK8,Uncharacterized protein,282199
+GGDDR,Q4RYX4,"Chromosome 16 SCAF14974, whole genome shotgun sequence",99883
+GGDDR,L2GW01,Uncharacterized protein,948595
+GGDDR,K1VL37,Splicing factor SF1,1220162
+GGDDR,A0A087K9S9,MerR family transcriptional regulator,1525753
+GGDDR,A0A0E0R5D2,Uncharacterized protein,4529
+GGDDR,A0A0F7TZJ1,Putative Transformer-SR ribonucleoprotein,104259
+GGDDR,J9K0G1,Uncharacterized protein,7029
+GGDDR,A0A024LZK8,Clp protease subunit,1802
+GGDDR,A0A0E0LCA3,Uncharacterized protein,4537
+GGDDR,A0A0D2ZWZ5,Uncharacterized protein,109376
+GGDDR,E2RVJ1,S12 family peptidase,690348
+GGDDR,A0A0B1S5V6,Non-specific lipid-transfer family protein,61180
+GGDDR,A0A086KLL0,Histone lysine methyltransferase SET1,1130820
+GGDDR,B6IN94,Alcohol dehydrogenase (Acceptor),414684
+GGDDR,L8HGW6,RNA recognition domain containing protein,1257118
+GGDDR,A0A118PNY4,Uncharacterized protein,1636424
+GGDDR,A0A0Q9J6F4,Nitroreductase,1736390
+GGDDR,I2WJY0,Uncharacterized protein,869686
+GGDDR,A0A0C3CLZ6,Uncharacterized protein,686832
+GGDDR,A0A086KDW0,Histone lysine methyltransferase SET1,943119
+GGDDR,T0S394,Uncharacterized protein,1156394
+GGDDR,A0A091HJX2,DDB1-and CUL4-associated factor 5,9244
+GGDDR,M0GST8,Transducer protein HemAT,1230452
+GGDDR,A0A0S4QNR8,Acyl transferase domain-containing protein,1747450
+GGDDR,Q5ZDJ4,Putative uncharacterized protein P0686E09.25,39947
+GGDDR,D7LHC1,Putative uncharacterized protein,81972
+GGDDR,W1N7K0,Transcriptional regulator,1178482
+GGDDR,A0A0N0DRY5,Uncharacterized protein,157538
+GGDDR,A0A034WDW4,Protein lingerer,27457
+GGDDR,K4ABN8,Uncharacterized protein,4555
+GGDDR,A0A0E1W3B8,Putative lipoprotein,320371
+GGDDR,A0A0S9RBI0,Uncharacterized protein,1736324
+GGDDR,A0A0F2SWS5,RNA helicase,1615590
+GGDDR,Q83WG3,Cytochrome P450,171258
+GGDDR,A0A017HQN5,Histidine kinase,442562
+GGDDR,A0A0P6AT77,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,M2URF9,Uncharacterized protein,701091
+GGDDR,R6UIV1,Uncharacterized protein,1263079
+GGDDR,A0A0W0EZ66,DNA-directed RNA polymerase subunit,221103
+GGDDR,D9QSI5,Sulfate adenylyltransferase subunit 1,574087
+GGDDR,A0A0A8WRJ2,Uncharacterized protein,1266765
+GGDDR,W0TDC9,Eukaryotic initiation factor 4F subunit p150,1003335
+GGDDR,X5LBS3,AclJ protein,1209984
+GGDDR,A0A0P7C0K0,NADH-quinone oxidoreductase subunit L,269536
+GGDDR,W6PYJ9,"Genomic scaffold, ProqFM164S01",1365484
+GGDDR,E6W9I5,Uncharacterized protein,592316
+GGDDR,W0RT62,Uncharacterized protein,861299
+GGDDR,R5VHC2,Uncharacterized protein,1263089
+GGDDR,A0A0V1N761,Protein RMD5-like protein A,268474
+GGDDR,A0A095C720,Diguanylate cyclase domain protein,1120705
+GGDDR,A0A0X3YAL3,Transcriptional regulator,1712383
+GGDDR,A0A0G3IIV0,Uncharacterized protein,1545728
+GGDDR,A0A0M9BRQ4,Uncharacterized protein,1705561
+GGDDR,A0A0V0YHJ7,Protein RMD5-like protein A,6337
+GGDDR,A0A0C3MR62,Dolichyl-phosphate beta-D-mannosyltransferase,58133
+GGDDR,F7QJZ2,TonB-dependent siderophore receptor,709797
+GGDDR,X0W3B0,Uncharacterized protein,412755
+GGDDR,J9LQH9,Uncharacterized protein,7029
+GGDDR,R5CDE8,TonB-dependent receptor plug domain protein,1262743
+GGDDR,A0A0K9NM25,3-ketoacyl-CoA synthase,29655
+GGDDR,A0A0G0P5H8,Transcription termination factor NusA,1619031
+GGDDR,K5ZLW0,Uncharacterized protein,1214225
+GGDDR,W7TG26,Atp-dependent rna helicase ddx42,72520
+GGDDR,A0A0C2WMT4,Uncharacterized protein,946122
+GGDDR,A0A0J9TWH3,MB2 protein,1035514
+GGDDR,D0A3J0,Uncharacterized protein,679716
+GGDDR,L8GSV9,Eukaryotic translation initiation factor 3 subunit A,1257118
+GGDDR,A0A0M8XAZ1,Serine/threonine protein kinase,1415549
+GGDDR,A0A0E0C1M4,Poly [ADP-ribose] polymerase,40149
+GGDDR,A0A0Q7AHW6,Uncharacterized protein,1736528
+GGDDR,I5C1K9,TonB-dependent receptor plug,1189621
+GGDDR,E3DNK8,Sulfate adenylyltransferase subunit 1,572479
+GGDDR,D6ATD9,Putative uncharacterized protein,457431
+GGDDR,A0A091UF34,DDB1-and CUL4-associated factor 5,9218
+GGDDR,Q2CKG1,Uncharacterized protein,314256
+GGDDR,E1L2M2,Tat pathway signal sequence domain protein,866774
+GGDDR,A0A087H5Y0,Uncharacterized protein,50452
+GGDDR,M0H430,Transducer protein HemAT,1227459
+GGDDR,A0A067FA09,Uncharacterized protein,2711
+GGDDR,A5K9J3,"MB2 protein, putative",126793
+GGDDR,A0A086NBD2,tRNA-dihydrouridine synthase 3,5530
+GGDDR,A0A086NYW8,Topoisomerase family protein TRF4,5530
+GGDDR,A0A0E3ERT5,Uncharacterized protein,1493509
+GGDDR,I1IME1,Uncharacterized protein,15368
+GGDDR,A0A0J9VAC8,Phist protein (Pf-fam-b),1077284
+GGDDR,S7ZZH6,Uncharacterized protein,1284197
+GGDDR,A0A0D0DML8,"Unplaced genomic scaffold scaffold_410, whole genome shotgun sequence",930991
+GGDDR,A0A090BHF5,Eukaryotic initiation factor 4F subunit p150,4911
+GGDDR,A0A0P5PPJ4,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GZR8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8DEN3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0H1BLY2,Uncharacterized protein,1246674
+GGDDR,A0A100ZX75,Nitroreductase,1772277
+GGDDR,B3NYJ8,GG10666,7220
+GGDDR,A0A0L0CC00,Uncharacterized protein,7375
+GGDDR,M5QV65,MarR family transcriptional regulator,690871
+GGDDR,Q0TWB6,Uncharacterized protein,321614
+GGDDR,A0A0E0BGD5,Uncharacterized protein,40148
+GGDDR,B9R8R5,MLO-like protein,3988
+GGDDR,W2SFB5,Uncharacterized protein,1220924
+GGDDR,A0A0K0Y788,Uncharacterized protein,1458307
+GGDDR,F0JYJ2,Homoserine O-succinyltransferase,353496
+GGDDR,A0A0U2N9Y4,Uncharacterized protein,1695218
+GGDDR,A0A0B1RK85,Serine protease,713612
+GGDDR,H0R1Y9,Cell division protein FtsK,1077974
+GGDDR,A0A0R2SGD7,Uncharacterized protein,1655591
+GGDDR,A0A095B7F2,Uncharacterized protein,1120705
+GGDDR,A0A0D1AW18,"SPG23_c18, whole genome shotgun sequence",1610703
+GGDDR,A0A0D6VG72,Uncharacterized protein,1911
+GGDDR,A4S0R1,Uncharacterized protein,436017
+GGDDR,A0A0E0N8L8,Uncharacterized protein,4529
+GGDDR,E9EMY9,Dihydrouridine synthase,655844
+GGDDR,A0A0F9CBR8,Uncharacterized protein,412755
+GGDDR,M0FVX9,Transducer protein HemAT,1227463
+GGDDR,A0A0E4FY13,Single-stranded DNA-binding protein,1355477
+GGDDR,R8BSG9,Putative microfibril-associated protein,1286976
+GGDDR,A0A067CF18,Uncharacterized protein,695850
+GGDDR,A0A0M9GIK1,Histidine kinase,50340
+GGDDR,S3BSC2,Uncharacterized protein,1203592
+GGDDR,A0A0C2QMR4,Addiction module toxin RelE,1233231
+GGDDR,X6M7F5,Uncharacterized protein,46433
+GGDDR,A0A0L8GEJ1,Uncharacterized protein,37653
+GGDDR,A0A0N0YI89,MerR family transcriptional regulator,1519471
+GGDDR,A0A0G4EV04,Uncharacterized protein,1169540
+GGDDR,S7UVI1,Uncharacterized protein,507601
+GGDDR,A0A087AEZ7,Superfamily II DNA and RNA helicase,35760
+GGDDR,C1MZW6,Predicted protein,564608
+GGDDR,F7Q821,Protein-disulfide isomerase,1033802
+GGDDR,A0A0C9X5E1,"Unplaced genomic scaffold K443scaffold_94, whole genome shotgun sequence",1095629
+GGDDR,A0A095RKW9,Putative lipoprotein,28450
+GGDDR,A0A0D1JTQ8,N-acetylmuramoyl-L-alanine amidase,280871
+GGDDR,A0A0D7XCE7,Sulfonate ABC transporter substrate-binding protein,1390
+GGDDR,A0A094RXV8,Uncharacterized protein,1504320
+GGDDR,A0A0Q9NVJ7,Glyceraldehyde-3-phosphate dehydrogenase,1736403
+GGDDR,C6HA32,Transformer-SR ribonucleoprotein,544712
+GGDDR,F0M4Y9,Glyceraldehyde-3-phosphate dehydrogenase,930171
+GGDDR,A0A0P5Q4D1,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GXD9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5QYU0,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GX17,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,D6Z0R3,"Efflux transporter, RND family, MFP subunit",589865
+GGDDR,A0A0Q8ZSW3,Uncharacterized protein,1736503
+GGDDR,A0A0D9WBZ8,Uncharacterized protein,77586
+GGDDR,A0A0E0BGE0,Uncharacterized protein,40148
+GGDDR,D8LNT1,Uncharacterized protein,2880
+GGDDR,W7A5I5,Uncharacterized protein,930090
+GGDDR,A0A099JPL2,Nitroreductase,1001240
+GGDDR,W8H8A8,Deazaflavin-dependent nitroreductase,543736
+GGDDR,A0A029IJ84,Tail fiber domain protein,1444228
+GGDDR,A0A0Q9PYI1,Uncharacterized protein,1736408
+GGDDR,A0A074L949,Spore gernimation protein,1406
+GGDDR,A9DWG7,Rhizobiocin,391624
+GGDDR,F0UKZ9,Transformer-SR ribonucleoprotein,544711
+GGDDR,J6F0S8,Splicing factor SF1,1186058
+GGDDR,A0A074J879,3-oxoadipate:succinyl-CoA transferase subunit B,1353532
+GGDDR,A0A0D6V6K8,Uncharacterized protein,1911
+GGDDR,Q013A5,rRNA adenine N(6)-methyltransferase,70448
+GGDDR,M7WHY4,Transformer-SR ribonucleoprotein,1130832
+GGDDR,U5ETT3,Putative bancal,1370023
+GGDDR,A0A0B4K6A3,"Rm62, isoform L",7227
+GGDDR,G2RDB8,Uncharacterized protein,578455
+GGDDR,X0Q2F6,Uncharacterized protein,1219028
+GGDDR,A0A0M9ZUV1,Primase,1519491
+GGDDR,A0A0H4VNZ8,Pseudouridine synthase,1379910
+GGDDR,M5S882,Polyribonucleotide nucleotidyltransferase,1265738
+GGDDR,A0A076K311,Uncharacterized protein,666509
+GGDDR,A0A0F7PVL3,ATPase family protein associated with various cellular activities (AAA),1620421
+GGDDR,A0A0U5H5S6,ArNOG06768 family NADH-binding domain protein,1407499
+GGDDR,E4MWM7,"mRNA, clone: RTFL01-12-A24",98038
+GGDDR,A0A0P0WIN1,Os05g0182150 protein,39947
+GGDDR,Q16WM6,AAEL009179-PA,7159
+GGDDR,Q6DFK7,MGC81268 protein,8355
+GGDDR,A0A061ADE0,RHTO0S01e01486g1_1,5286
+GGDDR,J9VZW4,Uncharacterized protein,235443
+GGDDR,A0A0N0VD80,Uncharacterized protein,157538
+GGDDR,I2WDL5,Uncharacterized protein,869686
+GGDDR,A0A0T7BDY1,Putative lipoprotein,1249664
+GGDDR,A0A060S7G5,Uncharacterized protein,5643
+GGDDR,A0A0J9SE10,MB2 protein,1077284
+GGDDR,M8DB46,Uncharacterized protein,1300222
+GGDDR,H1V8E4,Transformer-SR ribonucleoprotein,759273
+GGDDR,A0A0P6HE34,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5ENS9,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5LPR0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,J3N6N9,Uncharacterized protein,4533
+GGDDR,R0FGH4,Uncharacterized protein,1265309
+GGDDR,W2EU23,Histidinol phosphatase,316330
+GGDDR,Q9Z571,Putative oxidoreductase,100226
+GGDDR,A0A099TBD6,Uncharacterized protein,1225651
+GGDDR,A0A084GAN1,Uncharacterized protein,563466
+GGDDR,L7HSK4,Metalloprotease 1,1143189
+GGDDR,A0A0E0BGD9,Uncharacterized protein,40148
+GGDDR,A0A0E0BGD8,Uncharacterized protein,40148
+GGDDR,D7FPC0,"Glycosyl transferase, group 1",2880
+GGDDR,A0A0C2J941,Uncharacterized protein,1398154
+GGDDR,I1Q2T2,Uncharacterized protein,4538
+GGDDR,A0A0B4XYM9,Glutaconate CoA transferase subunit B,1123366
+GGDDR,Q3JUS1,Uncharacterized protein,320372
+GGDDR,A0A0F0GP36,Uncharacterized protein,68170
+GGDDR,A0A093NTT6,DDB1-and CUL4-associated factor 5,9238
+GGDDR,A0A0M0UKG9,Fumitremorgin C synthase,100816
+GGDDR,G9QKE0,Uncharacterized protein,665952
+GGDDR,A0A0S8JUF2,Uncharacterized protein,1703352
+GGDDR,G8SDI5,HtpX-like probable protease,134676
+GGDDR,A0A088AAP6,Uncharacterized protein,7460
+GGDDR,S8B0L6,Uncharacterized protein,933388
+GGDDR,A0A061H927,Uncharacterized protein,1277687
+GGDDR,V4KNE4,Uncharacterized protein,72664
+GGDDR,A0A0D9P4G3,Uncharacterized protein,1291518
+GGDDR,A0A034WEI6,ATP-dependent RNA helicase p62,27457
+GGDDR,A0A0K9NPH2,3-ketoacyl-CoA synthase,29655
+GGDDR,A0A0L0K4I8,Nucleoside-diphosphate sugar epimerase,146819
+GGDDR,A0A0D3BSC3,Uncharacterized protein,109376
+GGDDR,W7INM5,Ribonuclease P protein component,909613
+GGDDR,A0A0J9WDL0,Uncharacterized protein,1035514
+GGDDR,A0A0N0XYQ3,Transcriptional regulator,1609099
+GGDDR,A0A0J9U5J5,Phist protein (Pf-fam-b),1035514
+GGDDR,A0A044V8Q6,Uncharacterized protein,6282
+GGDDR,A0A044SDJ4,Uncharacterized protein,6282
+GGDDR,U1QJ77,Superfamily I DNA and RNA helicase,1070774
+GGDDR,M3B840,RNA-binding domain-containing protein,692275
+GGDDR,H2A159,M02 protein,10366
+GGDDR,Q0RP25,Putative Glycosyl transferase,326424
+GGDDR,A0A078GU49,BnaC07g32170D protein,3708
+GGDDR,G8DP02,RNA-dependent RNA polymerase,40060
+GGDDR,A0A0E0FZW7,Uncharacterized protein,4536
+GGDDR,W8ATQ1,ATP-dependent RNA helicase p62,7213
+GGDDR,D6K2B5,MFS superfamily transporter,645465
+GGDDR,A0A0W7VK06,Uncharacterized protein,398673
+GGDDR,A0A0L0G1M9,Uncharacterized protein,667725
+GGDDR,A0A0P9ZTI9,Sensor histidine kinase,55398
+GGDDR,W7EVE6,Uncharacterized protein,930091
+GGDDR,X5LX55,INTERB,6035
+GGDDR,A0A0M9G967,Putative mitochondrial Helicase-like protein,157538
+GGDDR,A0A093BY66,DDB1-and CUL4-associated factor 5,121530
+GGDDR,H2TQE9,Uncharacterized protein,31033
+GGDDR,S9WIB8,DNA topoisomerase 2,59799
+GGDDR,A0A0F4ZCC0,Uncharacterized protein,72032
+GGDDR,A0A117V3U7,AMP-dependent synthetase,1739114
+GGDDR,A0A0H1SUJ2,TetR family transcriptional regulator,1562887
+GGDDR,A0A0G4PQU2,Str. FM013,1429867
+GGDDR,M7D9D1,Outer membrane receptor for transport of vitamin B,1288826
+GGDDR,A8LUK8,Uncharacterized protein,398580
+GGDDR,A0A087KRN1,Endonuclease,1524467
+GGDDR,H3A116,Uncharacterized protein,7897
+GGDDR,R7JZ00,Uncharacterized protein,1262790
+GGDDR,A0A0P5U663,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P4ZK52,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0Q4VZP0,Uncharacterized protein,1736312
+GGDDR,U7Q4C7,Uncharacterized protein,1391915
+GGDDR,W2EQS5,Uncharacterized protein,316330
+GGDDR,R7SIQ9,Uncharacterized protein,732165
+GGDDR,A0A0J9T4K3,Phist protein (Pf-fam-b),1033975
+GGDDR,Q47EA3,Uncharacterized protein,159087
+GGDDR,A0A0U3D5Z5,Homoserine O-succinyltransferase,1585
+GGDDR,A0A0S8ATE2,Uncharacterized protein,1704025
+GGDDR,B9TJP3,Putative uncharacterized protein,3988
+GGDDR,W6JXZ7,ThiJ/PfpI domain protein,1193182
+GGDDR,T5ALZ8,Serine/threonine protein kinase,911162
+GGDDR,L8PB11,Putative SyrP protein,1160705
+GGDDR,A0A0D8HQD2,Protoporphyrinogen oxidase,103808
+GGDDR,W4VI05,Carboxylesterase,1298598
+GGDDR,A0A0A0CMQ3,Uncharacterized protein,29488
+GGDDR,A0A067XRE1,Uncharacterized protein,1357714
+GGDDR,A0A0P0YZQ9,Uncharacterized protein,182270
+GGDDR,A0A090CC79,Putative Glycoside Hydrolase Family 55,515849
+GGDDR,D2V443,RRM domain-containing protein,5762
+GGDDR,A0A0N0N2C5,6-deoxyerythronolide-B synthase,1592327
+GGDDR,A8USZ8,Uncharacterized protein,392423
+GGDDR,A0A0U3LYH1,MerR family transcriptional regulator,1172567
+GGDDR,A0A117L3J9,"Oligopeptide ABC transporter, permease protein",93930
+GGDDR,A0A0U3PC69,Glyceraldehyde-3-phosphate dehydrogenase,121292
+GGDDR,A0A010QJH0,RNA recognition domain-containing protein,1445577
+GGDDR,C3PKS7,Putative membrane protein,548476
+GGDDR,D6XX85,"RNA polymerase, sigma-24 subunit, ECF subfamily",439292
+GGDDR,A0A0Q9NQY4,Glyceraldehyde-3-phosphate dehydrogenase,1736401
+GGDDR,A6RGP3,Uncharacterized protein,339724
+GGDDR,F2T7A1,Transformer-SR ribonucleoprotein,653446
+GGDDR,M9RM16,Uncharacterized protein,391616
+GGDDR,A0A0L0SYD1,Uncharacterized protein,578462
+GGDDR,Q1YI36,Uncharacterized protein,287752
+GGDDR,X7F1K2,Uncharacterized protein,1449351
+GGDDR,A0A0C2FH01,Nitroreductase,183763
+GGDDR,A0A0B7NYN6,Uncharacterized protein,66712
+GGDDR,A0A067ESP7,3-ketoacyl-CoA synthase,2711
+GGDDR,A0A0Q9NP67,Glyceraldehyde-3-phosphate dehydrogenase,1736402
+GGDDR,A0A0C9XVS5,"Unplaced genomic scaffold K443scaffold_67, whole genome shotgun sequence",1095629
+GGDDR,A0A0A2SP02,MarR family transcriptional regulator,198467
+GGDDR,F1TJ41,AMP-binding enzyme,525370
+GGDDR,V4SFT9,Uncharacterized protein,85681
+GGDDR,C5FED1,Uncharacterized protein,554155
+GGDDR,A0A0P5FN06,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5ILS6,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,M7N8S1,Uncharacterized protein,1276920
+GGDDR,H6C980,Putative uncharacterized protein,858893
+GGDDR,A0A0D9YL36,Uncharacterized protein,40148
+GGDDR,V9XLM8,Serine protease,1435356
+GGDDR,A0A086LZC1,Uncharacterized protein,935652
+GGDDR,C4L0R8,"Transcriptional regulator, PadR-like family",360911
+GGDDR,U1GAE4,Uncharacterized protein,1263415
+GGDDR,A0A068WLM7,E3 ubiquitin protein ligase UBR4,6210
+GGDDR,S8EBC9,Uncharacterized protein,192259
+GGDDR,A0A085TWC9,Uncharacterized protein,1317124
+GGDDR,Q4T6W6,Eukaryotic translation initiation factor 3 subunit A,99883
+GGDDR,A0A0Q4GBA0,RNA-binding transcriptional accessory protein,1735686
+GGDDR,W4Z8K6,Uncharacterized protein,7668
+GGDDR,S8FFT5,Uncharacterized protein,743788
+GGDDR,A0A0D3D1B5,Uncharacterized protein,109376
+GGDDR,A0A0P7KKV5,Uncharacterized protein,154981
+GGDDR,A0A096M8J3,Uncharacterized protein,48698
+GGDDR,A0A0E3N403,ATP-dependent RNA helicase DeaD,65058
+GGDDR,A0A061SPT7,Uncharacterized protein,83219
+GGDDR,A3QZY9,M02 protein,10366
+GGDDR,H2A233,M02 protein,10366
+GGDDR,A0A0G3AK86,Uncharacterized protein,665007
+GGDDR,J2XNM1,Uncharacterized protein,1144339
+GGDDR,M4A6E6,Uncharacterized protein,8083
+GGDDR,A0A029GKL1,Putative tail fiber protein,1444258
+GGDDR,A0A0J9EGJ0,Uncharacterized protein,742734
+GGDDR,A0A0Q4UEP4,Glycosyl hydrolase family 43,1736309
+GGDDR,M2P030,TPR-repeat-containing protein,1238180
+GGDDR,A0A0Q4FV62,TetR family transcriptional regulator,1735681
+GGDDR,K6URP5,Phist protein,1120755
+GGDDR,A0A078J178,BnaA04g29550D protein,3708
+GGDDR,A0A0B4EVT5,Topoisomerase family protein TRF4,1276135
+GGDDR,A0A093SMB1,Uncharacterized protein,555
+GGDDR,A0A0L7QRF8,Putative chitinase 3,597456
+GGDDR,W8B094,Protein lingerer,7213
+GGDDR,W8BSP6,ATP-dependent RNA helicase p62,7213
+GGDDR,A0A067EFT0,Uncharacterized protein,2711
+GGDDR,M5G8M8,Uncharacterized protein,745407
+GGDDR,C1MM04,Predicted protein,564608
+GGDDR,A0A0P0YBC9,Os12g0553800 protein,39947
+GGDDR,A0A0Q0QSA0,Flagellar protein export ATPase FliI,1061
+GGDDR,A0A0C4DL19,Uncharacterized protein,644358
+GGDDR,J9EZ08,Uncharacterized protein,1172189
+GGDDR,A0A0C1SG10,Phytoene dehydrogenase,1571774
+GGDDR,A0A0Q7VVB4,1-deoxy-D-xylulose-5-phosphate synthase,1736470
+GGDDR,A0A0A1UVX5,tRNA-dihydrouridine synthase family protein,568076
+GGDDR,S7W2E5,Uncharacterized protein,1348338
+GGDDR,A0A0J9F1K4,Uncharacterized protein,171439
+GGDDR,L0A0Q1,Uncharacterized protein,937777
+GGDDR,A0A0P9IND4,Hemolysin-type calcium-binding region:hemolysin-type calcium binding related protein,192087
+GGDDR,A0A0P5KGA7,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GCB2,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6FKW9,Uncharacterized protein,35525
+GGDDR,A0A0Q9QF97,Uncharacterized protein,1736409
+GGDDR,A0A0P6EHH5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5IYL5,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5ZZW8,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,B7G0T8,Eukaryotic translation initiation factor 3 subunit A,556484
+GGDDR,A0A093Z727,Uncharacterized protein,1420902
+GGDDR,L7JIA1,Metalloprotease 1,1143193
+GGDDR,A0A0D0PJ15,Hemolysin-type calcium binding protein,1123501
+GGDDR,R6V8M6,Uncharacterized protein,1262946
+GGDDR,R4L8H6,Uncharacterized protein,649831
+GGDDR,A0A0C2J1Z3,Exocyst complex component EXO84,1398154
+GGDDR,A2DA51,CAMK family protein kinase,5722
+GGDDR,A0A0F6W943,RNA polymerase sigma factor RpoE,927083
+GGDDR,H2LKF2,Uncharacterized protein,8090
+GGDDR,A0A0Q6MK58,Uncharacterized protein,1736511
+GGDDR,A0A024UBN7,Uncharacterized protein,157072
+GGDDR,M7CIX4,DDB1-and CUL4-associated factor 5,8469
+GGDDR,A0A023X7N4,"CydD: thiol reductant ABC exporter, CydD subunit",42256
+GGDDR,A0A086SX36,Conserved oligomeric Golgi complex subunit-like protein,857340
+GGDDR,A0A0E0N8L2,Uncharacterized protein,4529
+GGDDR,A0A0D9PC91,Uncharacterized protein,1291518
+GGDDR,A0A0M8YJF0,Peptidase,1519495
+GGDDR,A0A0U3QK09,Carnitine dehydratase,121292
+GGDDR,G8PS80,Uncharacterized protein,911045
+GGDDR,D4J466,Uncharacterized protein,717962
+GGDDR,W7T372,Px domain containing protein,72520
+GGDDR,W8YS03,Putative ribosome biogenesis GTPase RsgA 2,483908
+GGDDR,A0A0B6ZBZ4,Uncharacterized protein,1028688
+GGDDR,A0A0D2P2N9,Uncharacterized protein,29730
+GGDDR,A0A0N5DZ99,Uncharacterized protein,70415
+GGDDR,S3BBP8,Uncharacterized protein,1203592
+GGDDR,A0A0B0CZU4,Glutamate-rich protein GrpB,1543706
+GGDDR,K6WW42,Uncharacterized protein,1108045
+GGDDR,A0A0K3BBW4,Uncharacterized protein,703222
+GGDDR,V6DWC1,Uncharacterized protein,1173487
+GGDDR,F9WKJ9,Putative uncharacterized protein,1055687
+GGDDR,A0A0A9ULN3,Uncharacterized protein,35708
+GGDDR,A0A0S7K7X8,G3BP2,188132
+GGDDR,E3Q3N9,Hydantoinase/oxoprolinase,645133
+GGDDR,X5Y456,Uncharacterized protein,1287277
+GGDDR,A0A0F3U4K5,Phage tail protein,562
+GGDDR,M0HQM2,Uncharacterized protein,1227459
+GGDDR,A0A0Q5CQ61,Uncharacterized protein,1736329
+GGDDR,H2V8Z8,Eukaryotic translation initiation factor 3 subunit A,31033
+GGDDR,A0A0Q5WSU0,Uncharacterized protein,1736357
+GGDDR,G1X7K7,Uncharacterized protein,756982
+GGDDR,J2XT03,Uncharacterized protein,1144327
+GGDDR,B3QMW1,Amino acid carrier protein,517417
+GGDDR,I9P5Q8,O-antigen polymerase,1195246
+GGDDR,A0A0P5GI58,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0N8BH46,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P6FEB1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0Q6VES5,Uncharacterized protein,1736431
+GGDDR,A0A0P6F3P3,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A074JIV3,Uncharacterized protein,1353528
+GGDDR,K8YQW1,Px domain containing protein,1093141
+GGDDR,G4NAJ0,Nucleoside-diphosphate-sugar epimerase,242507
+GGDDR,A0A101ME08,Uncharacterized protein,48697
+GGDDR,D8LGY8,Uncharacterized protein,2880
+GGDDR,A0A0Q5W8I3,Plasmid partitioning protein RepB,1736355
+GGDDR,A6FQC4,Uncharacterized protein,351016
+GGDDR,Q54CU2,Uncharacterized protein,44689
+GGDDR,J4VU11,Ankyrin repeat protein,655819
+GGDDR,F0XZ32,Putative uncharacterized protein,44056
+GGDDR,F0YF43,Putative uncharacterized protein,44056
+GGDDR,A0A086T1T2,Uncharacterized protein,857340
+GGDDR,A0A0S7YPD1,Uncharacterized protein,1703413
+GGDDR,A0A117RGI3,Uncharacterized protein,285568
+GGDDR,A0A0B2BMK5,Uncharacterized protein,1348852
+GGDDR,A0A0E0N8L3,Uncharacterized protein,4529
+GGDDR,A0A0E0R5D1,Uncharacterized protein,4529
+GGDDR,B2GK44,Putative uncharacterized protein,378753
+GGDDR,C5YSQ9,Putative uncharacterized protein Sb08g004630,4558
+GGDDR,A0A0F6L6M3,Putative lipoprotein,1435370
+GGDDR,A0A0A2W1G1,Dicer-like protein 2,1245745
+GGDDR,A0A0M3J2X2,Uncharacterized protein,6269
+GGDDR,A0A139AM13,Uncharacterized protein,1344416
+GGDDR,V9VYJ4,Uncharacterized protein,999552
+GGDDR,Q0RNG3,Putative ABC transporter ATP-binding protein,326424
+GGDDR,Q1NSV9,Uncharacterized protein,262489
+GGDDR,A0A0J5Q878,Putative calcium-binding protein,1618204
+GGDDR,A0A0C3G121,Uncharacterized protein,765440
+GGDDR,A0A0A9UPE3,Uncharacterized protein,35708
+GGDDR,A0A0M0KL18,Uncharacterized protein,136160
+GGDDR,A0A0F2M6E7,Exocyst complex component 4,1397361
+GGDDR,B8MFL2,"Transformer-SR ribonucleoprotein, putative",441959
+GGDDR,A0A0B4EE19,tRNA-dihydrouridine synthase 3,1276135
+GGDDR,W5N7L4,Uncharacterized protein,7918
+GGDDR,V5XG98,Virginiamycin B lyase,700508
+GGDDR,A0A0S7Z2A6,Uncharacterized protein,1703404
+GGDDR,C1N5W3,Predicted protein,564608
+GGDDR,A0A0N7LRU0,Uncharacterized protein,321267
+GGDDR,A0A087E0P4,Competence protein,762211
+GGDDR,A0A0Q5J7P5,Cell division protein FtsX,1736339
+GGDDR,A0A0B4HCD9,tRNA-dihydrouridine synthase 3,1276136
+GGDDR,G2QL59,Uncharacterized protein,573729
+GGDDR,A0A0E9MRH9,Translation initiation factor IF-2,1219043
+GGDDR,A0A0Q4J6D2,TetR family transcriptional regulator,1736212
+GGDDR,A0A094ASQ4,Uncharacterized protein,1420906
+GGDDR,A0A087R245,DDB1-and CUL4-associated factor 5,9233
+GGDDR,D6ERR6,Oxidoreductase,457428
+GGDDR,A8R0I3,ATP-dependent RNA helicase,68249
+GGDDR,A0A0Q9M8U7,Uncharacterized protein,1736399
+GGDDR,A0A0D9PL80,Uncharacterized protein,1291519
+GGDDR,A0A0P5P154,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5R2T0,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5UGQ1,Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0P5GWM7,Putative Eukaryotic translation initiation factor 4 gamma,35525
+GGDDR,A0A0M5ITM3,Glycosyl hydrolase,1649184
+GGDDR,A0A0J9STS9,MB2 protein,1033975
+GGDDR,A0A0J9STP8,Uncharacterized protein,1033975
+GGDDR,B4I4A0,GM10578,7238
+GGDDR,Q7NXH4,Probable methyl-accepting chemotaxis protein,243365
+GGDDR,A0A0E9DXQ5,ABC-type thiamine transport system%2C periplasmic component,813
+GGDDR,A7H874,LigA,404589
+GGDDR,A0A0F4Q9E9,Uncharacterized protein,579478
+GGDDR,G4NHJ9,Metalloprotease 1,242507
+GGDDR,A4EJ07,Uncharacterized protein,391593
+GGDDR,A0A0S7Z253,Uncharacterized protein,1703356
+GGDDR,A0A059BXX6,Uncharacterized protein,71139
+GGDDR,W5TIS5,Putative oxygenase,1415166
+GGDDR,R6WX57,Uncharacterized protein,1263094
+GGDDR,J5K0Y4,Transmembrane protein,655819
+GGDDR,W1NF47,Uncharacterized protein,13333
+GGDDR,A0A087K265,Nucleoside-diphosphate sugar epimerase,1525753
+GGDDR,A0A034WCW2,Protein lingerer,27457
+GGDDR,A0A0A9WDW2,"Troponin C, isoform 2",30085
+GGDDR,H0SKU8,Putative phosphoesterase familiy protein signal peptide,566679
+GGDDR,A0A098RGJ9,Orotate phosphoribosyltransferase,42565
+GGDDR,A0A0N4ZL06,Uncharacterized protein,131310
+GGDDR,T1D546,Putative ribosomal protein s10e,869069
+GGDDR,A0A0K8TVL7,Protein lingerer,174628
+GGDDR,I2PYG6,Malto-oligosyltrehalose trehalohydrolase,596152
+GGDDR,M1GUX4,VP1,912116
+GGDDR,H2A310,M02 protein,10366
+GGDDR,A0A0T7FBS8,ATPase component of ABC-type sugar transporter,323656
+GGDDR,D6RJZ9,Uncharacterized protein,240176
+GGDDR,M3DJY7,ABC transporter permease,1284664
+GGDDR,A0A0P6X9U2,Uncharacterized protein,33069
+GGDDR,E5L9U9,Putative uncharacterized protein,104688
+GGDDR,A0A068VUW4,Uncharacterized conserved protein UCP033563,66712
+GGDDR,A0A0D9QPL0,Uncharacterized protein,5857
+GGDDR,J9IIY6,Poly [ADP-ribose] polymerase,1172189
