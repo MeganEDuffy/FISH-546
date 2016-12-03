@@ -18,6 +18,8 @@ data/raw-data-plgs-20161105T044203Z-3.zip
 
 data/raw-data-plgs/*.mgf
 
+data/*.faa
+
 #Copied from Octocat Gist:
 # Compiled source #
 ###################
