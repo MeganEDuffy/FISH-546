@@ -1,4 +1,4 @@
-#I want to be move all PNG and JPEG files (screenshots) to a separate directory
+#I want to be move all PNG and JPEG files (screengrabs) to a separate directory
 
 #!/bin/bash #robust header (shebang line)
 
@@ -10,19 +10,19 @@ set -o pipefail #if any program returns a nonzero exit status in the pipe it wil
 
 #change directory
 echo change working directory
-cd ~/Documents/git-repos/FISH-546/images
+cd ~/Documents/git-repos/FISH-546/data
 
 echo listing files in current directory
 ls
 
 #set variables
 echo set variables
-directoryname="Galaxy_screenshots"
+directoryname="screengrabs"
 
 if [ $? -ne 0 ] #place holder for all statements executed if [commands] evaluated are true (0)
 
 then #commands to run if "pattern" is found
-	echo "usage: Quiz_script.sh file_in.txt"
+	echo "usage: screengrab_dir.sh file_in.txt"
 	exit 1
 fi #finished
 
@@ -33,5 +33,5 @@ echo confirms creation of directory
 
 
 #finding JPEG or PNG files
-find *.JPG *.PNG | xargs -I '{}' mv '{}' Galaxy_screenshots
-echo finding JPEG and PNG files and moving them to Galaxy_screenshots
+find *.JPG *.PNG | xargs -I '{}' mv '{}' screengrabs
+echo finding JPEG and PNG files and moving them to screengrabs
