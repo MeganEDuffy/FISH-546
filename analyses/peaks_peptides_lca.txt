@@ -1,0 +1,436 @@
+peptide,taxon_id,taxon_name,taxon_rank
+LICCPVQQPPLMMNSQGGGGSGGGGGFEGMIRPAK,3068,Volvox carteri f. nagariensis,forma
+QPPSTTSMYTEEKPMNAPSSDSNNLFSGLDMVSK,653948,Albugo laibachii,species
+TGLPAGSELSLYDVAPVVPGVAVDLSHIPTDVK,53246,Pseudoalteromonas,genus
+IDSVNAAPGIPENVALDDIQSSFLTDGQPGER,152297,Pseudoalteromonas issachenkonii,species
+LASGQEIPCFALTSPEAGSDASSIPDYGVVCK,53246,Pseudoalteromonas,genus
+VQGHQCVACPAGTTNDGGDDASGGDTQCDITR,242159,Ostreococcus 'lucimarinus',species
+VNGQLLCGFTGLWTDVLTVMQDLSSEVALK,2880,Ectocarpus siliculosus,species
+ADYSSEVATLASAGGDAVAVIGYLDQGGK,198252,Candidatus Pelagibacter ubique,species
+LELAQFDELAAFSQFASDLDASTQQQLER,1129,Synechococcus,genus
+TDFLQQEIDAGNYNPFGGTYNDPAVIDR,53246,Pseudoalteromonas,genus
+TDFLQQEIDAGNYNPFGGTYNDPAVIDR,53246,Pseudoalteromonas,genus
+GDGDGDGDGDGDGDGDGDGDGDDSGGR,3068,Volvox carteri f. nagariensis,forma
+GLDPINPGGPLDFFNVASNPQDLALLK,242159,Ostreococcus 'lucimarinus',species
+SGNFDNSIFGTGLTFVETAMSSGNSVK,1129,Synechococcus,genus
+TVVIMELINNIAMNHGGYSVFAGVGER,2836,Bacillariophyta,phylum
+VSEEEETQGLDIGEHGMEAYPDFASAK,1219,Prochlorococcus marinus,species
+YLYGTDFDSLDVSQSGNTCSMNNANVR,152297,Pseudoalteromonas issachenkonii,species
+DDWDGATSDDDDDDDDGGGGGGGDGG,38833,Micromonas pusilla,species
+DGDGDGDGGGDGDGGGDGDGDGGGGK,38833,Micromonas pusilla,species
+ENDDDDDDDDGDENEGGAGDVSADER,38833,Micromonas pusilla,species
+LVVSLALLQFVLVIPALLIISDVPVK,342948,Thermococcus onnurineus,species
+NLAGYTDNRPLNEVLNTGNVGLSPFK,152297,Pseudoalteromonas issachenkonii,species
+QCPENHVSFADLGDVTEADHSVEVFK,3055,Chlamydomonas reinhardtii,species
+STLLSSIVGVPNSLGPGELLQHYGTK,53246,Pseudoalteromonas,genus
+TEQAFELPTGGAALMNSGENLMYFAR,1129,Synechococcus,genus
+ANDAAGDGTTTATVLAQSIVNEGLK,1,root,no rank
+AWDSDDDDDDDDDDDEGAGGAGAGK,3068,Volvox carteri f. nagariensis,forma
+DASDDASDDDDDDDDDAVDDDASIK,38833,Micromonas pusilla,species
+GGIDFQPITVLVPGGEEFPFTFSSK,1129,Synechococcus,genus
+ILQGYQYVAANPDEVCPANWTPGEK,1219,Prochlorococcus marinus,species
+SLGGEVVGEDYLPLGNTEVAPIIAK,1129,Synechococcus,genus
+SLGGVTVGEDYIPLGNTEVAPIIAK,1129,Synechococcus,genus
+TALSQIDELVLQASGVAFTLQEGVR,152297,Pseudoalteromonas issachenkonii,species
+TGLIDAAEFNNPTSDSQFGMQDVSK,198252,Candidatus Pelagibacter ubique,species
+ALLIAAIVGLLVVPLQLALIPLLK,31989,Rhodobacteraceae,family
+LGGYYGAYGASTSPGAGINWISNR,1129,Synechococcus,genus
+LGIEHILLGVDHLLLLLGLVLIVR,1129,Synechococcus,genus
+QVIIIGLLLAIIVIVVIGAILINK,64178,Coleofasciculus chthonoplastes,species
+VSGPIIDVFPLEGAEQTITAPDVK,152297,Pseudoalteromonas issachenkonii,species
+AALPDGGVIINTLNGDQNVAFFK,1129,Synechococcus,genus
+APSLAQVGLGPSQESQFFIDNYR,152297,Pseudoalteromonas issachenkonii,species
+EAGDGVYAEPTNPIGEYNTFSGR,152297,Pseudoalteromonas issachenkonii,species
+GIQASDMAMVPDANTAWVDPFYR,1129,Synechococcus,genus
+GVFISPYSTEFDNILIVGPIAGK,2836,Bacillariophyta,phylum
+GVFISPYSTEFDNILVVGPIAGK,2836,Bacillariophyta,phylum
+IDLTFPPGISLDETSAASPGSVR,152297,Pseudoalteromonas issachenkonii,species
+LINYCLVTGGTGPLDELAINGQK,1129,Synechococcus,genus
+STGIADTVLFGPEPEFFVFDDVK,53246,Pseudoalteromonas,genus
+VASFNVLNYFNGDGQGAGFPTSR,53246,Pseudoalteromonas,genus
+VQSMANVPVQVTKPILPIINGVR,53246,Pseudoalteromonas,genus
+DADIGLTFVGVNFYDGQGFMVR,1,root,no rank
+DADIGLTFVGVNFYDGQGFMVR,1,root,no rank
+DANDNYVTTPTNYAYGDEISYR,152297,Pseudoalteromonas issachenkonii,species
+DMSAQALTAYNQLLDYVINSLG,1129,Synechococcus,genus
+FVFSHDVNGNTPDPMFLFIEDR,53246,Pseudoalteromonas,genus
+GISDLEGTSADNYAGVYVDPTR,152297,Pseudoalteromonas issachenkonii,species
+IAMLAATGLIVQDLFTFPFYSK,55529,Guillardia theta,species
+IEVLAGPQGTLFGASSQAGVVR,204457,Sphingomonadales,order
+IEVLSGPQGTLFGASSQAGVVR,1224,Proteobacteria,phylum
+IFVGGTPLSFLESPLTTGETGR,1129,Synechococcus,genus
+INQLIAFSNQVYSQNGVDITLR,53246,Pseudoalteromonas,genus
+NQDACWTCQSETGEMMSCDYCR,35128,Thalassiosira pseudonana,species
+SAVGYLDSEITEVAEGVQGIGK,53246,Pseudoalteromonas,genus
+SGETEDATIADLAVGTAAGQIK,1,root,no rank
+TGISDSPFDDGLTVGDVNPGGR,70447,Ostreococcus,genus
+TPGFTGADLANLLNEAAILAAR,1,root,no rank
+WNIGEVQWLEASYPASGTGVVR,338190,Nitrosopumilaceae,family
+AAVSADSSGSFIGGGELASLK,1129,Synechococcus,genus
+AILDGNSLPHAPEWISNITLR,152297,Pseudoalteromonas issachenkonii,species
+APNVQPPDATVANPPSDLFTR,1219,Prochlorococcus marinus,species
+DGASAIYGSDAIAGVVNIITR,1236,Gammaproteobacteria,class
+DGASAIYGSDAVAGVVNVILK,135622,Alteromonadales,order
+DGASAVYGSDAIAGVVNIITK,1224,Proteobacteria,phylum
+DGASAVYGTDAVAGVVNIILK,53246,Pseudoalteromonas,genus
+FSISPYWVDTVDLPDGEYTSR,1219,Prochlorococcus marinus,species
+GISDGVTAVENLLAGYSSLIK,152297,Pseudoalteromonas issachenkonii,species
+GSGAVMYGSDAVGGVINIITR,511678,Aliivibrio,genus
+IVTGVPAAVPIVGPPLVLILR,2759,Eukaryota,superkingdom
+IVTGVPAAVPVVGPPLVLVLR,2836,Bacillariophyta,phylum
+IVTGVPEAIPVVGSLLVELLR,589342,Pyrenomonadales,order
+LILQLTLLIFVAVAIAVVIGR,287,Pseudomonas aeruginosa,species
+MPSAVGYQPTLGTDVGELQER,1117,Cyanobacteria,phylum
+QLLSQDGTDQILLIDGGGSTR,152297,Pseudoalteromonas issachenkonii,species
+QVVFSPQGDIIASGSEDGTIK,1206,Trichodesmium erythraeum,species
+SLLAVIVLVPLIVILLLSVLK,43988,Cyanothece,genus
+SLLAVIVLVPLIVILLLWVLK,43988,Cyanothece,genus
+TESLFESPTAITSIGANLIDK,53246,Pseudoalteromonas,genus
+TGLSDPAFDELTVGDVSPGGR,38832,Micromonas,genus
+TGLSDPVFDELTVGDVSPGGR,38832,Micromonas,genus
+VLTTEGLGMGLKPSVVTAIAK,53246,Pseudoalteromonas,genus
+WLALAIGLIGITLVIVLLVVR,653948,Albugo laibachii,species
+AFELPSLPYAIDALEPHISK,228,Pseudoalteromonas haloplanktis,species
+AVSADSSGAFIGGGELASLK,1129,Synechococcus,genus
+AVSADSSGAFIGGGELASLK,1129,Synechococcus,genus
+AVSADSSGAFIGGGELASLK,1129,Synechococcus,genus
+DLAEIWDNSSPVIVQGGSLR,35127,Thalassiosira,genus
+DTYWTPDYVPLDTDLLACFK,1117,Cyanobacteria,phylum
+EGGITSLQILPGSANLFGGR,53246,Pseudoalteromonas,genus
+FGPIFNELAQIPVLDLVESK,152297,Pseudoalteromonas issachenkonii,species
+IGMTQIFDESGNIIPVTILK,2836,Bacillariophyta,phylum
+IGPEYAGALGILQPLADGLK,1118,Chroococcales,order
+ILGSEGTLGEMLGLDAEWAK,89184,Ruegeria pomeroyi,species
+LFYTFPVGDSLSVTAGPIVR,1129,Synechococcus,genus
+LTVVQADGQNVEPVTVDEFR,135622,Alteromonadales,order
+LVELGAETPGENPYVAEMYK,2157,Archaea,superkingdom
+NNTTVTEVYGDIDSGTFTEK,1219,Prochlorococcus marinus,species
+SGTIVDAQGNTIVSSDGVFK,152297,Pseudoalteromonas issachenkonii,species
+SGTLNALVSEGGIQYAPAMR,28890,Euryarchaeota,phylum
+TGLFENPFPELELSVTPGGR,38832,Micromonas,genus
+TSTFALNNATLPFIINLANK,135622,Alteromonadales,order
+VEVEAPEDFLGSIIGDLSSR,1129,Synechococcus,genus
+VGTLNALVSEGGIQYAPAMR,28890,Euryarchaeota,phylum
+VGYGNNADDSDNDAYFANMR,53246,Pseudoalteromonas,genus
+APTVDELYSGNAPSYEQVK,152297,Pseudoalteromonas issachenkonii,species
+AQYIAENFLDDAVQVTGVR,53246,Pseudoalteromonas,genus
+AVGVVLPELNGLLTGMAFR,641,Vibrionaceae,family
+DGTLNIPGELNDENVSIPR,152297,Pseudoalteromonas issachenkonii,species
+DIDKPFIMPIEDVFSIQGR,53246,Pseudoalteromonas,genus
+DIDKPFIMPIEDVFSIQGR,53246,Pseudoalteromonas,genus
+FSVTNADSSLEEALDSALR,53246,Pseudoalteromonas,genus
+LIDQDGVPVVFGGWTSASR,1219,Prochlorococcus marinus,species
+LYSLDAGEIIHSLVFSPNR,35128,Thalassiosira pseudonana,species
+SAATALIGQTNSPASGGAK,1129,Synechococcus,genus
+SIGDSPVPIDIIGGEELSK,53246,Pseudoalteromonas,genus
+VAVLGAAGGIGQALSLLLK,1236,Gammaproteobacteria,class
+VAVLGAAGGIGQALSLLLK,1236,Gammaproteobacteria,class
+VGHSLTEQGRPVSGVMVGR,1129,Synechococcus,genus
+VVNTAPVEFPLYASVDAYR,35127,Thalassiosira,genus
+YSQAVCGTDGLPHLIVDGR,1129,Synechococcus,genus
+AEMTTSSGAVYVTDNAGR,2850,Phaeodactylum tricornutum,species
+AGSGVATLGLPDSPGVPR,1,root,no rank
+ASATAHIGETNTPGLGGK,1129,Synechococcus,genus
+DTGGSLNVAPGTLSDEVR,152297,Pseudoalteromonas issachenkonii,species
+FMSQPFHVAEVFTGTAGK,2836,Bacillariophyta,phylum
+FSGIDPELGDQVEFGLFK,1219,Prochlorococcus marinus,species
+GEVLSEQAQPMPVGAAPR,1129,Synechococcus,genus
+GVAPDAGLIGMNYLGGAK,152297,Pseudoalteromonas issachenkonii,species
+HILASTSTLIDAENAPVK,152297,Pseudoalteromonas issachenkonii,species
+IFTLHADHEQNASTSTVR,1224,Proteobacteria,phylum
+LAAPFDLFVNDAFGTAHR,2759,Eukaryota,superkingdom
+LAMLAAAGFLAQEAVDGK,33847,Thalassiosirales,order
+LFDASGSEGSNLNQGTLR,1219,Prochlorococcus marinus,species
+LITNPTLSPGVIFGYLTR,1129,Synechococcus,genus
+LVPGFEAPVNLVYSEGNR,1117,Cyanobacteria,phylum
+MITNPTLDPGVIFGYLFR,1129,Synechococcus,genus
+NIAFTSVPVADAAEATAK,28890,Euryarchaeota,phylum
+QILFEPVFAEYIQAASGK,2759,Eukaryota,superkingdom
+QILFEPVFAQFIQAASGK,2759,Eukaryota,superkingdom
+QILIEPVFAQYIQAAQGK,3041,Chlorophyta,phylum
+QILVEPVFAQFVQAASGK,1117,Cyanobacteria,phylum
+QILVEPVFAQWIQASSGK,2759,Eukaryota,superkingdom
+SGVGISSMGVMNPGLVMR,2759,Eukaryota,superkingdom
+TNPNVGLDPEALSLATPR,2759,Eukaryota,superkingdom
+VAPEAHPVLLTEAPQNPK,2836,Bacillariophyta,phylum
+VAVPLGTMAEYVFDESMK,198252,Candidatus Pelagibacter ubique,species
+VGINYQPPTVVPGGDLAK,2759,Eukaryota,superkingdom
+VISYPTYDPSVIFGYLLK,70448,Ostreococcus tauri,species
+VSTFETEVAGLDGNPSMK,53246,Pseudoalteromonas,genus
+VVFECVPQADGSYATEER,263511,Crocosphaera watsonii,species
+YITTPTLNPIVIFGYVFR,2759,Eukaryota,superkingdom
+YTPNVVDASEAQIQQAVK,152297,Pseudoalteromonas issachenkonii,species
+ALSIDAGTYVAGFSHLR,1129,Synechococcus,genus
+AVAMMSNSTAIAELYSR,35140,Chrysochromulina,genus
+AYTALLNLNPGDEFEIK,1129,Synechococcus,genus
+EILQEIYDEVSSGNEIR,2836,Bacillariophyta,phylum
+IPGIFQYYSVAEDELAK,28211,Alphaproteobacteria,class
+LTHSNTGEDDSYGYAQR,35128,Thalassiosira pseudonana,species
+NEGADIFNNEVGPVILR,49244,Cymatosiraceae,family
+NEGADYFNPQVGPVILR,2759,Eukaryota,superkingdom
+QVADPQESAYNMVYLWK,1117,Cyanobacteria,phylum
+SDATDGYNALQVTAGTK,53246,Pseudoalteromonas,genus
+SLSLPTGPYVEALTYTR,1129,Synechococcus,genus
+STTSQNTLAGMAQSGNR,263511,Crocosphaera watsonii,species
+TLGLPTNAYIEALTYTR,1129,Synechococcus,genus
+TVGLATNVLTAMGMVVR,198252,Candidatus Pelagibacter ubique,species
+TWSFANPAIESVQVLLK,35127,Thalassiosira,genus
+VEPLSCSSFAEEIISNF,1219,Prochlorococcus marinus,species
+VLNTDAQALIQSQAQQR,1129,Synechococcus,genus
+VPTPNVSAVDLTFGPSR,1129,Synechococcus,genus
+VPTPNVSLVDMVFNVSK,1129,Synechococcus,genus
+VVADPQESAYNMVYLWK,1117,Cyanobacteria,phylum
+VVADPQESAYNMVYLWK,1117,Cyanobacteria,phylum
+YVSYALLAGDASVLQDR,1129,Synechococcus,genus
+YVSYALLSGDSSVLEDR,2759,Eukaryota,superkingdom
+YYETSPYGINGGFYYAK,53246,Pseudoalteromonas,genus
+AGSKPTSTTYDCRPYK,152297,Pseudoalteromonas issachenkonii,species
+ALINNMVVGTHEGYEK,53246,Pseudoalteromonas,genus
+ELLMSSGDANAALNGK,152297,Pseudoalteromonas issachenkonii,species
+ESQYGMGYLDAGTGVR,28890,Euryarchaeota,phylum
+ESQYGMGYLDSATGVR,28890,Euryarchaeota,phylum
+FLDIDPNNIEAVSVLK,117743,Flavobacteriia,class
+FPSASDLESVQGSLQR,1301283,Oscillatoriophycideae,subclass
+FPSASDMESVQGSIQR,1129,Synechococcus,genus
+GGYFPVAPVDDFQDWR,53246,Pseudoalteromonas,genus
+GILLGAVHGIVESLYR,1,root,no rank
+GTAGTDMNAIPASAIK,135622,Alteromonadales,order
+IGANVGSTMGPTGLGK,1219,Prochlorococcus marinus,species
+IGLVQDLVPVLEAIAR,1129,Synechococcus,genus
+IGLVQDLVPVLEQIAR,1117,Cyanobacteria,phylum
+ILFEMGGDEITPEIAK,1129,Synechococcus,genus
+LFLCCAENLISGHAYK,135622,Alteromonadales,order
+LMDAIDAGQPLVLDGK,1129,Synechococcus,genus
+LMDAIDAGQPLVLNGK,1129,Synechococcus,genus
+NILGFPQLVFTGGPAK,1129,Synechococcus,genus
+QAIIDALDLLDSGAAR,53246,Pseudoalteromonas,genus
+SGAFIPGIRPGEQTSK,1236,Gammaproteobacteria,class
+VINTQGQNEIVNGASR,152297,Pseudoalteromonas issachenkonii,species
+VPYDTDVQQVGADGNR,1129,Synechococcus,genus
+AAAAALITNTNSQAK,1129,Synechococcus,genus
+AAAGALITNTNSQAK,1129,Synechococcus,genus
+AAAGALITNTNSQPK,1129,Synechococcus,genus
+AALVYGQMNEPPGAR,1,root,no rank
+ADSLVNGAAQAVYTK,1129,Synechococcus,genus
+AFYNLATTPGWDTQK,53246,Pseudoalteromonas,genus
+ALTVPELTQQMFDAK,2759,Eukaryota,superkingdom
+ALTVPELTQQMFDAK,2759,Eukaryota,superkingdom
+ALTVPELTQQQFDAK,2759,Eukaryota,superkingdom
+AMSIMNSFINDIFDK,3041,Chlorophyta,phylum
+AMSIMNSFVNDIFER,1,root,no rank
+APTPGQQGTTNVSTR,1224,Proteobacteria,phylum
+DAATLVDIALQDSGK,152297,Pseudoalteromonas issachenkonii,species
+DDNPENPCGCIDFFK,1206,Trichodesmium erythraeum,species
+DGSGTAYADAPAWIK,152297,Pseudoalteromonas issachenkonii,species
+DIADAISAVGVEVAK,53246,Pseudoalteromonas,genus
+DSLLAQGYTENNAGK,53246,Pseudoalteromonas,genus
+ETYAALGVPTGSASR,1129,Synechococcus,genus
+ETYAALGVPTGSASR,1129,Synechococcus,genus
+ETYIALGVPTQSAAR,1129,Synechococcus,genus
+FLAADGTGSTSGAIK,53246,Pseudoalteromonas,genus
+FPSFSQGLAQDPTTR,1,root,no rank
+FPSFSQGLAQDPTTR,1,root,no rank
+FVVGGPQGDAGLTGR,1,root,no rank
+GDGIAEAWLGHPIFR,2759,Eukaryota,superkingdom
+GMSIMNSFINDIFER,2759,Eukaryota,superkingdom
+GWAMNVEWTDDPHPR,2759,Eukaryota,superkingdom
+LPTYTELLGLIDYGK,53246,Pseudoalteromonas,genus
+QAVEDAGTFDDNAVR,1219,Prochlorococcus marinus,species
+QINGNFYVTSDLITK,469,Acinetobacter,genus
+SIVTFLDSVFGFLYR,6668,Daphnia,genus
+TFTTQETMTNAGTAK,2759,Eukaryota,superkingdom
+VDLPGLAPELINTLK,1117,Cyanobacteria,phylum
+VNNVADHLSEGQEVK,53246,Pseudoalteromonas,genus
+VPAGAVVVPGALPSK,53246,Pseudoalteromonas,genus
+VPAGAVVVPGALPSK,53246,Pseudoalteromonas,genus
+VQEVPQSETTPFYPR,1,root,no rank
+YDGDLGNYPEGSRPK,1219,Prochlorococcus marinus,species
+YQDLNQVVGGYLQGR,1129,Synechococcus,genus
+AAAVAFVNNTASQR,1,root,no rank
+AFDYSTFGSDETWK,53246,Pseudoalteromonas,genus
+AGSSYINVLTTGLK,53246,Pseudoalteromonas,genus
+AISLEPTEIFADLK,228,Pseudoalteromonas haloplanktis,species
+ALESGLLLVTGPYK,2759,Eukaryota,superkingdom
+AVNNFGSSWTWLVK,1236,Gammaproteobacteria,class
+DLNVVVSELEACHR,1117,Cyanobacteria,phylum
+DNASAPVEVIVTAR,70448,Ostreococcus tauri,species
+DYSPVQSYNNLLDR,2759,Eukaryota,superkingdom
+DYSPVQSYNNLLDR,2759,Eukaryota,superkingdom
+FLGDLPMEGGISQK,1219,Prochlorococcus marinus,species
+FSDHSAYGSNSTAK,53246,Pseudoalteromonas,genus
+FTQAGSEVSALLGR,1,root,no rank
+FTQAGSEVSALLGR,1,root,no rank
+GDAASVVGPGELAK,53246,Pseudoalteromonas,genus
+GFGPSFNLVTLNGR,1224,Proteobacteria,phylum
+GFSENESATTFNGR,53246,Pseudoalteromonas,genus
+GHSLESILASIEAR,2839,Odontella sinensis,species
+GIFPPINVLPSLSR,2836,Bacillariophyta,phylum
+GLQPDQTLVLVNGK,53246,Pseudoalteromonas,genus
+GLVPAIEAADAMTK,1,root,no rank
+GLVPAIEAADAMTK,1,root,no rank
+IALESADTPLLQAR,1129,Synechococcus,genus
+IIEEFTKPLSLSFR,1129,Synechococcus,genus
+ITDPNSANEVNVDR,53246,Pseudoalteromonas,genus
+LGLLWQPIDGYMLR,152297,Pseudoalteromonas issachenkonii,species
+LPLAIPLPVLPLIR,2880,Ectocarpus siliculosus,species
+LVAWYDNEWGYSGR,35127,Thalassiosira,genus
+NINQPVAYPIFTFR,2759,Eukaryota,superkingdom
+QAIVHAINNEGIVK,1236,Gammaproteobacteria,class
+SGTLTYEAVAQTTK,1,root,no rank
+SLGTNLEAMALSVR,1129,Synechococcus,genus
+SLGTPLEALAESVR,1129,Synechococcus,genus
+SPTGEIIFGGETMR,1,root,no rank
+SPTGEIIFGGETMR,1,root,no rank
+STLGPYDQFEYINK,152297,Pseudoalteromonas issachenkonii,species
+TFDTITNTILDALK,198252,Candidatus Pelagibacter ubique,species
+TSSLVISTLDSTAR,1219,Prochlorococcus marinus,species
+TYQSFSNIINSLLK,152297,Pseudoalteromonas issachenkonii,species
+VGELEATQFSTTTK,1117,Cyanobacteria,phylum
+VGELEATQFTTTTK,1129,Synechococcus,genus
+VPTIDVSVVDLTAK,2850,Phaeodactylum tricornutum,species
+VVSETLTTHEYESK,1224,Proteobacteria,phylum
+YDDYSDYGSDFSPK,1236,Gammaproteobacteria,class
+YEDFSDAGDDLIGK,53246,Pseudoalteromonas,genus
+YEDYDTFGSTTNYK,53246,Pseudoalteromonas,genus
+YQWDSGYFQQEIER,2759,Eukaryota,superkingdom
+YQWDSGYFQQEIER,2759,Eukaryota,superkingdom
+YQWDSGYFQQEIER,2759,Eukaryota,superkingdom
+YTLAGTEVSALLGR,1,root,no rank
+AAEDPEFETFYTK,1,root,no rank
+AAVVGDTVGDPFK,1,root,no rank
+ASALEDLVDSVLR,1129,Synechococcus,genus
+DFGYSFPCDGPGR,1,root,no rank
+DIGAVLSQFTLTK,1129,Synechococcus,genus
+DISSMGNSSTTEK,53246,Pseudoalteromonas,genus
+DLGDTPFNITTPR,1129,Synechococcus,genus
+DQVTSLVALYGPR,2759,Eukaryota,superkingdom
+EQNADGMVTVSCR,1129,Synechococcus,genus
+FADIPNGLAAISK,2972,Pyrocystis lunula,species
+FIGLDGDSVTMNR,1129,Synechococcus,genus
+FLSNTEIQSASGR,1129,Synechococcus,genus
+FNFGTATLLDNGK,53246,Pseudoalteromonas,genus
+FNFGTSTLLDNGK,53246,Pseudoalteromonas,genus
+FSDVPNGVQALFK,44056,Aureococcus anophagefferens,species
+FSDVPNGVQALFK,44056,Aureococcus anophagefferens,species
+GPIEFITQIPNFK,589342,Pyrenomonadales,order
+GPVQFITQIPNFK,589342,Pyrenomonadales,order
+GVAGAGVLAGFDK,2759,Eukaryota,superkingdom
+IAQLAFLGQVVTR,33847,Thalassiosirales,order
+IGTDAITTALIYR,152297,Pseudoalteromonas issachenkonii,species
+ISAILLDLQEMPK,152297,Pseudoalteromonas issachenkonii,species
+ISQLAFLGQIVTR,35128,Thalassiosira pseudonana,species
+ISQLAFLGQIVTR,35128,Thalassiosira pseudonana,species
+LAFYDYIGNNPAK,1,root,no rank
+LAFYDYIGNNPAK,1,root,no rank
+LAFYDYIGNNPAK,1,root,no rank
+LAFYDYIGNNPAK,1,root,no rank
+LAFYDYVGNNPAK,1,root,no rank
+LAFYDYVGNSPAK,2,Bacteria,superkingdom
+LAFYDYVGNSPAK,2,Bacteria,superkingdom
+LEIQDIADDIGSK,1129,Synechococcus,genus
+LIEPYVTYGYPTR,2836,Bacillariophyta,phylum
+LLDTSADSFAFSR,152297,Pseudoalteromonas issachenkonii,species
+LNGQVFTDAPTVK,2759,Eukaryota,superkingdom
+LPLVQQAWPFSIR,1129,Synechococcus,genus
+NAAYAANSDNYFK,198252,Candidatus Pelagibacter ubique,species
+NAAYAANSDNYFK,198252,Candidatus Pelagibacter ubique,species
+NDSTLAQSLGIPK,53246,Pseudoalteromonas,genus
+NGELVDTVSDNGR,53246,Pseudoalteromonas,genus
+SCAAAAVDTGLCK,55529,Guillardia theta,species
+SLQESAASELASR,1129,Synechococcus,genus
+TGAVTQSVANTAK,2836,Bacillariophyta,phylum
+TIQFVDWSPTGFK,2759,Eukaryota,superkingdom
+TLEAEAAHGTVTR,1,root,no rank
+TLQESVASELAAR,2759,Eukaryota,superkingdom
+TLVTDIDPDAQVK,200644,Flavobacteriales,order
+TPPASVLLANAAK,2836,Bacillariophyta,phylum
+VAMEAGVSGLWYK,2759,Eukaryota,superkingdom
+VNSSSSLAEVVDR,1117,Cyanobacteria,phylum
+VQLLDGGQSLLLR,1129,Synechococcus,genus
+VSVSDFLTLFSAR,2759,Eukaryota,superkingdom
+YGVPLLGATVKPK,2759,Eukaryota,superkingdom
+YYGLYDNAEGVVR,1219,Prochlorococcus marinus,species
+ADEVVAAYDSGR,198252,Candidatus Pelagibacter ubique,species
+AVAAAVLGDANK,1224,Proteobacteria,phylum
+DALGGYTEQAAR,152297,Pseudoalteromonas issachenkonii,species
+DATEETTDAEPK,263511,Crocosphaera watsonii,species
+DKPVALSIVQAR,1,root,no rank
+DKPVALSIVQAR,1,root,no rank
+DLMAQLYPSFSK,2759,Eukaryota,superkingdom
+DNIQGITKPAIR,1,root,no rank
+FLPALAFIEGAR,1117,Cyanobacteria,phylum
+FLYSDDGVVFLK,1219,Prochlorococcus marinus,species
+FSQALAQDPATR,2759,Eukaryota,superkingdom
+GFPGYFYVDGVK,135622,Alteromonadales,order
+GFPGYFYVDGVK,135622,Alteromonadales,order
+GLPVVNIAQPFK,31989,Rhodobacteraceae,family
+IGELEQQFGFVK,198252,Candidatus Pelagibacter ubique,species
+IGLWQVLTDYVK,1236,Gammaproteobacteria,class
+INVQGFMAGLVK,1129,Synechococcus,genus
+IQNAGTEVVNAK,1,root,no rank
+ITVEAMATQGDK,1129,Synechococcus,genus
+LAYENEFGPIGK,198252,Candidatus Pelagibacter ubique,species
+LIENPAPGIIQR,1129,Synechococcus,genus
+MPVAGSGTFSTR,135622,Alteromonadales,order
+MTDEDDDDDDDE,2850,Phaeodactylum tricornutum,species
+TAQADAYYVAGR,198252,Candidatus Pelagibacter ubique,species
+TIVVVLPDLAER,2,Bacteria,superkingdom
+VPLLGDLPYVGR,152297,Pseudoalteromonas issachenkonii,species
+VTDAISNLDGAR,1219,Prochlorococcus marinus,species
+VTLVSESEGLNK,1129,Synechococcus,genus
+YFPTQAFNFAFK,2759,Eukaryota,superkingdom
+AEIDGVSLAAR,53246,Pseudoalteromonas,genus
+ALTVLLDYLQK,35127,Thalassiosira,genus
+ALVEAAPTPVK,53246,Pseudoalteromonas,genus
+ATLIIYDDLTK,1,root,no rank
+DDAAGLQISNR,2,Bacteria,superkingdom
+DIDDLELTLAK,33208,Metazoa,kingdom
+DMSAQALNEFK,1129,Synechococcus,genus
+DSGITSTSQFK,1,root,no rank
+DSYVGDEAQSK,1,root,no rank
+DVADLAGSAVK,6669,Daphnia pulex,species
+EDVLDILLNCK,1,root,no rank
+FYESNPGLSSR,2759,Eukaryota,superkingdom
+GLADVYEAAVK,198252,Candidatus Pelagibacter ubique,species
+HGDNEWGDVVR,31989,Rhodobacteraceae,family
+INGFASIVGGK,53246,Pseudoalteromonas,genus
+MAIDSLSALAR,1117,Cyanobacteria,phylum
+NAAQYEIFIDR,1129,Synechococcus,genus
+QGMYVMPFMAR,1,root,no rank
+QTTLGYIDQLR,1,root,no rank
+QTTLGYIDQLR,1,root,no rank
+QVHPDTGISSK,2759,Eukaryota,superkingdom
+SAIVLDSVDGK,1129,Synechococcus,genus
+SVVTQAANYAK,2,Bacteria,superkingdom
+SYEVDLVGVSR,1129,Synechococcus,genus
+TAGASAQVMAK,1,root,no rank
+VVPTWGDVLNR,1,root,no rank
+ALTCELQNGR,44056,Aureococcus anophagefferens,species
+ALVTAFGAMR,198252,Candidatus Pelagibacter ubique,species
+ASDVVVTDLK,152297,Pseudoalteromonas issachenkonii,species
+DLDGSPIAFR,53246,Pseudoalteromonas,genus
+DLSQTVDTVR,53246,Pseudoalteromonas,genus
+DVNAAIATIK,2759,Eukaryota,superkingdom
+FDMLNILTGR,53246,Pseudoalteromonas,genus
+IGADVTVGHR,1129,Synechococcus,genus
+ISGLIYEETR,1,root,no rank
+LAQQETGEVK,1,root,no rank
+LGINYFFGQK,152297,Pseudoalteromonas issachenkonii,species
+LYLGNLPIYR,2759,Eukaryota,superkingdom
+MVDYFLQDFK,2836,Bacillariophyta,phylum
+VIEPLITLAK,1224,Proteobacteria,phylum
+VLITTDLLAR,2759,Eukaryota,superkingdom
+VNTISAGPLK,2759,Eukaryota,superkingdom
+YDFHPSAAFK,1236,Gammaproteobacteria,class
+YESGVIPYAK,2759,Eukaryota,superkingdom
+AFDNMENAK,1219,Prochlorococcus marinus,species
+CSELEAQLR,1129,Synechococcus,genus
+DTAFVAGIK,53246,Pseudoalteromonas,genus
+GPQGTLFGR,1,root,no rank
+QVVIESQFK,1129,Synechococcus,genus
+SYFPYWGMK,1129,Synechococcus,genus
+FEHATGYK,1224,Proteobacteria,phylum
+TQVTVEYK,1,root,no rank
+VILGYLFR,1219,Prochlorococcus marinus,species
+VPFLFTVK,2759,Eukaryota,superkingdom
+TLYGFGG,1,root,no rank
