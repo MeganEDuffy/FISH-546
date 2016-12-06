@@ -31,7 +31,7 @@ mkdir "$directory_name"
 echo Confirm directory creation
 ls
 
-#I use a pipe with `find` and `xargs` commands, which take the files I want to move, and relocates them to my assemblies directory. The `-type d` argument for the `find` commands means I can move files matching my specific query, *prokka*.
+#I use a pipe with `find` and `xargs` commands, which takes the files I want to move, and relocates them to my assemblies directory. The `-type d` argument for the `find` commands means I can move files matching my specific query, *prokka*.
 
 echo Move files
 find *prokka* -type d | xargs -I '{}' mv '{}' assemblies
