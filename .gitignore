@@ -20,6 +20,8 @@ data/raw-data-plgs/*.mgf
 
 data/*.faa
 
+data/Mayer-plgs-mgf/*.mgf
+
 #Copied from Octocat Gist:
 # Compiled source #
 ###################
