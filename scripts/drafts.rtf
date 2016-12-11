@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;\red255\green255\blue255;
+}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;\csgray\c0;\csgray\c100000;
+}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 051216_Mayer_R3.mgf
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 ' -f HEAD\
+\
+git rm --cached 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 051216_Mayer_R3.mgf\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 git checkout -- 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 051216_Mayer_R3.mgf
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch <
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 051216_Mayer_R3.mgf>
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 \'92 -f HEAD\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 data/Mayer-plgs-mgf/051216_Mayer_R3.mgf
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 ' -f HEAD\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 051216_Mayer_R3.mgf
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 ' -f HEAD\
+\
+git filter-branch --force --index-filter \\\
+'git rm --cached --ignore-unmatch 
+\f1\fs22 \cf3 \cb4 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 data/Mayer-plgs-mgf/051216_Mayer_R3.mgf
+\f0\fs24 \cf2 \cb1 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 \'92 \\\
+--prune-empty --tag-name-filter cat -- --all\
+\
+java -jar bfg.jar  --strip-blobs-bigger-than 100M  my-repo.git\
+}
