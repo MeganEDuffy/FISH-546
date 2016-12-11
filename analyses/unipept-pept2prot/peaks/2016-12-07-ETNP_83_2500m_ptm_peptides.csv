@@ -1,0 +1,107 @@
+peptide,uniprot_id,protein_name,taxon_id
+AFCCK,Q494F8,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,291272
+AFCCK,R6NJL2,Diaminopimelate decarboxylase,1262803
+AFCCK,J9GAV9,Two-component system response regulator,749906
+AFCCK,F6RW69,Uncharacterized protein,13616
+AFCCK,A0A0D2SA16,Uncharacterized protein,29730
+AFCCK,A0A059UIG2,Vif protein,11673
+AFCCK,D4AVW4,Uncharacterized protein,663331
+AFCCK,G9RYP4,Diaminopimelate decarboxylase,665956
+AFCCK,A0A0W7TM85,Diaminopimelate decarboxylase,1550025
+AFCCK,V9LBU4,ADP-ribosylation factor-like 15,7868
+AFCCK,A0A0D8J432,Diaminopimelate decarboxylase,1550024
+AFCCK,H1PKV1,Putative uncharacterized protein,883109
+AFCCK,M0TC89,Uncharacterized protein,214687
+AFCCK,V9LJ85,ADP-ribosylation factor-like 15,7868
+AFCCK,A0A0A8Y343,Uncharacterized protein,35708
+AFCCK,A0A0P7B7D3,Uncharacterized protein,78410
+AFCCK,A0A0D2SA21,Uncharacterized protein,29730
+AFCCK,A0DRX8,Uncharacterized protein,5888
+AFCCK,A0A0G1DV35,Uncharacterized protein,1619068
+AFCCK,A0A059U9D1,Vif protein,11673
+AFCCK,R6BQ44,Diaminopimelate decarboxylase,1262778
+AFCCK,X8K4Q6,Uncharacterized protein,888727
+AFCCK,R7L1J7,Diaminopimelate decarboxylase,1262955
+AFCCK,V9LH78,ADP-ribosylation factor-like protein 15,7868
+AFCCK,R6CTC2,Diaminopimelate decarboxylase,1262783
+AFCCK,R4WNR6,Xanthine dehydrogenase molybdopterin binding subunit,758793
+AFCCK,A0A097F8I1,Chitinase,176275
+AFCCK,Q6VP47,Glucose-inhibited division protein A,101534
+AFCCK,A0A087S186,Uncharacterized protein,1503183
+AFCCK,A0A059UER4,Vif protein,11673
+AFCCK,A0A081S813,Uncharacterized protein,1502292
+AFCCK,C0NPJ0,Uncharacterized protein,447093
+AFCCK,C0EJ57,Diaminopimelate decarboxylase,537013
+AFCCK,A0A0S2DJT9,Uncharacterized protein,69
+AFCCK,F0ZMB4,Putative uncharacterized protein,5786
+AFCCK,A0A0P6ZMC4,Uncharacterized protein,29497
+AFCCK,A0A059UHW8,Vif protein,11673
+AFCCK,M3Z733,Olfactory receptor,9669
+AFCCK,R9LZ76,Diaminopimelate decarboxylase,1235835
+AFCCK,R0F3W1,Uncharacterized protein,81985
+AFCCK,Q6VP45,Glucose-inhibited division protein A,251542
+AFCCK,B0P7M2,Diaminopimelate decarboxylase,445972
+AFCCK,J4KL22,Symbiotic chitinase,655819
+AFCCK,L0MWI6,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,1240471
+AFCCK,U2DC37,Diaminopimelate decarboxylase,1507
+AFCCK,D4DB10,Uncharacterized protein,663202
+AFCCK,Q84810,Presumed viral infectivity factor,32615
+AFCCK,Q4RCN2,"Chromosome undetermined SCAF18480, whole genome shotgun sequence",99883
+AFCCK,E6U8N8,Diaminopimelate decarboxylase,663278
+AFCCK,A0A0C2CE49,"Xanthine dehydrogenase, molybdopterin binding subunit",870478
+AAVGNLK,K6U764,NAD-dependent aldehyde dehydrogenase,1196322
+AAVGNLK,A0A0C1URK3,Betaine-aldehyde dehydrogenase,1202785
+AAVGNLK,I0K130,Putative aldehyde dehydrogenase dhaS,1156937
+AAVGNLK,A6M362,Aldehyde dehydrogenase,290402
+AAVGNLK,K3WL01,Uncharacterized protein,431595
+AAVGNLK,M1MPJ9,Betaine aldehyde dehydrogenase GbsA,931276
+AAVGNLK,A0A0K2M799,Betaine-aldehyde dehydrogenase,1428454
+AAVGNLK,A0A091LMY0,Protein phosphatase Slingshot 1,187382
+AAVGNLK,L0LUX3,Aldehyde dehydrogenase,698761
+AAVGNLK,F8E466,Permease YjgP/YjgQ family protein,717231
+TLTGHSK,Q8VEJ4,Notchless protein homolog 1,10090
+TLTGHSK,A0A0F6QUG8,3-oxoacyl-(Acyl-carrier protein) reductase,161896
+TLTGHSK,B0JL81,Serine/threonine protein kinase,449447
+TLTGHSK,Q8FR52,Fatty-acid synthase I,196164
+TLTGHSK,B9FTM4,Uncharacterized protein,39947
+TLTGHSK,B2GV82,Protein Nle1,10116
+TLTGHSK,J9WBT0,Fatty acid synthase subunit beta,1232724
+TLTGHSK,F7GPN3,Uncharacterized protein,9483
+TLTGHSK,G3GTU8,Notchless protein-like 1,10029
+TLTGHSK,A0A0K2X0X4,Fatty-acid synthase,43770
+TLTGHSK,A0A0B2YYA3,ACP S-malonyltransferase,38301
+TLTGHSK,C3XS02,Putative uncharacterized protein,7739
+TLTGHSK,A0A0B6F087,"Beta-ketoacyl synthase, C-terminal domain",161899
+TLTGHSK,A0A081HXZ8,Fatty acid synthase Fas,1324269
+TLTGHSK,C3PK05,Uncharacterized protein,548476
+TLTGHSK,A0A110A7Z2,ACP S-malonyltransferase,1705
+TLTGHSK,H8IPF6,Fatty acid synthase,487521
+TLTGHSK,A0A0B6EY40,"Fatty acid synthase, bacterial type",161899
+TLTGHSK,U1R6S4,Beta-ketoacyl synthase protein,1227261
+TLTGHSK,F7GHQ8,Uncharacterized protein,9483
+TLTGHSK,I4I1Z7,Serine/threonine protein kinase,1160285
+TLTGHSK,I4GJQ8,Serine/threonine protein kinase,213618
+TLTGHSK,C3PK08,Fatty acid synthase,548476
+TLTGHSK,A0A0P7JVT0,3-oxoacyl-ACP synthase,222805
+TLTGHSK,C2CPM5,MaoC-like protein,525268
+TLTGHSK,A0A127NTR0,"Beta-ketoacyl synthase, C-terminal domain protein",146827
+TLTGHSK,A0A068NFS0,ACP S-malonyltransferase,59505
+TLTGHSK,H0VN00,Uncharacterized protein,10141
+TLTGHSK,W5XXY7,Fatty acid synthase,1285583
+TLTGHSK,Q3URT5,Putative uncharacterized protein,10090
+TLTGHSK,A0A0M2XFG1,Uncharacterized protein,38301
+TLTGHSK,A0A0W1KIB9,Polyketide biosynthesis malonyl CoA-acyl carrier protein transacylase PksC,59561
+TLTGHSK,A0A127P1E1,"Beta-ketoacyl synthase, C-terminal domain protein",146827
+TLTGHSK,S4Z6F0,Fatty acid synthase,1138871
+TLTGHSK,K9J2Y5,Putative notchless-like wd40 repeat-containing protein,9430
+TLTGHSK,B8B3D0,Putative uncharacterized protein,39946
+TLTGHSK,G3QBJ3,Uncharacterized protein,69293
+TLTGHSK,A0A0L0P3Q2,Uncharacterized protein,498019
+TLTGHSK,X6LBG6,WD-40 repeat protein,46433
+TLTGHSK,H0X1H4,Uncharacterized protein,30611
+TLTGHSK,I2AAV6,Fatty acid synthase,1168287
+TLTGHSK,X8A5U7,"Beta-ketoacyl synthase, C-terminal domain protein",1299329
+TLTGHSK,A0A0E3EKV8,Notchless protein 1,8175
+TLTGHSK,S2VFA7,Uncharacterized protein,883067
+TLTGHSK,W5XQV6,Fatty acid synthase,1285583
+TLTGHSK,A0A0B6TDC3,Putative fatty acid synthase,1224162

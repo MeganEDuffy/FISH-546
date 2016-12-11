@@ -1,0 +1,2160 @@
+peptide,uniprot_id,protein_name,taxon_id
+VLLAHHR,A0A0H4W1B4,tRNA(Ile)-lysidine synthase,103855
+VLLAHHR,F1M3Z2,Protein RGD1561667,10116
+VLLAHHR,A0A0H1AE23,NUDIX hydrolase,1638939
+VLLAHHR,A0A140DRK0,Uncharacterized protein,1702221
+VLLAHHR,A0A0M7GRW8,tRNA(Ile)-lysidine synthase,134375
+VLLAHHR,A0A0Q9SS77,Uncharacterized protein,1736416
+VLLAHHR,A0A0J6C2C9,tRNA(Ile)-lysidine synthase,1331258
+HTLQAFR,A0A0P6YJU3,ATP synthase gamma chain,869279
+MYHNK,M7CJ98,"Receptor, putative",1239989
+MYHNK,B0K2T0,"Methylmalonyl-CoA mutase, large subunit",399726
+MYHNK,C5DZI3,ZYRO0G04664p,559307
+MYHNK,A0A015IIM3,Uncharacterized protein,1432141
+MYHNK,K4IP34,Uncharacterized protein,313595
+MYHNK,A6TLU0,Diguanylate cyclase and metal dependent phosphohydrolase,293826
+MYHNK,R7HIB4,Uncharacterized protein,1263018
+MYHNK,A0A0G1ZA29,Uncharacterized protein,1618671
+MYHNK,T2JCV8,Uncharacterized protein,555881
+MYHNK,A0A0W0SSP8,Uncharacterized protein,29422
+MYHNK,A0A133JBU7,Chemotaxis protein,293387
+MYHNK,A0A0G1XJM1,Uncharacterized protein,1618676
+MYHNK,A0A127W0J3,Uncharacterized protein,1476
+MYHNK,A0A067P6L9,Uncharacterized protein,933084
+MYHNK,G3LV10,Uncharacterized protein,118713
+MYHNK,H3FYX9,Uncharacterized protein,54126
+MYHNK,A0A0A9FMU3,Uncharacterized protein,35708
+MYHNK,Q55AI7,Uncharacterized protein,44689
+MYHNK,W8R341,Chemotaxis protein,1408
+MYHNK,B0K8U5,"Methylmalonyl-CoA mutase, large subunit",340099
+MYHNK,C7IS99,"Methylmalonyl-CoA mutase, large subunit",589861
+MYHNK,A0A0C1RAU4,Anti-sigma F factor,1418104
+MYHNK,A0A074L3K9,Alpha-N-arabinofuranosidase,1048983
+MYHNK,K7IUU2,Uncharacterized protein,7425
+MYHNK,A0A0M3EVX6,TonB-dependent receptor,582
+MYHNK,A0A0L0C6F6,Uncharacterized protein,7375
+MYHNK,Q86GJ2,Cathepsin L,6087
+MYHNK,A0A086AAU0,Membrane protein,991
+MYHNK,F8E814,Molybdenum cofactor synthesis domain protein,717231
+MYHNK,A0A0R1GWB0,Uncharacterized protein,1423722
+MYHNK,K5VL78,Capsular polysaccharide synthesis family protein,992011
+MYHNK,A0A0D8XH52,Uncharacterized protein,29172
+MYHNK,B1KEW0,Uncharacterized protein,392500
+MYHNK,A0A0C2LUL3,Uncharacterized protein,1245935
+MYHNK,A0A0A2R5K5,TonB-dependent receptor,582
+MYHNK,A0A0R1YKE4,Uncharacterized protein,1423721
+MYHNK,E4MU18,Uncharacterized protein,873517
+MYHNK,R5XLE5,Uncharacterized protein,1262756
+MYHNK,M5RCS9,Methyl-accepting chemotaxis protein,1236481
+MYHNK,R5HMG8,Uncharacterized protein,1263105
+MYHNK,K5VR13,Uncharacterized protein,650164
+MYHNK,C2G3R3,"Heavy metal efflux pump, CzcA family",525372
+MYHNK,K5XCT7,Uncharacterized protein,597362
+MYHNK,K4JN44,Uncharacterized protein,1211643
+MYHNK,D8TBQ5,Putative uncharacterized protein,88036
+MYHNK,R9CKJ0,ATP synthase subunit a,1216967
+MYHNK,R7LIM1,Outer membrane protein OMP85 family,1262937
+MYHNK,K3XRA1,Uncharacterized protein,4555
+MYHNK,S7V6Z1,Putative two-component system sensor protein,641524
+MYHNK,D7EJQ4,Uncharacterized protein,7070
+MYHNK,H6LJV2,Sensory box-containing diguanylate cyclase,931626
+MYHNK,X1JN81,Uncharacterized protein,412755
+MYHNK,K9HM89,Uncharacterized protein,936046
+MYHNK,A0A0X9N8R1,Histidine kinase,1313
+MYHNK,S2D5F8,Trehalase,1189612
+MYHNK,E8URI5,"Methylmalonyl-CoA mutase, large subunit",509193
+MYHNK,A0A024UBJ3,Uncharacterized protein,157072
+MYHNK,A0A081NT14,Uncharacterized protein,1501230
+MYHNK,A0A0F9MEW5,Uncharacterized protein,412755
+MYHNK,Q4GZ17,Uncharacterized protein,185431
+MYHNK,T2IWV0,Uncharacterized protein,423472
+MYHNK,A0A101D8F5,Methylmalonyl-CoA mutase large subunit,29350
+MYHNK,Q3C1J2,Putative uncharacterized protein,4096
+MYHNK,C9ZIE1,T. brucei spp.-specific protein,679716
+MYHNK,R7R5Y8,Diguanylate cyclase (GGDEF) domain,1262940
+MYHNK,T2JX14,Uncharacterized protein,1284629
+MYHNK,R6RD71,Transcriptional regulator AraC family,1262886
+MYHNK,A0A0A9B365,Uncharacterized protein,35708
+MYHNK,G6D062,Uncharacterized protein,13037
+MYHNK,Q3HKB0,Uncharacterized protein,4097
+MYHNK,R9ACM8,Uncharacterized protein,1299270
+MYHNK,G2QIU5,Uncharacterized protein,573729
+MYHNK,A0A061Q6E7,Capsular polysaccharide synthesis enzyme CpsH,1460647
+MYHNK,I3K6J9,Biogenesis of lysosome-related organelles complex 1 subunit 6,8128
+MYHNK,D8RM81,Putative uncharacterized protein,88036
+MYHNK,A0A0C1G0A8,Membrane protein,1566023
+MYHNK,A0A0C2M5B2,Uncharacterized protein,1233231
+CSYHK,A0A0F4R5H6,Uncharacterized protein,579478
+CSYHK,H2LUB9,Uncharacterized protein,8090
+CSYHK,M1CRZ8,Uncharacterized protein,4113
+CSYHK,A0A0S7I550,SEM5A,188132
+CSYHK,A0A0U1PY34,Uncharacterized protein,1610491
+CSYHK,H2TKY7,Uncharacterized protein,31033
+CSYHK,U2BXP9,Ribosome maturation factor RimM,1227266
+CSYHK,J6HKM8,Ribosome maturation factor RimM,936370
+CSYHK,A0A096LZV6,Uncharacterized protein,48698
+CSYHK,A0A0P4WZ86,Uncharacterized protein,85551
+CSYHK,I3KA91,Uncharacterized protein,8128
+CSYHK,A0A0F8AH08,Semaphorin-5A,215358
+CSYHK,E6ZIK6,Semaphorin-5A,13489
+CSYHK,H3CRV9,Uncharacterized protein,99883
+CSYHK,A5C5X0,Putative uncharacterized protein,29760
+CSYHK,H3ZEI4,Uncharacterized protein,1129374
+CSYHK,M4AXS8,Uncharacterized protein,8083
+CSYHK,Q772M3,Innexin Vnx-q1,10484
+CSYHK,H2TKY8,Uncharacterized protein,31033
+CSYHK,A0A087X5J9,Uncharacterized protein,48698
+CSYHK,S2WGJ6,Ribosome maturation factor RimM,641143
+CSYHK,Q8JV08,Innexin-like protein 1,654920
+CSYHK,Q4SMY0,"Chromosome 6 SCAF14544, whole genome shotgun sequence",99883
+CSYHK,A0A0K9RB35,Uncharacterized protein,3562
+CSYHK,R0LC83,Uncharacterized protein,8839
+CSYHK,A0A087G0R2,Uncharacterized protein,50452
+CSYHK,A0A094L311,P2X purinoceptor,279965
+CSYHK,A5AH62,Putative uncharacterized protein,29760
+CSYHK,A0A0D3DCX7,Uncharacterized protein,109376
+CSYHK,A0A066WPY8,Chord-domain-containing protein,1037660
+CSYHK,H2TKY9,Uncharacterized protein,31033
+CSYHK,A5AQC0,Putative uncharacterized protein,29760
+CSYHK,A5ANB5,Putative uncharacterized protein,29760
+CSYHK,H2TKZ0,Uncharacterized protein,31033
+HDENYK,A0A0L0FX17,Uncharacterized protein,667725
+HDENYK,A0A0Y9X316,Uncharacterized protein,5821
+HDENYK,T0JQU4,Uncharacterized protein,1172190
+HDENYK,A0A0B1P2D7,Putative ubx domain-containing protein,52586
+HDENYK,A0A077YCJ5,Uncharacterized protein,5823
+HDENYK,R6FLC8,UvrABC system protein C,1262883
+NYWLPK,A0A0F4Q3B0,Malate dehydrogenase,43662
+NYWLPK,A0A0S2X9J3,NAD-dependent malic enzyme,283699
+NYWLPK,S0FTK8,Acyl-CoA dehydrogenase,1195236
+NYWLPK,A0Y1U4,NAD-dependent malic enzyme,156578
+NYWLPK,A0A0P9GAX2,NAD-dependent malic enzyme,1715254
+NYWLPK,A0A0S3AU39,NAD-dependent malic enzyme,152297
+NYWLPK,A0A0F4P207,Malate dehydrogenase,43662
+NYWLPK,A0A0P1M9U5,Glutaryl-CoA dehydrogenase,1633629
+NYWLPK,Z9K1U5,NAD-dependent malic enzyme,1461766
+NYWLPK,A0A063KRS1,NAD-dependent malic enzyme,43655
+NYWLPK,A0A0C1LEA8,Malate dehydrogenase,81037
+NYWLPK,A0A0W1LHK9,NAD-dependent malic enzyme,1348393
+NYWLPK,A0A0U2VEW2,Malate dehydrogenase (Oxaloacetate-decarboxylating),1315283
+NYWLPK,A0A0G4IL84,Uncharacterized protein,37360
+NYWLPK,W3YA29,"Acyl-CoA dehydrogenase, C-terminal domain protein",1256993
+NYWLPK,A0A099LEZ7,NAD-dependent malic enzyme,1535421
+NYWLPK,G4VSD1,Uncharacterized protein,6183
+NYWLPK,A0A0P1LCK9,Glutaryl-CoA dehydrogenase,1633633
+NYWLPK,A0A0S4MQV5,Glutaryl-CoA dehydrogenase,1643429
+NYWLPK,A0A0F4SBC3,NAD-dependent malic enzyme,579607
+NYWLPK,A0A0P1LE63,Glutaryl-CoA dehydrogenase,1633637
+NYWLPK,A0A0Q0H1R1,NAD-dependent malic enzyme,1723757
+NYWLPK,A0A0P1M548,Glutaryl-CoA dehydrogenase,1633636
+NYWLPK,A0A0P1MUI1,Glutaryl-CoA dehydrogenase,1633642
+NYWLPK,G7EWR5,NAD-dependent malic enzyme,383911
+NYWLPK,E6RJE8,NAD-dependent malic enzyme,234831
+NYWLPK,A0A0S4N4Q4,Glutaryl-CoA dehydrogenase,1643431
+NYWLPK,U1KFP8,Malate dehydrogenase,1117313
+NYWLPK,A0A0W1KQW1,NAD-dependent malic enzyme,1761893
+NYWLPK,N6V555,NAD-dependent malic enzyme,1307437
+NYWLPK,G7F8V7,NAD-dependent malic enzyme,1097676
+NYWLPK,A0A0Q0FC97,NAD-dependent malic enzyme,1723758
+NYWLPK,Q3IGP5,NAD-linked malate dehydrogenase,326442
+NYWLPK,A0A0P1M201,Glutaryl-CoA dehydrogenase,1633635
+NYWLPK,A0A0P1MQ99,Glutaryl-CoA dehydrogenase,1633643
+NYWLPK,U1LB85,Malate dehydrogenase,1117317
+NYWLPK,D1P208,"Acyl-CoA dehydrogenase, C-terminal domain protein",500637
+NYWLPK,B5LT54,Silicatein B,553186
+NYWLPK,C4V0F8,Uncharacterized protein,638302
+NYWLPK,A0A0S4MVA4,Glutaryl-CoA dehydrogenase,1643430
+NYWLPK,A0A0P1MG53,Glutaryl-CoA dehydrogenase,1633628
+NYWLPK,K8WNP6,Butyryl-CoA dehydrogenase,1141663
+NYWLPK,A0A0P1MR82,Glutaryl-CoA dehydrogenase,1633626
+NYWLPK,A0A0W1BNH6,NAD-dependent malic enzyme,1761891
+NYWLPK,A0A0P1M2D7,Glutaryl-CoA dehydrogenase,1633634
+NYWLPK,F3BP31,NAD-dependent malic enzyme,722419
+NYWLPK,A0A0P1MVS7,Glutaryl-CoA dehydrogenase,1633641
+NYWLPK,U1JLP8,NAD-dependent malic enzyme,1117316
+NYWLPK,A0A0K1FK22,Uncharacterized protein,712538
+NYWLPK,G7EG48,NAD-dependent malic enzyme,388384
+NYWLPK,A0A0P1LAL1,Glutaryl-CoA dehydrogenase,1633631
+NYWLPK,G7G0M9,NAD-dependent malic enzyme,386429
+NYWLPK,A0A0W1L5N0,NAD-dependent malic enzyme,1761890
+NYWLPK,U1JMR1,NAD-dependent malic enzyme,1117314
+NYWLPK,A0A0F9RDN0,Uncharacterized protein,412755
+NYWLPK,A0A0S4N6S4,Glutaryl-CoA dehydrogenase,1643428
+NYWLPK,A0A0N0M1N7,Malate dehydrogenase,187330
+NYWLPK,A0A0B2JBY6,NAD-dependent malic enzyme,1315273
+ATNNSR,Q8VI88,Outer dense fiber protein 4,10090
+ATNNSR,A0A0F7NZN4,Ferrichrome-iron receptor,1352940
+ATNNSR,K0R4N2,Uncharacterized protein,159749
+ATNNSR,A0A0A2H3U1,Ferrichrome-iron receptor,172045
+ATNNSR,V4LJI3,Uncharacterized protein,72664
+ATNNSR,A0A0K8W0H6,Protein kinase DC2,174628
+ATNNSR,U9UF62,Uncharacterized protein,747089
+ATNNSR,A0A0D5BND4,Ferripyoverdine receptor,722877
+ATNNSR,A0A0P1KQT6,LAQU0S02e07382g1_1,1654605
+ATNNSR,A0A0D1Z3Q0,Uncharacterized protein,569365
+ATNNSR,R5MW70,Uncharacterized protein,1262990
+ATNNSR,A0A0A3HN69,Uncharacterized protein,1384057
+ATNNSR,A0A084U8D3,"Transcriptional regulator, GntR family",472175
+ATNNSR,A0A0R4J255,Outer dense fiber protein 4,10090
+ATNNSR,A0A077EAF0,Ferrichrome-iron receptor,1338011
+ATNNSR,T0N6X7,Ferrichrome-iron receptor,1355388
+ATNNSR,X5K7G8,TonB-dependent siderophore receptor,1117645
+ATNNSR,H6QNY4,Putative uncharacterized protein,418459
+ATNNSR,A0A0N5DXF4,Uncharacterized protein,70415
+ATNNSR,C5E2Z7,KLTH0H09108p,559295
+ATNNSR,A0A0C9XEW3,"Unplaced genomic scaffold K443scaffold_45, whole genome shotgun sequence",1095629
+ATNNSR,O72812,Envelope protein,11665
+ATNNSR,R0CJJ1,Uncharacterized protein,999406
+ATNNSR,O72814,Envelope protein,11665
+ATNNSR,L8K1B5,TonB-dependent siderophore receptor,1246994
+ATNNSR,G3UX65,Outer dense fiber protein 4,10090
+ATNNSR,O72791,Envelope protein,11665
+ATNNSR,A0A085CCX3,Ferrichrome-iron receptor,238
+CEYHK,B4IXJ2,Protein cueball,7222
+CEYHK,M2REA7,Uncharacterized protein,885311
+CEYHK,C4M1I0,Uncharacterized protein,5759
+CEYHK,A0A067C3M8,Uncharacterized protein,695850
+CEYHK,A7ASW5,Uncharacterized protein,5865
+CEYHK,A0A0F9SJG3,Uncharacterized protein,412755
+CEYHK,Q011N5,"Zinc finger, RanBP2-type",70448
+CEYHK,A0A0F9B2V4,Uncharacterized protein,412755
+CEYHK,Q4U9F9,Uncharacterized protein,5874
+CEYHK,W5UE18,Nucleotide-binding oligomerization domain-containing protein 1,7998
+CEYHK,N9TJH9,Uncharacterized protein,885318
+CEYHK,A0CQX1,Uncharacterized protein,5888
+CEYHK,K2GU79,Uncharacterized protein,1076696
+CEYHK,Q4N254,Uncharacterized protein,5875
+CEYHK,B0EET2,Putative uncharacterized protein,370354
+CEYHK,A0D2W8,Uncharacterized protein,5888
+CEYHK,C8PEM1,Helicase C-terminal domain protein,553220
+CEYHK,A6M2M4,"Glycosyl transferase, family 2",290402
+CEYHK,M3TZ87,Uncharacterized protein,885319
+CEYHK,M7VZT2,Uncharacterized protein,885315
+CEYHK,K8FHY7,Uncharacterized protein,41875
+CEYHK,A0A0C9VXE0,"Unplaced genomic scaffold SPHSTscaffold_47, whole genome shotgun sequence",990650
+CEYHK,F7HXQ7,Uncharacterized protein,9483
+CEYHK,A0A090LER3,Metalloendopeptidase,34506
+CEYHK,A0CP12,Uncharacterized protein,5888
+CEYHK,C6FG09,NOD1 receptor,7998
+CEYHK,T0S6J9,Uncharacterized protein,1156394
+CPFCSR,A0A085N494,Uncharacterized protein,68888
+CPFCSR,F0XZ87,Putative uncharacterized protein,44056
+CPFCSR,A0A0B3AI74,"50S ribosomal protein L37Ae, large subunit ribosomal protein L37Ae",1579368
+CPFCSR,W4XRM0,Uncharacterized protein,7668
+CPFCSR,A0A0D2IK99,"Unplaced genomic scaffold supercont1.3, whole genome shotgun sequence",1442370
+CPFCSR,A0A015IQE0,Uncharacterized protein,1432141
+CPFCSR,A4IIF7,Uncharacterized protein,8364
+CPFCSR,A0A0L0NAJ6,Glycine-rich domain-containing protein 1,1163406
+CPFCSR,H5Y3E5,Putative uncharacterized protein,768710
+CPFCSR,T4ZX55,Zinc finger protein,911162
+CPFCSR,A0A0U0SEZ7,Uncharacterised protein,1773
+CPFCSR,A0A087UBU9,Hypermethylated in cancer 2 protein,407821
+CPFCSR,I3JC06,Uncharacterized protein,8128
+CPFCSR,A0A085M2A8,Uncharacterized protein,68888
+CPFCSR,X5J9E6,Uncharacterized protein,1354314
+CPFCSR,A5ENG2,Putative alcohol dehydrogenase,288000
+CPFCSR,U5FJM6,Uncharacterized protein,3694
+CPFCSR,A0A0L8HM82,Uncharacterized protein,37653
+HVVDER,A0A0G4PFZ3,Str. FM013,1429867
+HVVDER,A0A0U1Q9J2,NADPH:quinone reductase,1120623
+HVVDER,A0A0Q8WKJ4,NADPH:quinone reductase,1736602
+HVVDER,A0A0V0XYP8,Succinyl-CoA ligase subunit beta,6337
+HVVDER,U7PJ50,Uncharacterized protein,1391915
+HVVDER,J4YBY4,Alcohol dehydrogenase,1156919
+HVVDER,M2WWN6,ATP-dependent DNA helicase RecG,1278078
+HVVDER,S3D1H2,Hit zinc finger,1262450
+HVVDER,A0A0V1JAM7,Succinyl-CoA ligase subunit beta,6337
+HVVDER,S6JIR1,Zinc-containing alcohol dehydrogenase superfamily protein,911239
+HVVDER,A0A0F4SPE4,NADPH:quinone reductase,294
+HVVDER,A0A0P8XFX1,"Uncharacterized protein, isoform B",7217
+HVVDER,A0A096RYQ2,Uncharacterized protein,4577
+HVVDER,A0A062Y1E3,Uncharacterized protein,1312852
+HVVDER,A0A0V0XXZ2,Neural Wiskott-Aldrich syndrome protein,6337
+HVVDER,M5R0A6,Zinc-containing alcohol dehydrogenase superfamily protein,1206777
+HVVDER,S7RLW3,Uncharacterized protein,670483
+HVVDER,A0A0Q5WB13,"Uncharacterized protein, isoform B",7220
+HVVDER,L1JD12,Uncharacterized protein,905079
+HVVDER,A0A0J6HLT8,NADPH:quinone reductase,122355
+HVVDER,A0A0J6GLZ3,NADPH:quinone reductase,47884
+HVVDER,A0A0Q5WB22,"Uncharacterized protein, isoform C",7220
+HVVDER,A0A0C2F7U0,Uncharacterized protein,1398154
+HVVDER,A0A0J9QXD4,"Uncharacterized protein, isoform B",7240
+HVVDER,K9B7M9,"Transcriptional regulator, TetR family protein",1229781
+HVVDER,C1E927,Uncharacterized protein,296587
+HVVDER,F7VJV6,RH44661p,7227
+HVVDER,Q8SZ50,RE16905p,7227
+HVVDER,Q7KTL5,"Septin interacting protein 2, isoform B",7227
+HVVDER,S4XSW4,Uncharacterized protein,1254432
+HVVDER,E1C4E7,Uncharacterized protein,9031
+HVVDER,A0A0F2MA42,Uncharacterized protein,1397361
+HVVDER,A0A0A1HX87,Bifunctional protein: zinc-containing alcohol dehydrogenase quinone oxidoreductase ( NADPH:quinone reductase) Similar to arginate lyase,984195
+HVVDER,A0A0S4HSZ1,Zinc-type alcohol dehydrogenase-like protein,1283291
+HVVDER,B4NZY1,"Sip2, isoform C",7245
+HVVDER,B4MZ17,Uncharacterized protein,7260
+HVVDER,J2NA26,Zinc-binding alcohol dehydrogenase family protein,1144325
+HVVDER,A0A0Q5ES99,NADPH:quinone reductase,1736267
+HVVDER,A0A0T6LNE6,Uncharacterized protein,76728
+HVVDER,G1N3J7,Uncharacterized protein,9103
+HVVDER,A0A0N8WDD5,Transposase,1704277
+HVVDER,A0A125A079,Zinc-type alcohol dehydrogenase-like protein,1729583
+HVVDER,Q7KTL4,"Septin interacting protein 2, isoform C",7227
+HVVDER,A0A0J6G303,NADPH:quinone reductase,882211
+HVVDER,A0A0J6LGB8,NADPH:quinone reductase,1608994
+HVVDER,Q9VM57,"Septin interacting protein 2, isoform E",7227
+HVVDER,U6ZTZ0,NADPH:quinone reductase,1387231
+HVVDER,A0A0V1IUK4,Succinyl-CoA ligase subunit beta,6337
+HVVDER,A0A0J6J2Y7,NADPH:quinone reductase,1608993
+HVVDER,B3N674,"Uncharacterized protein, isoform A",7220
+HVVDER,A0A0X2YGP1,Lipoprotein,196367
+HVVDER,A0A109R990,NADPH:quinone reductase,296
+HVVDER,Q71D41,CG9188,7245
+HVVDER,A0A0Q8JTR8,NADPH:quinone reductase,1736480
+HVVDER,A0A0J9QXG1,"Uncharacterized protein, isoform D",7240
+HVVDER,B3MKS9,"Uncharacterized protein, isoform A",7217
+HVVDER,A0A0Q7E105,NADPH:quinone reductase,1736443
+HVVDER,A0A0S2DJM1,Uncharacterized protein,69
+HVVDER,M7Z3X1,Uncharacterized protein,4572
+HVVDER,A0A0P8Y3W8,"Uncharacterized protein, isoform C",7217
+HVVDER,A0A0S4J9W2,Uncharacterized protein,75058
+HVVDER,A0A0R1DS39,"Sip2, isoform B",7245
+HVVDER,A0A0J9THG8,"Uncharacterized protein, isoform A",7240
+HVVDER,A0A0D1EI80,Zinc-type alcohol dehydrogenase-like protein,935700
+HVVDER,B4G008,Uncharacterized protein,4577
+HVVDER,A0A096RYQ4,Uncharacterized protein,4577
+HVVDER,A0A0M4QBK0,NADPH:quinone reductase,1788301
+HVVDER,M0ECM5,GAF sensor signal transduction histidine kinase,1227466
+HVVDER,B4HY10,GM13688,7238
+HVVDER,C8VV39,AT05639p,7227
+HVVDER,A0A0J6GYQ8,NADPH:quinone reductase,86185
+HVVDER,U2SN52,NADPH:quinone reductase,1299319
+HVVDER,A0A0V1FTF4,Succinyl-CoA ligase subunit beta,6337
+APVDFR,A1K2P7,tRNA 2-thiocytidine biosynthesis protein TtcA,62928
+APVDFR,Q5P3T7,tRNA 2-thiocytidine biosynthesis protein TtcA,76114
+APVDFR,A5KV91,IS66 Orf2 family protein,391574
+APVDFR,A0A0H4A1W5,Mobile element protein,29497
+APVDFR,A0A011QPW8,tRNA 2-thiocytidine biosynthesis protein TtcA,1454004
+APVDFR,G2DDG6,Putative metallopeptidase M23,1048808
+APVDFR,A0A0D3EQ77,Uncharacterized protein,65489
+APVDFR,A0A124SPN9,Transposase,292
+APVDFR,A3DAL5,IS66 Orf2 family protein,325240
+APVDFR,B6EP13,Transposase,316275
+APVDFR,A0A0E0C3K4,Uncharacterized protein,40149
+APVDFR,A3JGZ9,Uncharacterized protein,270374
+APVDFR,N6YDK1,tRNA 2-thiocytidine biosynthesis protein TtcA,1234382
+APVDFR,S4XS25,Uncharacterized protein,1254432
+APVDFR,F7KI81,Uncharacterized protein,658086
+APVDFR,I1NP28,Uncharacterized protein,4538
+APVDFR,N6XX58,tRNA 2-thiocytidine biosynthesis protein TtcA,1123367
+APVDFR,M1F8J7,Uncharacterized protein,490759
+APVDFR,A0A0F7UHY0,"Peptidyl-tRNA hydrolase domain-containing protein, putative",572307
+APVDFR,A5L0F6,IS66 Orf2 like protein,391574
+APVDFR,A0A0H3ZYV3,Mobile element protein,29497
+APVDFR,N6X8V3,tRNA 2-thiocytidine biosynthesis protein TtcA,1234381
+APVDFR,A0A0F9MQL2,Uncharacterized protein,412755
+APVDFR,A0A120DF39,Transposase,1194427
+APVDFR,A0A0D1GFH5,Whole genome shotgun sequence,1288792
+APVDFR,G2FGU0,"Peptidase, M23/M37 family protein",1049564
+APVDFR,H5WMG6,Transposase,864051
+APVDFR,F3QR84,Uncharacterized protein,762982
+APVDFR,N6YLD0,tRNA 2-thiocytidine biosynthesis protein TtcA,305700
+APVDFR,A0A0T6ASP7,Protein involved in cellulose biosynthesis (CelD),1640515
+APVDFR,A0A0C3MM23,tRNA 2-thiocytidine biosynthesis protein TtcA,1572758
+APVDFR,U3AWD1,Putative transposase,1219077
+APVDFR,I0Z0F9,Uncharacterized protein,574566
+APVDFR,G5SUG7,Uncharacterized protein,762968
+APVDFR,A0A090M7Q8,Unnamed product,70448
+APVDFR,A0A0Q7H6H5,Uncharacterized protein,1736536
+APVDFR,A0A0S2DCY1,PHP C-domain protein,69
+APVDFR,A0A0M0FWA2,tRNA 2-thiocytidine biosynthesis protein TtcA,1637998
+APVDFR,A5L6J3,IS66 Orf2 family protein,391574
+APVDFR,U2BH97,"ABC transporter, solute-binding protein",1226325
+APVDFR,A0A0E0FN86,Uncharacterized protein,4536
+APVDFR,A0A0Q8R5E4,Glutathione S-transferase,1736595
+APVDFR,C4ZN55,tRNA 2-thiocytidine biosynthesis protein TtcA,85643
+APVDFR,R5NI54,Uncharacterized protein,1263095
+APVDFR,A0A0T5ZBQ7,Opacity-associated protein A LysM-like domain-containing protein,54398
+APVDFR,A0A0Q5USE1,Glycoside hydrolase,1736299
+APVDFR,Q8LJD2,"cDNA clone:J023025F12, full insert sequence",39947
+APVDFR,A3JHD1,ISPsy5,270374
+APVDFR,A0A0E0MY44,Uncharacterized protein,4529
+APVDFR,A0A0S6UWX4,Uncharacterized protein,1126627
+APVDFR,A0A080LSU8,tRNA 2-thiocytidine biosynthesis protein TtcA,1454002
+APVDFR,A0A0T5YTL9,Peptidase family M23/Opacity-associated protein A LysM-like domain,54398
+APVDFR,A0A0F4GY31,Uncharacterized protein,1047168
+APVDFR,A0A0D5LYG0,IS66 Orf2 family protein,1504981
+APVDFR,A9IBU1,"ISPpu15, transposase Orf1",340100
+APVDFR,A0A0Q6UBX8,Transposase,1736430
+APVDFR,A2WRF1,Putative uncharacterized protein,39946
+APVDFR,S9ZRS6,tRNA 2-thiocytidine biosynthesis protein TtcA,1348657
+LPDCSR,A0A103YZU8,Secretion system protein E,666
+LPDCSR,A0A0H3ZSN8,"Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily",212663
+LPDCSR,A0A0D3EQY2,Uncharacterized protein,65489
+LPDCSR,G8B628,Putative uncharacterized protein,578454
+LPDCSR,F6HHB1,Putative uncharacterized protein,29760
+LPDCSR,A5ACU8,Putative uncharacterized protein,29760
+LPDCSR,A0A0E0CJP9,Uncharacterized protein,40149
+LPDCSR,A6D5E1,Type II secretion system protein E,391591
+LPDCSR,A0A0D3EQY1,Uncharacterized protein,65489
+LPDCSR,A2WS95,Putative uncharacterized protein,39946
+LPDCSR,F6EG08,Uncharacterized protein,443218
+LPDCSR,A0A0P7C8K9,Uncharacterized protein,269536
+LPDCSR,A0A0E0JKV2,Uncharacterized protein,4537
+LPDCSR,A0A0E0FP87,Uncharacterized protein,4536
+LPDCSR,A9M4R2,Uncharacterized protein,452803
+LPDCSR,L7JXI7,Uncharacterized protein,72359
+LPDCSR,A0A0E0FP86,Uncharacterized protein,4536
+LPDCSR,A0A0D9YBD8,Uncharacterized protein,40148
+LPDCSR,A0A087IFB0,Secretion system protein E,672
+LPDCSR,A0A0D3EQY0,Uncharacterized protein,65489
+LPDCSR,A0A0H3ZWK6,"Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily",212663
+LPDCSR,D5MSW4,Putative uncharacterized protein,77133
+CCCCR,Q9NSI5,Immunoglobulin superfamily member 5,9606
+CCCCR,Q8WXQ3,Putative uncharacterized protein encoded by LINC01599,9606
+CCCCR,A0A0V1N864,Collagen alpha-4(VI) chain,268474
+CCCCR,H2P364,Uncharacterized protein,9601
+CCCCR,A4H7K6,Cystathionine beta-lyase-like protein,5660
+CCCCR,A0A0V1HLC5,Collagen alpha-1(XVII) chain,268475
+CCCCR,A0A0V1B4Y2,Cuticle collagen sqt-1,6334
+CCCCR,E5SUQ5,Uncharacterized protein,6334
+CCCCR,H2PHB4,Uncharacterized protein,9601
+CCCCR,A0A0V1FWI0,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0V1JMV6,Collagen alpha-4(VI) chain,6337
+CCCCR,T1E2D7,Putative u88,869069
+CCCCR,Q4Q7I0,Putative calcium-binding protein,5664
+CCCCR,G3QD41,Uncharacterized protein,9595
+CCCCR,A0A0E0H1H6,Uncharacterized protein,4536
+CCCCR,A0A085LSH5,Uncharacterized protein,68888
+CCCCR,R1CZZ7,Uncharacterized protein,2903
+CCCCR,E9B7H4,"ABC1 transporter, putative",981087
+CCCCR,A0A072Y8X9,Uncharacterized protein,1443122
+CCCCR,A0A0S7MEP3,MTG16,188132
+CCCCR,A0A0N1I9Q3,Uncharacterized protein,5684
+CCCCR,A0A0D9WSK6,Uncharacterized protein,77586
+CCCCR,A0A0A0IE93,Uncharacterized protein,1443115
+CCCCR,A0A0V1KWV5,Cuticle collagen sqt-1,6335
+CCCCR,A0A0T7QZ31,Uncharacterised protein,520
+CCCCR,C9S6L7,Peroxiredoxin DOT5,526221
+CCCCR,A0A0P9ENR3,Uncharacterized protein,578459
+CCCCR,A0A0D2NAU3,Uncharacterized protein,945553
+CCCCR,E3MCY3,CRE-UGT-62 protein,31234
+CCCCR,A0A091L167,Tumor necrosis factor receptor superfamily member 10B,187382
+CCCCR,A0A0V1IEC1,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0H5LIA7,Uncharacterised protein,28450
+CCCCR,A0A0K2TL68,Uncharacterized protein,72036
+CCCCR,A0A0K2UYZ1,Uncharacterized protein,72036
+CCCCR,A0A125YFJ3,WD40 repeat containing protein,432359
+CCCCR,A0A0P6A105,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A059BID0,Uncharacterized protein,71139
+CCCCR,A0A086QP02,"WD domain, G-beta repeat-containing protein",943118
+CCCCR,U6K0E7,"D-3-phosphoglycerate dehydrogenase, putative",44415
+CCCCR,R1BIV9,Uncharacterized protein,2903
+CCCCR,A0A0V1B455,Cuticle collagen sqt-1,6334
+CCCCR,C0PND0,Uncharacterized protein,4577
+CCCCR,A0A0E0P9U5,Uncharacterized protein,4529
+CCCCR,A0A086JU00,"WD domain, G-beta repeat-containing protein",943119
+CCCCR,A0A0A8XS90,Uncharacterized protein,35708
+CCCCR,A0A0L7L4C7,Singles bar,104452
+CCCCR,A0A0K2TJZ6,Uncharacterized protein,72036
+CCCCR,F2U8T1,Putative uncharacterized protein,946362
+CCCCR,A0A0C9U307,"Unplaced genomic scaffold PAXINscaffold_25, whole genome shotgun sequence",664439
+CCCCR,G9KS63,Synaptotagmin VIII,9669
+CCCCR,A0A0P5X918,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A0J8CUD9,Uncharacterized protein,3555
+CCCCR,U6LDX4,Uncharacterized protein,51314
+CCCCR,H2WBE8,UDP-glucuronosyltransferase,281687
+CCCCR,A0A0V1KXC6,Cuticle collagen sqt-1,6335
+CCCCR,A0A0V1E1E3,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0P4U7V9,Putative transmembrane and coiled-coil domain-containing protein,77044
+CCCCR,G0U1J9,Putative uncharacterized protein,1055687
+CCCCR,A0A0M3J735,Uncharacterized protein,6269
+CCCCR,A0A0P5N6H2,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A0V1NW50,Cuticle collagen sqt-1,92180
+CCCCR,U3JJI8,Uncharacterized protein,59894
+CCCCR,A0A125YFJ0,"WD domain, G-beta repeat-containing protein",508771
+CCCCR,A0A0E0I0X5,Uncharacterized protein,4536
+CCCCR,U6MQS9,"3-oxoacyl-(Acyl-carrier-protein) synthase III family protein, putative",51315
+CCCCR,A0A0V1JMY0,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0V1HLK6,Putative cuticle collagen 75,268475
+CCCCR,A0A067EEE1,Uncharacterized protein,2711
+CCCCR,A0A016UPS8,Uncharacterized protein,53326
+CCCCR,A0A0V0X4T6,Cuticle collagen sqt-1,92179
+CCCCR,A0A0V0X4L0,Cuticle collagen sqt-1,92179
+CCCCR,A0A0V1D0C3,Cuticle collagen sqt-1,45882
+CCCCR,A0A087YRZ7,Uncharacterized protein,48698
+CCCCR,G3S2U2,Uncharacterized protein,9595
+CCCCR,R1CDN5,Uncharacterized protein,2903
+CCCCR,A0A016UNM9,Uncharacterized protein,53326
+CCCCR,A0A0V0X4I2,Putative cuticle collagen 75,92179
+CCCCR,U6MN69,Uncharacterized protein,51315
+CCCCR,A0A0V1JN38,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0V0VS30,Peptidase inhibitor 16,181606
+CCCCR,A0A0V1HKL5,Collagen alpha-1(XVII) chain,268475
+CCCCR,A0A0S4IRN4,Uncharacterized protein,75058
+CCCCR,T1FU69,Uncharacterized protein,6412
+CCCCR,A0A0V0RNL0,Uncharacterized protein,6336
+CCCCR,U6LZG2,Uncharacterized protein,5804
+CCCCR,A0A0V1KXG6,Cuticle collagen sqt-1,6335
+CCCCR,U6MZL2,Uncharacterized protein,51315
+CCCCR,A0A0V1D0C8,Cuticle collagen sqt-1,45882
+CCCCR,G1KIZ9,Uncharacterized protein,28377
+CCCCR,A0A131YEJ8,Membrane-bound transcription factor site-1 protease,34631
+CCCCR,A0A067CI67,Uncharacterized protein,695850
+CCCCR,U6GXS6,Uncharacterized protein,51316
+CCCCR,A0A0A9TMV9,Uncharacterized protein,35708
+CCCCR,A0A0A9L8L5,Uncharacterized protein,35708
+CCCCR,A4HRM7,Putative ABC1 transporter,5671
+CCCCR,A0A086LS82,"WD domain, G-beta repeat-containing protein",935652
+CCCCR,L7LTW5,Putative membrane-bound transcription factor protease site 1,72859
+CCCCR,A0A0X8Q762,Uncharacterized protein,549
+CCCCR,A9SH96,Predicted protein,3218
+CCCCR,A0A088S548,Cystathionine beta-lyase-like protein,5679
+CCCCR,U3CHW1,Uncharacterized protein,1219080
+CCCCR,A0A0L0TEU6,Uncharacterized protein,578462
+CCCCR,A0A0A9HJ94,Uncharacterized protein,35708
+CCCCR,A0A0V1E1R1,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0P4W804,Uncharacterized protein,85551
+CCCCR,A0A0L8HD16,Uncharacterized protein,37653
+CCCCR,A0A0J0XVR1,Uncharacterized protein,879819
+CCCCR,A0A067EE40,Uncharacterized protein,2711
+CCCCR,A0A0Q3JDR9,Uncharacterized protein,15368
+CCCCR,E9I4X5,Putative uncharacterized protein,6669
+CCCCR,A0A0U5HHJ1,Uncharacterized protein,40324
+CCCCR,A0A0V1E122,Collagen alpha-4(VI) chain,6337
+CCCCR,B0S6S2,Uncharacterized protein,7955
+CCCCR,L8X0E1,Uncharacterized protein,983506
+CCCCR,A0A0M9FSE6,Uncharacterized protein,157538
+CCCCR,Q9PWK6,Frizzled homolog 8b,7955
+CCCCR,A0A067ERB7,Uncharacterized protein,2711
+CCCCR,A8XSX1,UDP-glucuronosyltransferase,6238
+CCCCR,A8XSN4,Protein CBG17955,6238
+CCCCR,A0A0V1NW13,Putative cuticle collagen 75,92180
+CCCCR,G3P0D1,Uncharacterized protein,69293
+CCCCR,G1RRV9,Uncharacterized protein,61853
+CCCCR,D8M3U2,Uncharacterized protein,12968
+CCCCR,A0A074T3D7,"WD domain, G-beta repeat-containing protein",99158
+CCCCR,A0A016UNM5,Uncharacterized protein,53326
+CCCCR,A0A0P6CKV5,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A0N8AB07,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A0P6DPF7,Chitin binding Peritrophin-A domain,35525
+CCCCR,A0A0V0VS22,Peptidase inhibitor 16,181606
+CCCCR,A0A0V1HJP9,Collagen alpha-1(XVII) chain,268475
+CCCCR,M9MEZ2,Uncharacterized protein,1151754
+CCCCR,C6DY09,Uncharacterized protein,592027
+CCCCR,F4PIQ3,Putative uncharacterized protein,1054147
+CCCCR,M1VFF6,Uncharacterized protein,280699
+CCCCR,U6KA16,"B-box zinc finger protein, putative",44415
+CCCCR,I3NGN5,Uncharacterized protein,43179
+CCCCR,U6LAK0,Uncharacterized protein,5802
+CCCCR,A0A0V0TNX3,Cuticle collagen sqt-1,144512
+CCCCR,A0A0V1IEB8,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0V1JMU4,Collagen alpha-4(VI) chain,6337
+CCCCR,Q9YI49,Frizzled homolog,7955
+CCCCR,A0A0V1D0G6,Cuticle collagen sqt-1,45882
+CCCCR,A0A016UNI0,Uncharacterized protein,53326
+CCCCR,A0A0V1B3R0,Cuticle collagen sqt-1,6334
+CCCCR,A0A0P6IT74,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,J3M7P2,Uncharacterized protein,4533
+CCCCR,U6G7A8,"Ulp1 protease family, C-terminal catalytic domain-containing protein, putative",5801
+CCCCR,G0ME97,UDP-glucuronosyltransferase,135651
+CCCCR,A0A0V0TNV0,Cuticle collagen sqt-1,144512
+CCCCR,Q9PWN8,Frizzled protein,7955
+CCCCR,A0A0G4GSZ9,Uncharacterized protein,1169474
+CCCCR,A0A0T7N5D7,Uncharacterised protein,520
+CCCCR,K7VFG7,Uncharacterized protein,4577
+CCCCR,A0A085M0W3,Uncharacterized protein,68888
+CCCCR,A0A0V1NVU7,Cuticle collagen sqt-1,92180
+CCCCR,W3VQP4,Uncharacterized protein,1391700
+CCCCR,A0A086KRG5,"WD domain, G-beta repeat-containing protein",943167
+CCCCR,Q5BX72,SJCHGC07513 protein,6182
+CCCCR,E9F572,Rho-guanyl nucleotide exchange factor,655844
+CCCCR,A0A0A9IS54,Uncharacterized protein,35708
+CCCCR,A0A139XLU5,"WD domain, G-beta repeat-containing protein",1074872
+CCCCR,A0A0N4XET2,Uncharacterized protein,27835
+CCCCR,A0A0P6GC81,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A086PSH0,"WD domain, G-beta repeat-containing protein",933077
+CCCCR,A0A0C9UBF4,"Unplaced genomic scaffold SPHSTscaffold_69, whole genome shotgun sequence",990650
+CCCCR,A0NGV2,AGAP012327-PA,7165
+CCCCR,G6CPP3,Uncharacterized protein,13037
+CCCCR,A0A0J5JEC1,Uncharacterized protein,929505
+CCCCR,A0A0P5T1V4,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,G3RDD6,Uncharacterized protein,9595
+CCCCR,U6KDT1,Uncharacterized protein,44415
+CCCCR,A0A0P5SCN6,Immunoglobulin superfamily containing leucine-rich repeat protein,35525
+CCCCR,A0A016UM50,Uncharacterized protein,53326
+CCCCR,A9V1K2,Predicted protein,81824
+CCCCR,A0A0A0IGE3,Uncharacterized protein,1443115
+CCCCR,C1LE52,Mucolipin 3,6182
+CCCCR,A0A072YAM5,Uncharacterized protein,1443122
+CCCCR,A0A067EEE7,Uncharacterized protein,2711
+CCCCR,A0A072TRK8,Uncharacterized protein,3880
+CCCCR,J3LMS7,Uncharacterized protein,4533
+CCCCR,A0A0V1NVP2,Cuticle collagen sqt-1,92180
+CCCCR,A0A0B2V9B6,Uncharacterized protein,6265
+CCCCR,D2VPA2,Predicted protein,5762
+CCCCR,A0A0A0MXH7,Uncharacterized protein,9555
+CCCCR,J3P0R7,Uncharacterized protein,644352
+CCCCR,A0A0D9WSK5,Uncharacterized protein,77586
+CCCCR,A0A086JIJ7,"WD domain, G-beta repeat-containing protein",1130820
+CCCCR,A0A0M9FW67,Cystathionine beta-lyase-like protein,157538
+CCCCR,M3YYH6,Uncharacterized protein,9669
+CCCCR,A0A139WGH3,Uncharacterized protein,7070
+CCCCR,A0A0K9R8G6,Uncharacterized protein,3562
+CCCCR,I4DR10,Singles bar,76194
+CCCCR,A0A0K2TK93,Uncharacterized protein,72036
+CCCCR,A0A016UMR7,Uncharacterized protein,53326
+CCCCR,A0A0M3I0Z2,Uncharacterized protein,6252
+CCCCR,A0A0V1IEB6,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0V1D0K1,Cuticle collagen sqt-1,45882
+CCCCR,A0A0V1D0D7,Cuticle collagen sqt-1,45882
+CCCCR,A0A0V0VSF5,Peptidase inhibitor 16,181606
+CCCCR,A0A0A9L566,Uncharacterized protein,35708
+CCCCR,A0A0D6EKZ9,SPOSA6832_02294-mRNA-1:cds,5005
+CCCCR,S7VR58,"WD domain, G-beta repeat-containing protein",507601
+CCCCR,U6GV06,Uncharacterized protein,5801
+CCCCR,M1M8L5,Uncharacterized protein,931276
+CCCCR,A0A0V1JMU2,Collagen alpha-4(VI) chain,6337
+CCCCR,A0A0R3TEY3,Uncharacterized protein,102285
+CCCCR,W4ZXJ9,Uncharacterized protein,4565
+HPSQAR,F4RYU9,Putative uncharacterized protein,747676
+HPSQAR,A0A0W8DIG2,Tartrate-resistant acid phosphatase type 5,4790
+HPSQAR,W2PP18,Uncharacterized protein,761204
+HPSQAR,W2W613,Uncharacterized protein,1317063
+HPSQAR,A0A080ZCI7,Uncharacterized protein,1317066
+HPSQAR,S4Y2L0,Uncharacterized protein,1254432
+HPSQAR,A0A0J6Y2C0,Serine/threonine-protein kinase Sgk1,404692
+HPSQAR,A0A0W8CY04,DNA mismatch repair protein Msh3,4790
+HPSQAR,W2FYN9,Uncharacterized protein,4792
+HPSQAR,V9E9D4,Uncharacterized protein,1317065
+HPSQAR,W2PPQ8,Uncharacterized protein,761204
+HPSQAR,A0A0J8QSQ4,Ribosomal protein S6 kinase 2 beta,454286
+HPSQAR,W5WG74,Uncharacterized protein,1449976
+HPSQAR,A0A0J6F8M6,Serine/threonine-protein kinase Sgk1,454284
+HPSQAR,W2W764,Uncharacterized protein,1317063
+HPSQAR,W2PN02,Uncharacterized protein,761204
+HPSQAR,W2I556,Uncharacterized protein,4792
+HPSQAR,W2KD48,Uncharacterized protein,4792
+HPSQAR,A0A0H5C797,Uncharacterized protein,4903
+HPSQAR,A0A0J8U9A7,Serine/threonine-protein kinase Sgk1,396776
+HPSQAR,E9CX20,RAC-alpha serine/threonine-protein kinase,443226
+HPSQAR,A0A080ZCI9,Uncharacterized protein,1317066
+HPSQAR,W2KBK5,Uncharacterized protein,4792
+HPSQAR,B8P4A2,Predicted protein,561896
+HPSQAR,W2FYW0,Uncharacterized protein,4792
+HPSQAR,J3KIP1,AGC/YANK protein kinase,246410
+HPSQAR,W2W4G1,Uncharacterized protein,1317063
+HPSQAR,W2YFY8,Uncharacterized protein,1317064
+HPSQAR,W2I7B1,Uncharacterized protein,4792
+HPSQAR,W2MHI1,Uncharacterized protein,4792
+HPSQAR,W2I587,Uncharacterized protein,4792
+HPSQAR,W2MHF0,Uncharacterized protein,4792
+HPSQAR,W2KBB0,Uncharacterized protein,4792
+HPSQAR,W2KBK1,Uncharacterized protein,4792
+HPSQAR,A0A080ZCI5,Uncharacterized protein,1317066
+HPSQAR,A0A0P7W7J8,Uncharacterized protein,113540
+HPSQAR,W2PLX4,Uncharacterized protein,761204
+HPSQAR,A0A0D6NWW2,Precorrin-2 C20-methyltransferase,1231343
+HPSQAR,W2YFZ3,Uncharacterized protein,1317064
+HPSQAR,G8X152,Protein phosphatase 2C-like protein,1003195
+HPSQAR,W2YET3,Uncharacterized protein,1317064
+HPSQAR,C5PH11,Kinase domain containing protein,222929
+HPSQAR,V9E947,Uncharacterized protein,1317065
+HPSQAR,V9E921,Uncharacterized protein,1317065
+HPSQAR,A0A063WY27,Precorrin-2 C20-methyltransferase,1457393
+HPSQAR,V9EBG8,Uncharacterized protein,1317065
+HPSQAR,F3GN38,Uncharacterized protein,629263
+HPSQAR,A0A080ZCI6,Uncharacterized protein,1317066
+HPSQAR,W2YH91,Uncharacterized protein,1317064
+HPSQAR,W2MJD8,Uncharacterized protein,4792
+HPSQAR,A0A0H5CV84,Uncharacterized protein,1653480
+HPSQAR,W2W4F7,Uncharacterized protein,1317063
+HPSQAR,W2FYH4,Uncharacterized protein,4792
+HPSQAR,W2MHH7,Uncharacterized protein,4792
+YGFYNK,X1HNB7,Uncharacterized protein,412755
+YGFYNK,A0A0G0SDX3,Uncharacterized protein,1619031
+YGFYNK,C7MWQ6,Penicilin amidase,471857
+YGFYNK,A0A0D2GTQ1,"Unplaced genomic scaffold supercont1.7, whole genome shotgun sequence",1442368
+YGFYNK,A0A0U1HSA6,Subtilisin/kexin-like protease,29485
+LGNSVHK,B7QL54,"tRNA-splicing endonuclease subunit Sen34, putative",6945
+LGNSVHK,V5I177,Putative trna-splicing endonuclease subunit sen34-like protein,34613
+LGNSVHK,A0A131XV12,Putative trna-splicing endonuclease subunit sen34,34613
+YSHDK,Q7VMS5,Acetylornithine aminotransferase,233412
+YSHDK,Q8PS70,Phosphoenolpyruvate carboxylase,192952
+YSHDK,I3DL87,Acetylornithine aminotransferase,1095744
+YSHDK,W2X3U0,Uncharacterized protein,1317063
+YSHDK,A0A0C3DZV9,Uncharacterized protein,1036808
+YSHDK,R6ZUS0,Uncharacterized protein,1262752
+YSHDK,C4FP42,Acetylornithine aminotransferase,546273
+YSHDK,A0A0J6WU11,Acetylornithine aminotransferase,1122219
+YSHDK,A0A0D3DHI8,Uncharacterized protein,109376
+YSHDK,R7KK26,Putative alpha-1 2-mannosidase,1263054
+YSHDK,A0A093FUY9,Interleukin enhancer-binding factor 3,37040
+YSHDK,A0A0A8FHD3,Thioester reductase,1427366
+YSHDK,G2LNR3,Membrane protein insertase YidC,1005057
+YSHDK,A2WL43,Putative uncharacterized protein,39946
+YSHDK,E0E654,Acetylornithine aminotransferase,228399
+YSHDK,Q9AS76,P0028E10.16 protein,39947
+YSHDK,Q67YL8,"mRNA, clone: RAFL24-22-E06",3702
+YSHDK,S8BMA9,Uncharacterized protein,1284197
+YSHDK,F8N5M1,Uncharacterized protein,688246
+YSHDK,W2ZE03,Uncharacterized protein,1317064
+YSHDK,I1NKK9,Uncharacterized protein,4538
+YSHDK,A0A0R1QN40,"Transcriptional regulator, MarR family",1423770
+YSHDK,Q4D6N7,Uncharacterized protein,353153
+YSHDK,A0A0B2SAM1,Uncharacterized protein,3848
+YSHDK,A0A0M9FNP9,ATPase,1307
+YSHDK,A0A0E0BXN8,Uncharacterized protein,40149
+YSHDK,M4D4R2,Uncharacterized protein,51351
+YSHDK,A0A0L0DJW2,Uncharacterized protein,461836
+YSHDK,A0A059BD03,Uncharacterized protein,71139
+YSHDK,F7T2L0,TonB dependent receptor for the bacteriocin pesticin and for the siderophore yersiniabactin (IRPC),1003200
+YSHDK,B0DB47,Predicted protein,486041
+YSHDK,Q1K1J2,Uncharacterized protein,281689
+YSHDK,A0A0B8ZC86,TonB-dependent receptor,48936
+YSHDK,A0A100YT50,Acetylornithine aminotransferase,537288
+YSHDK,A0A0R0HRH4,Uncharacterized protein,3847
+YSHDK,B0EQ47,"116 kDa U5 small nuclear ribonucleoprotein component, putative",370354
+YSHDK,C8KY99,Acetylornithine aminotransferase,591023
+YSHDK,A0A0V1I8Y1,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],6337
+YSHDK,X8HD24,Acetylornithine aminotransferase,936591
+YSHDK,G9YMF8,Acetylornithine aminotransferase,411475
+YSHDK,A0A086T1A6,Tripeptidyl-peptidase-like protein,857340
+YSHDK,X0U2H0,Uncharacterized protein,412755
+YSHDK,A0A0S4Q7K0,Acetylornithine aminotransferase,754345
+YSHDK,X2LIW1,Uncharacterized protein,1447233
+YSHDK,A0A0P0UZ11,Os01g0168100 protein,39947
+YSHDK,A0A0W8CMX0,Uncharacterized protein,4790
+YSHDK,A0A101DQX2,CCA-adding enzyme,1635284
+YSHDK,B1X5I1,"Pseudouridine synthase, Rsu",39717
+YSHDK,B1N373,"U5 small nuclear ribonucleoprotein subunit, putative",5759
+YSHDK,R5ZXM6,Uncharacterized protein,1263077
+YSHDK,A0A094JYW7,TonB-dependent receptor,1515746
+YSHDK,K3WB25,Uncharacterized protein,431595
+YSHDK,C4Y2I9,Uncharacterized protein,306902
+YSHDK,V4MBI6,Uncharacterized protein,72664
+YSHDK,R6N9U6,TIGR02453 family protein,1263068
+YSHDK,K2G293,Lipopolysaccharide heptosyltransferase II,717931
+YSHDK,B0S6K7,Uncharacterized protein,7955
+YSHDK,A0A0L9TV95,Uncharacterized protein,3914
+YSHDK,Q8A0Q6,"Putative alpha-1,2-mannosidase",226186
+YSHDK,A0A068Z5F5,Pesticin receptor,138074
+YSHDK,W1UU51,Acetylornithine aminotransferase,1403949
+YSHDK,C5RZT6,Acetylornithine aminotransferase,637911
+YSHDK,U7UK78,Acetylornithine aminotransferase,1111454
+YSHDK,I3BQ17,Uncharacterized protein,870187
+YSHDK,A0A0D8J7J6,Uncharacterized protein,1544798
+YSHDK,M5W907,Uncharacterized protein,3760
+YSHDK,S2ZS26,Acetylornithine aminotransferase,1203593
+YSHDK,D1YSC5,Acetylornithine aminotransferase,686660
+YSHDK,A0A0V1HU03,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],268475
+YSHDK,A0A0E3RXA1,Phosphoenolpyruvate carboxylase,1434113
+YSHDK,A0A0Q9MIW1,Urea carboxylase,1736398
+YSHDK,A0A0N0JJB9,Uncharacterized protein,1523413
+YSHDK,D7MGG1,Putative uncharacterized protein,81972
+YSHDK,D6KNZ5,Acetylornithine aminotransferase,450749
+YSHDK,G1XKG4,Uncharacterized protein,756982
+YSHDK,R9LWG6,Acetylornithine aminotransferase,1235835
+YSHDK,C6C2W2,KR domain protein,579405
+YSHDK,R5ZQP1,Uncharacterized protein,1263077
+YSHDK,A0A0G4H1N8,Uncharacterized protein,1169474
+YSHDK,H1CGD3,Acetylornithine aminotransferase,658087
+YSHDK,W7E3C9,Uncharacterized protein,930091
+YSHDK,R0F4E9,Uncharacterized protein,81985
+YSHDK,A0A0Q5R450,Uncharacterized protein,1736350
+YSHDK,E4LC39,Acetylornithine aminotransferase,879309
+YSHDK,R9H259,Uncharacterized protein,1235785
+YSHDK,A0A0E3PX78,Phosphoenolpyruvate carboxylase,1434117
+YSHDK,A0A0G3MA84,Uncharacterized protein,1324352
+YSHDK,A4RRL9,Uncharacterized protein,436017
+YSHDK,W0Q3E6,Acetylornithine aminotransferase,1432056
+YSHDK,A0A0C3DYU6,Uncharacterized protein,1036808
+YSHDK,E9CMV7,Putative truncated pesticin/yersiniabactin receptor,914128
+YSHDK,W2J5P0,Uncharacterized protein,4792
+YSHDK,A0A0M1NTG4,Uncharacterized protein,1581037
+YSHDK,F8WY03,Uncharacterized protein,742767
+YSHDK,Q8H7I1,Putative uncharacterized protein,3702
+YSHDK,J5HB97,Acetylornithine aminotransferase,1078483
+YSHDK,W4WY03,Uncharacterized protein,12957
+YSHDK,A0A072NRH3,Histidine kinase,1348973
+YSHDK,B0BSQ1,Acetylornithine aminotransferase,434271
+YSHDK,A0A0Q9LM74,Urea carboxylase,1736392
+YSHDK,W6TUJ4,Uncharacterized protein,509635
+YSHDK,L1PNS4,Acetylornithine aminotransferase,1128111
+YSHDK,E0F2A9,Acetylornithine aminotransferase,754259
+YSHDK,G9YEP8,Uncharacterized protein,861450
+YSHDK,A0A0J6HUH3,Uncharacterized protein,1664069
+YSHDK,A0A0C2ZIG8,Uncharacterized protein,1036808
+YSHDK,D0NVP2,Putative uncharacterized protein,403677
+YSHDK,D6KIT6,Acetylornithine aminotransferase,457416
+YSHDK,R6E542,Alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen,1262750
+YSHDK,A0A0P1AUJ5,E3 ubiquitin-protein ligase chfr,4781
+YSHDK,D7WLS8,Uncharacterized protein,714961
+YSHDK,M2QHF0,"116 kDa U5 small nuclear ribonucleoprotein component, putative",885311
+YSHDK,A0A086F764,Uncharacterized protein,1517683
+YSHDK,D1BNM7,Acetylornithine aminotransferase,479436
+YSHDK,K7K8Z3,Uncharacterized protein,3847
+YSHDK,I1LA87,Uncharacterized protein,3847
+YSHDK,N8ZLR9,Urea carboxylase-associated protein 1,1120926
+YSHDK,J2WX38,Outer membrane receptor protein,1144307
+YSHDK,C6X7Z9,Uncharacterized protein,582744
+YSHDK,M4B8D3,Uncharacterized protein,559515
+YSHDK,A0A0V1JFU8,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],6337
+YSHDK,A0A067KBT1,Uncharacterized protein,180498
+YSHDK,K7WYZ2,Polyketide synthase,82996
+YSHDK,A0A0D3A262,Uncharacterized protein,109376
+YSHDK,A0A0R0KXY4,Uncharacterized protein,3847
+YSHDK,E0FEP4,Acetylornithine aminotransferase,754261
+YSHDK,A0A0F8NE05,Phosphoenolpyruvate carboxylase,2209
+YSHDK,A0A0F8FT34,Phosphoenolpyruvate carboxylase,2209
+YSHDK,A0A0U4IJH5,Ligand-gated channel,32002
+YSHDK,E0F8F7,Acetylornithine aminotransferase,754260
+YSHDK,A0A0F8DDG9,Phosphoenolpyruvate carboxylase,2209
+YSHDK,D9P5P8,Acetylornithine aminotransferase,754254
+YSHDK,A0A0V0XZ04,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],6337
+YSHDK,A0A0Q6WLX3,TonB-dependent receptor,1736434
+YSHDK,I1LA85,Uncharacterized protein,3847
+YSHDK,W2GXB7,Uncharacterized protein,4792
+YSHDK,A0A0E3RBL9,Phosphoenolpyruvate carboxylase,1434115
+YSHDK,C6ILT3,"Putative alpha-1,2-mannosidase",469586
+YSHDK,A0A0M1NG66,Uncharacterized protein,1581030
+YSHDK,E0FKL2,Acetylornithine aminotransferase,754262
+YSHDK,A0A0J7EUG7,Histidine kinase,1396
+YSHDK,A0A0R3R176,Uncharacterized protein,42155
+YSHDK,H3GSM0,Uncharacterized protein,164328
+YSHDK,A0A0G4GC66,Uncharacterized protein,1169474
+YSHDK,R6UXV6,Putative alpha-1 2-mannosidase,1263044
+YSHDK,X1XIB4,Uncharacterized protein,7029
+YSHDK,A0A096BBH9,Acetylornithine aminotransferase,742738
+YSHDK,C6TH53,Putative uncharacterized protein,3847
+YSHDK,A0A0R0BYP2,Uncharacterized protein,266128
+YSHDK,A0A078C1R3,BnaC01g04500D protein,3708
+YSHDK,V9F9B2,Uncharacterized protein,1317065
+YSHDK,W7ANT6,Uncharacterized protein,138298
+YSHDK,A0A0Z8F5T3,Copper-transporting ATPase,1307
+YSHDK,A0A0H4HJ86,Acetylornithine aminotransferase,730
+YSHDK,T0SX83,Acetylornithine aminotransferase,1316254
+YSHDK,W1XS68,Acetylornithine and succinylornithine aminotransferase,408170
+YSHDK,A3MYW6,Acetylornithine aminotransferase,416269
+YSHDK,K0NHI1,"HdlA2: heterodisulfide reductase-like protein, iron-sulfur subunit",651182
+YSHDK,U2BC51,Acetylornithine aminotransferase,649724
+YSHDK,A0A059BCF0,Uncharacterized protein,71139
+YSHDK,T1FTY3,Uncharacterized protein,6412
+YSHDK,A0A059F276,Uncharacterized protein,1288291
+YSHDK,X0SXY1,Uncharacterized protein,412755
+YSHDK,A0A0G0JVH7,PAS/PAC sensor signal transduction histidine kinase,1619036
+YSHDK,A0A0P0FGN4,Glycosyl hydrolase family 92,818
+YSHDK,V7BHI8,Uncharacterized protein,3885
+YSHDK,W2LA04,Uncharacterized protein,4792
+YSHDK,A0A0R0HZJ7,Uncharacterized protein,3847
+YSHDK,A5VFQ2,TonB-dependent receptor,392499
+YSHDK,A0A0A7MF65,Acetylornithine aminotransferase,202947
+YSHDK,A0A0V1F6D9,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],6337
+YSHDK,D9PEM8,Acetylornithine aminotransferase,754256
+YSHDK,A0A0S3STI6,Uncharacterized protein,157739
+YSHDK,A0A0E0FGT5,Uncharacterized protein,4536
+YSHDK,A0A0D5BMF8,tRNA3(Ser)-specific nuclease WapA,722877
+YSHDK,D3BD33,LIM-type zinc finger-containing protein,13642
+YSHDK,B2ZF71,Rho GTPase activating protein,104782
+YSHDK,A0A0E3RSB8,Phosphoenolpyruvate carboxylase,1434114
+YSHDK,J3KWQ7,Uncharacterized protein,4533
+YSHDK,J5AFW9,Acetylornithine aminotransferase,936588
+YSHDK,B3DJE6,Renbp protein,7955
+YSHDK,S7HKF3,Acetylornithine aminotransferase,1273103
+YSHDK,A0A0C3A903,Uncharacterized protein,1036808
+YSHDK,M4B8D4,Uncharacterized protein,559515
+YSHDK,F5L2H9,Acetylornithine aminotransferase,768727
+YSHDK,I1HCD0,Uncharacterized protein,15368
+YSHDK,H3B4K0,Uncharacterized protein,7897
+YSHDK,W2QA54,Uncharacterized protein,761204
+YSHDK,K2MA66,Uncharacterized protein,85056
+YSHDK,A1ZSK6,"Histidine decarboxylase, putative",313606
+YSHDK,A0A0G3V6G9,ATP-dependent zinc metalloprotease FtsH,1650658
+YSHDK,A0A0E0JEJ9,Uncharacterized protein,4537
+YSHDK,W1YAR1,Acetylornithine and succinylornithine aminotransferase,408170
+YSHDK,I1LA86,Uncharacterized protein,3847
+YSHDK,I1LA84,Uncharacterized protein,3847
+YSHDK,E1L8A2,Acetylornithine aminotransferase,866776
+YSHDK,M7W6G3,"U5 small nuclear ribonucleoprotein component, putative",885315
+YSHDK,W0QAY6,Acetylornithine aminotransferase,1433287
+YSHDK,I2NFS3,Acetylornithine aminotransferase,1095743
+YSHDK,A0A068NSB0,Uncharacterized protein,661478
+YSHDK,A0A0B2S6N7,Uncharacterized protein,3848
+YSHDK,J9KZ43,Uncharacterized protein,7029
+YSHDK,E0EIF0,Acetylornithine aminotransferase,754255
+YSHDK,D3PEG2,Translation initiation factor IF-2,639282
+YSHDK,A0A0P1AA13,Uncharacterized protein,4781
+YSHDK,A0A0Q7JQ23,Urea carboxylase,1736538
+YSHDK,A0A068F6X7,BnaA01g03240D protein,3708
+YSHDK,A0A0Q9U535,Urea carboxylase,1736411
+YSHDK,A0A0A3Z218,Ligand-gated channel protein,371042
+YSHDK,E2NU93,"Site-specific recombinase, phage integrase family",451640
+YSHDK,K2JQ50,TonB-dependent receptor,745411
+YSHDK,W7AVQ0,Uncharacterized protein,138298
+YSHDK,M7XGV3,Acetyltransferase including N-acetylase of ribosomal protein,1239962
+YSHDK,W1W721,Acetylornithine aminotransferase,1403932
+YSHDK,A0A095B3D5,TonB-dependent receptor,1502850
+YSHDK,K0G415,Acetylornithine aminotransferase,696748
+YSHDK,S0AFM5,Polyketide synthase PksN,682634
+YSHDK,A0A0H0SKA1,Glycosyl transferase,54913
+YSHDK,U6ZD43,KR domain protein,1231725
+YSHDK,A7VPA5,TIGR02453 family protein,428125
+YSHDK,A0A0R0HRM3,Uncharacterized protein,3847
+YSHDK,M3UYS0,"U5 small nuclear ribonucleoprotein subunit, putative",885319
+YSHDK,N9FS12,Uncharacterized protein,1217648
+YSHDK,E8KJB2,Acetylornithine aminotransferase,887324
+YSHDK,A0A0V1M5W4,tRNA-dihydrouridine(47) synthase [NAD(P)(+)],268474
+YSHDK,F6Z9K0,Uncharacterized protein,13616
+YSHDK,A0A078C5W0,BnaC07g44480D protein,3708
+YSHDK,A0A081ABZ7,Uncharacterized protein,1317066
+YSHDK,A0A0C2RLA2,Histidine kinase,220754
+YSHDK,B3H085,Acetylornithine aminotransferase,537457
+YSHDK,M1PDD6,Phosphoenolpyruvate carboxylase,1236903
+YSHDK,A0A0E9WDH9,Uncharacterized protein,7936
+YSHDK,A0A0Q9JKH3,Urea carboxylase,1736388
+YSHDK,L8MWH8,Glycosyl transferase group 1,927668
+YSHDK,Q5PR59,Renin binding protein,7955
+YSHDK,F0T231,Uncharacterized protein,645991
+YSHDK,A0A0E0MRV7,Uncharacterized protein,4529
+YSHDK,E1LEB3,Acetylornithine aminotransferase,866778
+YSHDK,A0A0J7XMC2,TonB-denpendent receptor,1420583
+YSHDK,A0A0D3EK13,Uncharacterized protein,65489
+YSHDK,A0A0Q8R8U3,TonB-dependent receptor,1736595
+YSHDK,A0A0L7SYJ8,Ligand-gated channel protein,1560201
+YSHDK,A0A0G8BZV6,Sensor protein,1396
+YSHDK,C4M7P1,"U5 small nuclear ribonucleoprotein subunit, putative",5759
+YSHDK,E4Y386,Uncharacterized protein,34765
+YSHDK,K7WEW6,Polyketide synthase,615
+YSHDK,I1HCC8,Uncharacterized protein,15368
+YSHDK,A0A011P8B7,Acetylornithine aminotransferase,1450449
+YSHDK,A0A0D9UX79,Uncharacterized protein,77586
+YSHDK,M4F7B9,Uncharacterized protein,51351
+YSHDK,Q4E396,Uncharacterized protein,353153
+YSHDK,A0A0Z8T782,Copper-transporting ATPase,1307
+YSHDK,A0A0E3RFT8,Phosphoenolpyruvate carboxylase,213585
+YSHDK,N9TGD7,"U5 small nuclear ribonucleoprotein component, putative",885318
+YSHDK,F4Q0Y8,ATP-dependent RNA helicase,1054147
+YSHDK,W1QD29,Uncharacterized protein,871575
+YSHDK,A0A0F5P7Z1,Uncharacterized protein,133190
+YSHDK,O81890,Putative uncharacterized protein T16L1.230,3702
+YSHDK,G3WIV2,Uncharacterized protein,9305
+YSHDK,A0A0Q8QZ86,TonB-dependent receptor,1736594
+YSHDK,E0EW12,Acetylornithine aminotransferase,754258
+YSHDK,A0A0A5I4D5,Stress response protein,1385510
+YSHDK,A0A078IJY1,BnaA03g50620D protein,3708
+YSHDK,N1PL54,Uncharacterized protein,675120
+YSHDK,N9E2U6,Uncharacterized protein,1217649
+YSHDK,A0A0F5PEH9,TonB-dependent receptor,133190
+YSHDK,B5AH87,Rho GTPase activating protein,104782
+SHAVPK,A6G4H8,Putative serine/threonine protein kinase,391625
+SHAVPK,C7TE47,Uncharacterized protein,568703
+SHAVPK,V2WTB2,Chromosome segregation protein,1381753
+SHAVPK,L0LJC7,Dihydroorotase,698761
+SHAVPK,A0A0W0FB55,Uncharacterized protein,221103
+SHAVPK,E0NUA2,Putative DNA-binding protein,862515
+SHAVPK,A0A096AC03,Histidinol phosphate phosphatase,1284775
+SHAVPK,R8R5P4,Uncharacterized protein,1053211
+SHAVPK,J8YK21,Uncharacterized protein,1053187
+SHAVPK,A0A093J6W8,Transcription factor HES-5,30455
+GTWNK,L7JG36,D-3-phosphoglycerate dehydrogenase 1,1143193
+GTWNK,X0AR68,D-3-phosphoglycerate dehydrogenase 2,1089452
+GTWNK,G4UHR3,D-3-phosphoglycerate dehydrogenase 1,510952
+GTWNK,A0A084AET4,Uncharacterized protein,1280523
+GTWNK,A0A0W8ES50,TonB-dependent receptor,172045
+GTWNK,W9Q0G8,D-3-phosphoglycerate dehydrogenase 2,1080344
+GTWNK,A0A0J9UB52,D-3-phosphoglycerate dehydrogenase 2,426428
+GTWNK,H8K999,DNA polymerase III subunit chi,1105110
+GTWNK,W9MUE4,D-3-phosphoglycerate dehydrogenase 2,1080343
+GTWNK,L7IK14,D-3-phosphoglycerate dehydrogenase 1,1143189
+GTWNK,A0A0M0ERA0,Uncharacterized protein,421767
+GTWNK,A0A0D2GSW8,"Unplaced genomic scaffold supercont1.7, whole genome shotgun sequence",1442368
+GTWNK,H9BJU4,P2,519497
+GTWNK,A0A0B2WNA5,NAD(P)-binding domain protein,1081103
+GTWNK,A0A0D2C6F0,Phosphoglycerate dehydrogenase,569365
+GTWNK,A0A0M9DMH3,General stress protein CsbD,1664068
+GTWNK,W9KMI5,D-3-phosphoglycerate dehydrogenase 2,660027
+GTWNK,L2FMS1,D-3-phosphoglycerate dehydrogenase,1213859
+GTWNK,F8F6U5,Extracellular arabinanase,1036673
+GTWNK,A0A0B7IYC5,DNA polymerase III subunit chi,109232
+GTWNK,A0A064A4J0,Histidine transporter,1441736
+GTWNK,R0KYV7,Uncharacterized protein,8839
+GTWNK,A0A0B4FDE6,D-3-phosphoglycerate dehydrogenase 1,1276135
+GTWNK,W9Q8L9,D-3-phosphoglycerate dehydrogenase 2,1080344
+GTWNK,A0A0J9WH35,D-3-phosphoglycerate dehydrogenase 2,426428
+GTWNK,A0A0D1ZFP7,Phosphoglycerate dehydrogenase,1016849
+GTWNK,A0A0G2FFS5,Putative d-3-phosphoglycerate dehydrogenase 1,1214573
+GTWNK,E8KEC7,Uncharacterized protein,887324
+GTWNK,Q871M4,Probable 3-phosphoglycerate dehydrogenase,5141
+GTWNK,T0NQC6,TonB-denpendent receptor,1355388
+GTWNK,W5UTX4,Uncharacterized protein,743966
+GTWNK,X0GH79,D-3-phosphoglycerate dehydrogenase 2,1089448
+GTWNK,X0K2K2,D-3-phosphoglycerate dehydrogenase 2,1089451
+GTWNK,E9F3T2,D-3-phosphoglycerate dehydrogenase 1,655844
+GTWNK,M4GP46,Structural protein P2,566568
+GTWNK,C6R8V6,Uncharacterized protein,553206
+GTWNK,E3QBC2,D-isomer specific 2-hydroxyacid dehydrogenase,645133
+GTWNK,A0A0H1ATK6,Uncharacterized protein,1547516
+GTWNK,G8NRR7,Uncharacterized protein,682795
+GTWNK,D1Y4C6,Transporter gate domain protein,352165
+GTWNK,L7WD70,Endogenous retrovirus group K member 18 Env polyprotein,11676
+GTWNK,A0A0M9F2F1,D-3-phosphoglycerate dehydrogenase 2,179993
+GTWNK,A0A010Q0G4,D-isomer specific 2-hydroxyacid dehydrogenase,1445577
+GTWNK,S0DSV3,Probable SER33-3-phosphoglycerate dehydrogenase,1279085
+GTWNK,E4WKW5,P2,519497
+GTWNK,A0A084PA12,Uncharacterized protein,1280524
+GTWNK,A0A0Q6HX92,Uncharacterized protein,1736211
+GTWNK,A0A0F9ZNZ9,D-3-phosphoglycerate dehydrogenase 2,5544
+GTWNK,W9N769,D-3-phosphoglycerate dehydrogenase 2,1080343
+GTWNK,G8PEC2,Alpha/beta hydrolase superfamily protein,701521
+GTWNK,A6Y8T1,Envelope glycoprotein,11676
+GTWNK,X0MPW7,D-3-phosphoglycerate dehydrogenase 2,1089449
+GTWNK,E9DXP8,D-3-phosphoglycerate dehydrogenase 1,655827
+GTWNK,A0A061AN87,RHTO0S01e16512g1_1,5286
+GTWNK,X0D994,D-3-phosphoglycerate dehydrogenase 2,1089458
+GTWNK,A0A0D2JLK8,"Rhinocladiella mackenziei CBS 650.93 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence",1442369
+GTWNK,A8GQ96,DNA polymerase III subunit chi,293614
+GTWNK,N4VR66,D-3-phosphoglycerate dehydrogenase,1213857
+GTWNK,A0A0A0LP27,Uncharacterized protein,3659
+GTWNK,A0A0G0BHP1,Uncharacterized protein,1618484
+GTWNK,A0A094C617,Uncharacterized protein,1420901
+GTWNK,F0H3J4,OmpA family protein,944557
+GTWNK,X5K5V7,Ferric aerobactin receptor,1117645
+GTWNK,Q7RWH3,D-3-phosphoglycerate dehydrogenase 1,367110
+GTWNK,A0A0F7ZUV2,D-3-phosphoglycerate dehydrogenase 2,1043627
+GTWNK,U7L598,Uncharacterized protein,1203560
+GTWNK,A0A017H2T4,Uncharacterized protein,1226633
+GTWNK,R5CPD1,Major outer membrane protein OmpA family protein,1262923
+GTWNK,X0CYX4,D-3-phosphoglycerate dehydrogenase 2,1089458
+GTWNK,G2QU66,Uncharacterized protein,578455
+GTWNK,A0A0W7VNK8,D-isomer specific 2-hydroxyacid dehydrogenase,398673
+GTWNK,Q2GW64,Uncharacterized protein,306901
+GTWNK,G2Q9C2,Uncharacterized protein,573729
+GTWNK,A0A0D2XC02,Uncharacterized protein,426428
+GTWNK,H6BYD3,D-3-phosphoglycerate dehydrogenase 2,858893
+GTWNK,E2S423,Uncharacterized protein,525264
+GTWNK,A0A0Q9VPZ0,Uncharacterized protein,1736405
+GTWNK,W9KX24,D-3-phosphoglycerate dehydrogenase 2,660027
+GTWNK,A0A0E2V0E6,Histidine transporter,1441737
+GTWNK,B2B5Q8,Putative D-3-phosphoglycerate dehydrogenase,515849
+GTWNK,A0A0A1V4C4,Phosphoglycerate dehydrogenase family protein,568076
+GTWNK,A0A0B7JRM1,Uncharacterized protein,29856
+GTWNK,A0A0A1M6V7,Nucleoside recognition,545501
+GTWNK,Q9UXI7,Putative uncharacterized protein ORF-c39_011,2287
+GTWNK,W9YD52,D-3-phosphoglycerate dehydrogenase 2,1182541
+GTWNK,L7WHF1,Endogenous retrovirus group K member 7 Env polyprotein,11676
+GTWNK,A0A0G2ETR5,Putative d-3-phosphoglycerate dehydrogenase,158046
+GTWNK,R8BA13,Putative d-3-phosphoglycerate dehydrogenase protein,1286976
+GTWNK,A0A0B0DN11,Uncharacterized protein,5141
+GTWNK,A0A0C9WRW3,"Unplaced genomic scaffold K443scaffold_267, whole genome shotgun sequence",1095629
+GTWNK,I1RTG4,Uncharacterized protein,229533
+GTWNK,W3WUA2,D-3-phosphoglycerate dehydrogenase 1,1229662
+GTWNK,J5TXU2,Transporter gate domain protein,1161424
+GTWNK,E4WKV8,P2,566568
+GTWNK,A0A0A1TR74,Putative D-3-phosphoglycerate dehydrogenase,1531966
+GTWNK,A0A0F3MS44,"DNA polymerase III chi subunit, HolC family protein",1359196
+GTWNK,A0A0K2DQL8,Bifunctional cytochrome c oxidase subunit sccoN/O,336810
+GTWNK,A0A0I9ZME6,Putative SER33-3-phosphoglycerate dehydrogenase,5127
+GTWNK,Q7LXH2,Transposase ISC1476,273057
+GTWNK,A0A0M0UH17,D-3-phosphoglycerate dehydrogenase 2,100816
+GTWNK,A0A0B4HDG3,D-3-phosphoglycerate dehydrogenase 1,1276141
+GTWNK,A0A0A2VI49,D-3-phosphoglycerate dehydrogenase 2,1245745
+GTWNK,A0A0L0B8L5,C4-dicarboxylate ABC transporter,1681194
+GTWNK,W9KML4,D-3-phosphoglycerate dehydrogenase 2,660027
+GTWNK,W7M9R5,D-3-phosphoglycerate dehydrogenase,334819
+GTWNK,A0A0D9NZH3,D-3-phosphoglycerate dehydrogenase,1291518
+GTWNK,A0A0F9TMQ4,Uncharacterized protein,412755
+GTWNK,A0A0A2GYX9,TonB-dependent receptor,172045
+GTWNK,W9J483,D-3-phosphoglycerate dehydrogenase 2,909455
+GTWNK,E1ZJA4,Putative uncharacterized protein,554065
+GTWNK,A0A024S305,Uncharacterized protein,1344414
+GTWNK,A0A0F4Z7X6,Uncharacterized protein,72032
+GTWNK,R7DRF9,Rhs family protein,1262857
+GTWNK,A0A085CZA5,TonB-dependent receptor,238
+GTWNK,X0AQF3,D-3-phosphoglycerate dehydrogenase 2,1089452
+GTWNK,G0S7G7,D-3-phosphoglycerate dehydrogenase-like protein,759272
+GTWNK,B6K248,D-3 phosphoglycerate dehydrogenase,402676
+GTWNK,J5JL47,D-isomer specific 2-hydroxyacid dehydrogenase,655819
+GTWNK,Q4UJR3,Uncharacterized protein,315456
+GTWNK,W9Q0B1,D-3-phosphoglycerate dehydrogenase 2,1080344
+GTWNK,A0A084PMX1,Uncharacterized protein,1280524
+GTWNK,A0A084RGX8,Uncharacterized protein,1283842
+GTWNK,M1W9R8,Probable SER33-3-phosphoglycerate dehydrogenase,1111077
+GTWNK,A0A016PP25,Uncharacterized protein,5518
+GTWNK,A0A0Y7GKP1,Valyl-tRNA synthetase,727
+GTWNK,G8PEK5,Sirohydrochlorin cobaltochelatase 2,701521
+GTWNK,C4YW18,DNA polymerase III subunit chi,444612
+GTWNK,H1DC79,Uncharacterized protein,742814
+GTWNK,A0A0L6WDL8,Pumilio domain-containing protein,1306850
+GTWNK,H6NAZ8,Extracellular arabinanase,1116391
+GTWNK,A0A0D2CN80,Uncharacterized protein,569365
+GTWNK,A0A0F3R8P4,"DNA polymerase III chi subunit, HolC family protein",1133329
+GTWNK,A0A095ZXU0,OmpA family protein,1401077
+GTWNK,T0L7F3,Uncharacterized protein,1237896
+GTWNK,R4HG78,P2 protein,519497
+GTWNK,A0A063BTI3,D-3-phosphoglycerate dehydrogenase 1,1159556
+GTWNK,A0A066XP51,Putative D-isomer specific 2-hydroxyacid dehydrogenase,1173701
+GTWNK,G0RR70,Predicted protein,431241
+GTWNK,W8PC44,Putative bifunctional cbb3-type cytochrome c oxidase subunit I/II,336810
+GTWNK,X0MBT0,D-3-phosphoglycerate dehydrogenase 2,1089449
+GTWNK,L8K4N8,TonB-dependent siderophore receptor,1246994
+GTWNK,M7X7J4,"Proton-dependent oligopeptide transporter, POT family",1130832
+GTWNK,K3VDA4,Uncharacterized protein,1028729
+GTWNK,N1REA9,D-3-phosphoglycerate dehydrogenase 2,1229665
+GTWNK,W9IY21,D-3-phosphoglycerate dehydrogenase 2,909455
+GTWNK,W9IXB1,D-3-phosphoglycerate dehydrogenase 2,909455
+GTWNK,F2KU00,OmpA family protein,767031
+GTWNK,A0A0B4I0G2,D-3-phosphoglycerate dehydrogenase 1,1276143
+GTWNK,F9F762,Uncharacterized protein,660025
+GTWNK,A0A0B0IL61,Uncharacterized protein,333138
+GTWNK,C7LKA2,"Bifunctional cytochrome c oxidase, cbb3-type, ccoN subunit/ccoO subunit",595499
+GTWNK,A0A0L0NH97,D-3-phosphoglycerate dehydrogenase 2,1163406
+GTWNK,G4MND5,D-3-phosphoglycerate dehydrogenase 2,242507
+GTWNK,X0I6B8,D-3-phosphoglycerate dehydrogenase 2,1089457
+GTWNK,X0K2B7,D-3-phosphoglycerate dehydrogenase 2,1089451
+GTWNK,K8F3F7,Uncharacterized protein,41875
+GTWNK,A0A077EQM7,Aerobactin siderophore receptor IutA,1338011
+GTWNK,J9UCP0,P2,519497
+GTWNK,B0ST42,Uncharacterized protein,456481
+GTWNK,A0A0D9Q4P3,D-3-phosphoglycerate dehydrogenase,1291519
+GTWNK,F8MCN1,D-3-phosphoglycerate dehydrogenase 1,510951
+GTWNK,A0A0L0V899,Uncharacterized protein,1165861
+GTWNK,A0A084APY4,Uncharacterized protein,1280523
+GTWNK,G7E8K1,Uncharacterized protein,764103
+GTWNK,J3NY17,Uncharacterized protein,644352
+GTWNK,H1VU79,D-3-phosphoglycerate dehydrogenase,759273
+GTWNK,G9NDN8,Uncharacterized protein,413071
+GTWNK,A0A067AAK6,DNA polymerase III subunit chi,1462938
+GTWNK,A6TPU4,Uncharacterized protein,293826
+GTWNK,X0I6T6,D-3-phosphoglycerate dehydrogenase 2,1089457
+GTWNK,X0CZZ3,D-3-phosphoglycerate dehydrogenase 2,1089458
+GTWNK,X0KG38,D-3-phosphoglycerate dehydrogenase 2,1089451
+GTWNK,A0A084QAF3,Uncharacterized protein,1283841
+GTWNK,R9QRV2,P2 protein,519497
+GTWNK,F0F4Q9,OmpA family protein,888743
+GTWNK,I3DCW4,Transporter gate domain protein,1095747
+GTWNK,A0A0F7P6C3,TonB-denpendent receptor,1352940
+GTWNK,A0A0V0QBK7,Homeodomain protein,266149
+GTWNK,R5M116,Major outer membrane protein OmpA family protein,1262921
+GTWNK,K4CQC8,Uncharacterized protein,4081
+GTWNK,G9NIY6,Uncharacterized protein,452589
+GTWNK,G3JD90,D-3-phosphoglycerate dehydrogenase 1,983644
+GTWNK,F7VYQ9,"WGS project CABT00000000 data, contig 2.14",771870
+GTWNK,A0A060Q789,Core protein,519497
+GTWNK,H1VKS8,D-3-phosphoglycerate dehydrogenase 1,759273
+GTWNK,X0MC13,D-3-phosphoglycerate dehydrogenase 2,1089449
+GTWNK,X0GT20,D-3-phosphoglycerate dehydrogenase 2,1089448
+GTWNK,X0GI79,D-3-phosphoglycerate dehydrogenase 2,1089448
+GTWNK,R0K9V3,Uncharacterized protein,671987
+GTWNK,A0A136J7N8,Uncharacterized protein,196109
+GTWNK,F0XUC7,Putative uncharacterized protein,655863
+GTWNK,A0A0D5BQ61,Ferric aerobactin receptor,722877
+GTWNK,A0A086NVZ6,D-isomer specific 2-hydroxyacid dehydrogenase,5530
+GTWNK,A0A0M0MUN4,OmpA family protein,1676614
+GTWNK,Q7LXH9,Transposase ISC1476,273057
+GTWNK,W9XZE8,D-3-phosphoglycerate dehydrogenase 2,1182543
+GTWNK,I2NQ40,NgoFVII restriction endonuclease domain protein,1095743
+GTWNK,A0A0P4U6V5,Putative d-3-phosphoglycerate dehydrogenase 1,77044
+GTWNK,F0XM32,D-3-phosphoglycerate dehydrogenase,655863
+GTWNK,Q9UXI0,Hypothetical neutral protease,2287
+GTWNK,R6AVC8,Uncharacterized protein,1262818
+GTWNK,X0BD92,D-3-phosphoglycerate dehydrogenase 2,1089452
+GTWNK,A0A0D2JNC5,Uncharacterized protein,1442371
+GTWNK,A0A0X6HDP2,TonB-dependent receptor,1756150
+GTWNK,A0A0P7BM19,D-3-phosphoglycerate dehydrogenase 2,78410
+GTWNK,J0WZF2,Uncharacterized protein,857290
+GTWNK,I0BMI2,Extracellular arabinanase,997761
+GTWNK,A0A102DMY3,TonB-dependent receptor,1756148
+GTWNK,W9MZT3,D-3-phosphoglycerate dehydrogenase 2,1080343
+GTWNK,A0A0G2J1F8,D-3-phosphoglycerate dehydrogenase 2,1247875
+GTWNK,A0A086TA88,D-3-phosphoglycerate dehydrogenase-like protein,857340
+GTWNK,X0J382,D-3-phosphoglycerate dehydrogenase 2,1089457
+GTWNK,B1C4T4,"Transcriptional regulator, MerR family",428126
+GTWNK,C7YTE6,Predicted protein,660122
+AEWDK,P23530,Phosphoenolpyruvate-protein phosphotransferase,226185
+AEWDK,P76128,"Probable D,D-dipeptide-binding periplasmic protein DdpA",83333
+AEWDK,J7IPL5,Heme oxygenase,91750
+AEWDK,A0A0M2K6V7,UDP-phosphate galactose phosphotransferase,65700
+AEWDK,W1BDC2,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2) Putative hemin-binding lipoprotein",1432547
+AEWDK,E9T8V1,"Dipeptide ABC transporter, permease protein DppA",749539
+AEWDK,D8BRI9,"Dipeptide ABC transporter, permease protein DppA",749548
+AEWDK,A0A139WTY4,Polysaccharide biosynthesis protein,128403
+AEWDK,R4Z0A5,Putative metabolite transporter,1229780
+AEWDK,A0A0B4CK48,Uncharacterized protein,363331
+AEWDK,J6PVT4,Phosphoenolpyruvate-protein phosphotransferase,1134791
+AEWDK,J6ESZ8,Phosphoenolpyruvate-protein phosphotransferase,1134795
+AEWDK,J6Q1U3,Uncharacterized protein,1134795
+AEWDK,A0A0H3PPU9,Putative ABC transporter periplasmic-binding protein yddS,478008
+AEWDK,M4P909,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,A0A0M6XYI2,Succinyl-diaminopimelate desuccinylase,187304
+AEWDK,A0A0S2FNW0,Peptidyl-prolyl cis-trans isomerase,435897
+AEWDK,A0A0D6VCS2,Transketolase,1911
+AEWDK,A0A026V4U5,Peptide ABC transporter substrate-binding protein,1446704
+AEWDK,A0A0G3K3Z1,D-ala-D-a la transporter subunit periplasmic-binding component of ABC superfamily,1001989
+AEWDK,M9N717,FAGR259Cp,1034331
+AEWDK,A0A0Y4B3P1,Phosphoenolpyruvate-protein phosphotransferase,1313
+AEWDK,E9Y9M2,Extracellular solute-binding protein,656429
+AEWDK,D1YCM9,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",679194
+AEWDK,D7XVW7,"Dipeptide ABC transporter, permease protein DppA",749533
+AEWDK,I5C3A6,Peptidase M28,1189621
+AEWDK,J2LBQ8,"Undecaprenyl-phosphate galactose phosphotransferase, polyprenyl glycosylphosphotransferase",1144320
+AEWDK,N6ZVH1,TRAP dicarboxylate transporter subunit DctP,1234382
+AEWDK,A0A0P8EKW6,UDP-phosphate galactose phosphotransferase,211759
+AEWDK,A1WBT7,Uncharacterized protein,232721
+AEWDK,A0A140N984,Extracellular solute-binding protein family 5,866768
+AEWDK,U2CGF6,Tetratricopeptide repeat protein,649724
+AEWDK,A0A0C2ZS93,RND transporter,1539064
+AEWDK,G0FFN8,"Putative D,D-dipeptide-binding periplasmic protein ddpA",1050617
+AEWDK,S9ZC94,Uncharacterized protein,1348657
+AEWDK,A0A075RHQ1,RND transporter,96345
+AEWDK,A0A0A0FFG2,"Putative D,D-dipeptide-binding periplasmic protein DdpA",1455601
+AEWDK,J1QYL3,Glucose-6-phosphate 1-dehydrogenase,1177180
+AEWDK,A0A0Q6E229,Transketolase,1736384
+AEWDK,A0A0G1DH10,Carboxyl-terminal protease,1618578
+AEWDK,A0A0X8SMF9,Glucose-6-phosphate 1-dehydrogenase,614
+AEWDK,G9Y291,Glucose-6-phosphate 1-dehydrogenase,1002364
+AEWDK,D3QT34,Putative ABC transporter periplasmic-binding protein yddS,701177
+AEWDK,A0A014M0C5,UDP-phosphate galactose phosphotransferase,69222
+AEWDK,A0A089KDL8,NAD(P)-dependent oxidoreductase,1536772
+AEWDK,U9Y187,"Dipeptide ABC transporter, permease protein DppA",1268976
+AEWDK,G8ES04,Envelope glycoprotein,11676
+AEWDK,B5AJP4,Envelope glycoprotein gp160,11676
+AEWDK,T2CW45,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,W6RTY9,"Putative amino acid ABC transporter, substrate-binding protein",348824
+AEWDK,E7TEK8,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component",945360
+AEWDK,A0A0P0M7X3,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,1678128
+AEWDK,X1AFM0,Uncharacterized protein,412755
+AEWDK,A0A0A3YVZ6,UDP-phosphate galactose phosphotransferase,69218
+AEWDK,A0A0C5W8V8,Glucose-6-phosphate 1-dehydrogenase,1265478
+AEWDK,S4YHE3,Glucose-6-phosphate 1-dehydrogenase,1348660
+AEWDK,A7AM70,Uncharacterized protein,5865
+AEWDK,J6QWP9,Uncharacterized protein,1134796
+AEWDK,Q58PS5,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,311564
+AEWDK,A0A0T9U034,Glucose-6-phosphate 1-dehydrogenase,29484
+AEWDK,U2LVE8,Glucose-6-phosphate 1-dehydrogenase,1332070
+AEWDK,A0A0D6EME3,SPOSA6832_02838-mRNA-1:cds,5005
+AEWDK,S4FFS9,Phosphoenolpyruvate-protein phosphotransferase,1244144
+AEWDK,H9USK7,"Putative D,D-dipeptide-binding periplasmic protein ddpA",910348
+AEWDK,A0A094RXA0,Membrane protein,78398
+AEWDK,E6ZMZ6,Related to tRNA nucleotidyltransferase,999809
+AEWDK,W6YK11,Uncharacterized protein,930089
+AEWDK,A0A0F6KNN5,Glucose-6-phosphate 1-dehydrogenase,615
+AEWDK,J7IPH8,Heme oxygenase,91750
+AEWDK,A0A0U1EMM9,Glucose-6-phosphate 1-dehydrogenase,631
+AEWDK,A0A0M2CKJ2,Phosphoenolpyruvate-protein phosphotransferase,1391496
+AEWDK,A0A0R3ADN0,Toxin,1615673
+AEWDK,A0A0G4JP00,Undecaprenyl-phosphate galactosephosphotransferase,1109412
+AEWDK,N0CLD9,Transketolase,1303692
+AEWDK,E6WFI2,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",592316
+AEWDK,A0A0H3B3E5,Glucose-6-phosphate 1-dehydrogenase,502800
+AEWDK,A0A074KS95,Uncharacterized protein,1048983
+AEWDK,M7BL58,Uncharacterized protein,8469
+AEWDK,T2CUW8,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,G8ES01,Envelope glycoprotein,11676
+AEWDK,V6SP01,RND family efflux transporter MFP subunit,1341155
+AEWDK,A0A0U0ZN95,Conserved exported protein of uncharacterised function,36809
+AEWDK,A0A086GDV3,Glucose-6-phosphate 1-dehydrogenase,458197
+AEWDK,U7JE14,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",1203574
+AEWDK,E6D5S2,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",765080
+AEWDK,A0A0A8RHL0,Uncharacterized protein,287
+AEWDK,A0A0L0KCG1,Transketolase,146819
+AEWDK,L0MJ83,Glucose-6-phosphate 1-dehydrogenase,1249634
+AEWDK,A0A0L7DK05,Glucose-6-phosphate 1-dehydrogenase,1690502
+AEWDK,J6NFG7,Uncharacterized protein,1134787
+AEWDK,A0A062BQD3,Uncharacterized protein,1310678
+AEWDK,C4L7M7,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",595494
+AEWDK,A0A0Q9NGN1,C4-dicarboxylate ABC transporter,1736398
+AEWDK,A0A0H3F9L1,Glucose-6-phosphate 1-dehydrogenase,741091
+AEWDK,C8U8G0,D-ala-D-ala transporter subunit DdpA,585395
+AEWDK,F0SCX3,Transcriptional regulator MraZ,762903
+AEWDK,R7ZSI4,Uncharacterized protein,1232681
+AEWDK,A0A029KV85,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444191
+AEWDK,A0A101J3U3,"NADH:ubiquinone oxidoreductase, subunit F",1641377
+AEWDK,N3F4U3,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116072
+AEWDK,B3WY11,Putative ABC transporter periplasmic-binding protein yddS,358708
+AEWDK,A0A061DBS7,Uncharacterized protein,5866
+AEWDK,A0A089J4B6,Serine/threonine protein kinase,1536774
+AEWDK,Q74ZE0,AGR259Cp,284811
+AEWDK,A0A0K6GT84,Uncharacterized protein,375574
+AEWDK,A0A023YWS5,Putative hemin-binding lipoprotein,1248823
+AEWDK,D7Y0C7,"Dipeptide ABC transporter, permease protein DppA",749537
+AEWDK,M9GCH2,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116136
+AEWDK,A0A0F8ENN6,Restriction endonuclease subunit R,1483597
+AEWDK,E3DHS2,Glucose-6-phosphate 1-dehydrogenase,215689
+AEWDK,A0A0M2AVX4,Phosphoenolpyruvate-protein phosphotransferase,1169299
+AEWDK,A0A0E8XIN1,Glucose-6-phosphate 1-dehydrogenase,1341643
+AEWDK,G8ES00,Envelope glycoprotein,11676
+AEWDK,T2CWM4,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,A0A0E2HKH5,Uncharacterized protein,999408
+AEWDK,A0A0X2ZU29,Type I restriction enzyme EcoKI subunit R,326476
+AEWDK,V8JYJ9,Peptide ABC transporter substrate-binding protein,1417796
+AEWDK,N2RT46,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116116
+AEWDK,T1IFC1,Uncharacterized protein,13249
+AEWDK,D5V666,Aspartate racemase,572480
+AEWDK,A0A0F9BZR9,Uncharacterized protein,412755
+AEWDK,A0A0A3YMW3,Glucose-6-phosphate 1-dehydrogenase,69218
+AEWDK,L9M1H9,ATP:cob(I)alamin adenosyltransferase,903928
+AEWDK,U6CSL3,Serine/threonine-protein kinase MARK1,452646
+AEWDK,A0A0H2Q9N1,Glucose-6-phosphate 1-dehydrogenase,158849
+AEWDK,V6FVF5,"Dipeptide ABC transporter, permease protein DdpA",869678
+AEWDK,A7T2U8,Predicted protein,45351
+AEWDK,B2IXF2,Protein kinase,63737
+AEWDK,A0A0A0Z8Z6,Glucose-6-phosphate 1-dehydrogenase,1484158
+AEWDK,A0A0R2IB67,Phosphoenolpyruvate-protein phosphotransferase,1449341
+AEWDK,A0A0J2DQ66,D-Ala-D-Ala transporter subunit,562
+AEWDK,J7IKM2,Heme oxygenase,91750
+AEWDK,A0A0N1RUG7,UDP-galactose-lipid carrier transferase AmsG,1095774
+AEWDK,A0A0P6UBZ3,Transketolase,1892
+AEWDK,C7CXP3,Phosphoenolpyruvate-protein phosphotransferase,565637
+AEWDK,A0A0G2HLZ2,Peroxidase,1604020
+AEWDK,A0A059NT87,Uncharacterized protein,314021
+AEWDK,A0A0G4JTE6,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)",1109412
+AEWDK,J6AUT8,Uncharacterized protein,1134788
+AEWDK,E1HL69,"Dipeptide ABC transporter, permease protein DppA",749540
+AEWDK,A0A0U1CJ18,Na(+)-translocating NADH-quinone reductase subunit F,813
+AEWDK,A0A0E2TT46,Peptide ABC transporter substrate-binding protein,1446560
+AEWDK,A0A0Q8ERH9,Transketolase,1736573
+AEWDK,A0A0H4JVW2,Uncharacterized protein,666
+AEWDK,V2UP43,D-Ala-D-Ala transporter subunit,1281241
+AEWDK,M4P8X0,Endogenous retrovirus group K member 24 Env polyprotein,11676
+AEWDK,M4P949,Envelope glycoprotein gp160,11676
+AEWDK,T2CW20,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,M4PCM3,Endogenous retrovirus group K member 9 Env polyprotein,11676
+AEWDK,A0A0C5WJA2,Sulfatase,658445
+AEWDK,A0A109LSK5,tRNA-dihydrouridine synthase,1735012
+AEWDK,F9NTI7,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",1051006
+AEWDK,A0A0F6C437,Putative hemin-binding lipoprotein,741093
+AEWDK,E1HVU1,"Dipeptide ABC transporter, permease protein DppA",749532
+AEWDK,J6CZB9,Phosphoenolpyruvate-protein phosphotransferase,1134787
+AEWDK,E5YEE3,Glucose-6-phosphate 1-dehydrogenase,469613
+AEWDK,F4VF86,"Dipeptide ABC transporter, permease protein DppA",656408
+AEWDK,S1DAS8,D-Ala-D-Ala transporter subunit,1182671
+AEWDK,D7X0F1,"Dipeptide ABC transporter, permease protein DppA",749549
+AEWDK,H8NU68,Glucose-6-phosphate 1-dehydrogenase,1151116
+AEWDK,D4EZ68,Phosphoenolpyruvate-protein phosphotransferase,699186
+AEWDK,K1LCC9,Na(+)-translocating NADH-quinone reductase subunit F,1225176
+AEWDK,M8PYK5,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116002
+AEWDK,A0A061AIG0,RHTO0S02e08394g1_1,5286
+AEWDK,A0A0L7TEG3,Cytoplasmic protein,1560201
+AEWDK,U9ZDZ7,"Dipeptide ABC transporter, permease protein DppA",1268979
+AEWDK,A0A0H1TNF4,Phosphoenolpyruvate-protein phosphotransferase,1311
+AEWDK,W9Y4Y8,Uncharacterized protein,1182542
+AEWDK,A1VVP2,Uncharacterized protein,365044
+AEWDK,E6WA36,Glucose-6-phosphate 1-dehydrogenase,592316
+AEWDK,A0A070SNC5,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444180
+AEWDK,G8ES02,Envelope glycoprotein,11676
+AEWDK,M4P8L2,Envelope glycoprotein gp160,11676
+AEWDK,G8ES06,Envelope glycoprotein,11676
+AEWDK,C9E152,Envelope glycoprotein,11676
+AEWDK,A0A0B7IQI7,Putative macrolide-specific efflux protein macA,28188
+AEWDK,A0A0A6W0Y6,UDP-phosphate galactose phosphotransferase,66269
+AEWDK,C8TRK7,D-ala-D-ala transporter subunit DdpA,573235
+AEWDK,A0A0D2HIJ8,Uncharacterized protein,1442371
+AEWDK,J3DBV8,ATPase family protein associated with various cellular activities (AAA),1144318
+AEWDK,A8GFH9,Glucose-6-phosphate 1-dehydrogenase,399741
+AEWDK,A0A0B8XTT1,Transcriptional regulator MraZ,1122941
+AEWDK,S2E8R2,Aminopeptidase,1189612
+AEWDK,A0A0L0ARU5,UDP-phosphate galactose phosphotransferase,1681196
+AEWDK,A3HX50,Uncharacterized protein,388413
+AEWDK,J5B5E5,Uncharacterized protein,1134785
+AEWDK,A0A0E3LAN6,"Type I restriction-modification system, restriction subunit R",1434119
+AEWDK,W0L7H0,Glucose-6-phosphate 1-dehydrogenase,1441930
+AEWDK,A0A0V7YDH2,Phosphoenolpyruvate-protein phosphotransferase,1352
+AEWDK,A6CEP4,Protein translocase subunit SecA,344747
+AEWDK,F4XGL3,Uncharacterized protein,552398
+AEWDK,A4BWI1,Na(+)-translocating NADH-quinone reductase subunit F,313594
+AEWDK,A0A0Q9PHH4,C4-dicarboxylate ABC transporter,1736404
+AEWDK,A0A0F5Y2C3,UDP-phosphate galactose phosphotransferase,1522060
+AEWDK,J6QE82,Phosphoenolpyruvate-protein phosphotransferase,1134794
+AEWDK,E1IT57,"Dipeptide ABC transporter, permease protein DppA",679204
+AEWDK,U2NA42,Glucose-6-phosphate 1-dehydrogenase,1332071
+AEWDK,A0A0U5GNH2,Undecaprenyl-phosphate galactosephosphotransferase,1619313
+AEWDK,A0A027THM1,Peptide ABC transporter substrate-binding protein,1446533
+AEWDK,A0A0N8H3D9,Na(+)-translocating NADH-quinone reductase subunit F,1300341
+AEWDK,A1VWE8,Helicase domain protein,365044
+AEWDK,B0P9E4,Tetratricopeptide repeat protein,445972
+AEWDK,D4E5I9,Glucose-6-phosphate 1-dehydrogenase,667129
+AEWDK,N4P4J4,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116069
+AEWDK,A0A0E1T4I5,Putative ABC transporter periplasmic-binding protein yddS,344610
+AEWDK,A0A0D9XQH6,Uncharacterized protein,77586
+AEWDK,W9XEK3,Uncharacterized protein,1182543
+AEWDK,G8ES07,Envelope glycoprotein,11676
+AEWDK,E9Z0Y6,Extracellular solute-binding protein,656420
+AEWDK,M8K7Q0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116132
+AEWDK,J7U187,"Histidinol phosphate phosphatase, HisJ family",936572
+AEWDK,F8XDR6,"Dipeptide ABC transporter, permease protein DppA",796392
+AEWDK,J2G551,"Bacterial extracellular solute-binding s, 5 Middle family protein",754077
+AEWDK,A0A0X3UPR6,Uncharacterized protein,135947
+AEWDK,A0A0Q9RWV7,Uncharacterized protein,1736413
+AEWDK,R5G6R5,Na(+)-translocating NADH-quinone reductase subunit F,1262916
+AEWDK,A6NUL8,Tetratricopeptide repeat protein,411467
+AEWDK,E7SG29,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component",941429
+AEWDK,W4TE85,Ribonucleotide reductase,1302241
+AEWDK,H5T0G2,Uncharacterized protein,1046624
+AEWDK,A0A0R1GX47,Phosphoenolpyruvate-protein phosphotransferase,1423722
+AEWDK,A0A0A0WYI6,Uncharacterized protein,1539298
+AEWDK,A0A0V8EAE6,Phage scaffold protein,1360
+AEWDK,W7EIS3,Uncharacterized protein,930091
+AEWDK,A0A0F3WJ71,Peptide ABC transporter substrate-binding protein,562
+AEWDK,G5EF32,"Nematode polyprotein allergen related, post-translationnally cleaved, the diverse 14.5 kDa cleavage products bind lipids and retinol (164.6 kD) (Npa-1",6239
+AEWDK,A0A024KUS8,Putative ABC transporter periplasmic-binding protein yddS,1400022
+AEWDK,Q5B2R7,Uncharacterized protein,227321
+AEWDK,J7ISI8,Heme oxygenase,91750
+AEWDK,B1LFC9,Putative ABC transporter periplasmic-binding protein yddS,439855
+AEWDK,V3TTP3,Glucose-6-phosphate 1-dehydrogenase,104623
+AEWDK,D4GGA7,Glucose-6-phosphate 1-dehydrogenase,706191
+AEWDK,A0A0Q4P1I2,Glucose-6-phosphate 1-dehydrogenase,1736224
+AEWDK,V7ELM8,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,1408890
+AEWDK,B4MPQ5,GK21746,7260
+AEWDK,A0A0F7HG31,Glucose-6-phosphate 1-dehydrogenase,47917
+AEWDK,A0A0M2ZPX9,Phage scaffold protein,1359
+AEWDK,A0A080G599,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444275
+AEWDK,A0A0S2DJF1,Peptidyl-prolyl cis-trans isomerase,69
+AEWDK,A0A0C1XYE9,Serine/threonine protein kinase,1304833
+AEWDK,H6CW48,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,M4PCV5,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,M4PCK8,Endogenous retrovirus group K member 7 Env polyprotein,11676
+AEWDK,T2CVZ9,Endogenous retrovirus group K member 9 Env polyprotein,11676
+AEWDK,A0A0M5M3P4,Glucose-6-phosphate 1-dehydrogenase,615
+AEWDK,M8Z1U0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116125
+AEWDK,U6SR75,Histidinol-phosphatase,1188261
+AEWDK,A0A0B7ICS5,Putative macrolide-specific efflux protein macA,28188
+AEWDK,A0A086BWQ5,Uncharacterized protein,1262663
+AEWDK,A0A0B4N735,Large subunit ribosomal protein 14,1538695
+AEWDK,C4ZPC0,TRAP dicarboxylate transporter-DctP subunit,85643
+AEWDK,A0A0B2T3V9,ABC transporter substrate-binding protein,1089444
+AEWDK,S2WWE8,Uncharacterized protein,883101
+AEWDK,A0A0X3S3W5,Uncharacterized protein,1609098
+AEWDK,H1C5T7,Uncharacterized protein,1127356
+AEWDK,G9RUV2,Uncharacterized protein,665956
+AEWDK,N6ZU68,Uncharacterized protein,1234382
+AEWDK,A0A025C5F2,Peptide ABC transporter substrate-binding protein,1446596
+AEWDK,A0A059XQY9,ABC transporter permease,2113
+AEWDK,B6IAP0,Peptide ABC transporter substrate binding component,409438
+AEWDK,A0A0E1AYF2,Uncharacterized protein,1415629
+AEWDK,V8KWW8,Transcriptional regulator,1214121
+AEWDK,G5FJK5,Uncharacterized protein,665940
+AEWDK,S0W2R9,D-Ala-D-Ala transporter subunit,1169339
+AEWDK,A0A0V8BR64,Phage scaffold protein,1360
+AEWDK,J7R0X1,Putative hemin-binding lipoprotein,562
+AEWDK,J7IK26,Heme oxygenase,91750
+AEWDK,A0A0R1REG2,Phosphoenolpyruvate-protein phosphotransferase,1114972
+AEWDK,A0A0H5BZL9,DNA-directed RNA polymerase subunit,4903
+AEWDK,D4GID9,AmsG,706191
+AEWDK,S3WVC6,Vitamin B12-dependent ribonucleotide reductase,1203571
+AEWDK,A0A0G1DGL1,Uncharacterized protein,1618578
+AEWDK,S7HYG4,Putative signal transduction protein,1336752
+AEWDK,T5V0R7,D-Ala-D-Ala transporter subunit,1280976
+AEWDK,A0A0M4DWM8,Transketolase,1649184
+AEWDK,T9A3G8,D-Ala-D-Ala transporter subunit,1281213
+AEWDK,A0A084YUA0,Glucose-6-phosphate 1-dehydrogenase,82995
+AEWDK,A0A067ZI74,DNA modification methylase,1476902
+AEWDK,A3WG66,Uncharacterized protein,237727
+AEWDK,A0A0E3S2G1,"Type I restriction-modification system, restriction subunit R",1434111
+AEWDK,U7JRD2,Vitamin B12-dependent ribonucleotide reductase,1203572
+AEWDK,E0FP98,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",754262
+AEWDK,D7YEJ2,"Dipeptide ABC transporter, permease protein DppA",749545
+AEWDK,A0A063XQM5,Glucose-6-phosphate 1-dehydrogenase,1455607
+AEWDK,M4PJ52,Envelope glycoprotein gp160,11676
+AEWDK,B5AJP3,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,M4WV15,Uncharacterized protein,1294143
+AEWDK,A0A0K1J3Z1,Uncharacterized protein,198107
+AEWDK,I3D7V0,Undecaprenyl-phosphate galactose phosphotransferase WbaP,1095749
+AEWDK,M8LFX1,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116135
+AEWDK,U2LSN0,Undecaprenyl-phosphate galactosephosphotransferase,1332069
+AEWDK,A0A081CIG0,AMP deaminase,84753
+AEWDK,A0A0M2ADU6,Phosphoenolpyruvate-protein phosphotransferase,1158660
+AEWDK,A0A089L0Q5,NAD(P)-dependent oxidoreductase,1536773
+AEWDK,A0A0Q9YPL8,Transcriptional regulator MraZ,1590042
+AEWDK,U9UBR7,Uncharacterized protein,747089
+AEWDK,I6DI92,"Bacterial extracellular solute-binding s, 5 Middle family protein",766138
+AEWDK,U5BYE6,Uncharacterized protein,1123057
+AEWDK,A0A0Q7HNL2,Transketolase,1736448
+AEWDK,A0A0F8S1N6,Restriction endonuclease subunit R,1483602
+AEWDK,A0A0Q1HGC9,Na(+)-translocating NADH-quinone reductase subunit F,1453349
+AEWDK,G8I752,Gp29,1089113
+AEWDK,A0A0J6KGU4,Decarboxylase,1628193
+AEWDK,A2RJH9,Uncharacterized protein,416870
+AEWDK,A0A0F5Y2F7,Glucose-6-phosphate 1-dehydrogenase,1522060
+AEWDK,W8U109,"Putative D,D-dipeptide-binding periplasmic protein DdpA",562
+AEWDK,C3TA72,Putative hemin-binding lipoprotein,562
+AEWDK,V0TDR8,"Dipeptide ABC transporter, permease protein DppA",1268982
+AEWDK,S3IR79,Glucose-6-phosphate 1-dehydrogenase,566551
+AEWDK,V2RC51,D-Ala-D-Ala transporter subunit,1280998
+AEWDK,A0A0F3LWW2,Glucose-6-phosphate 1-dehydrogenase,1628190
+AEWDK,L2XR88,D-Ala-D-Ala transporter subunit,1169340
+AEWDK,A0A0F8F327,Restriction endonuclease subunit R,1483599
+AEWDK,H9IWX3,Uncharacterized protein,7091
+AEWDK,E6WLL1,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",592316
+AEWDK,T0SAV3,Phage scaffold protein,1234876
+AEWDK,N2IUL5,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116113
+AEWDK,A0A014NTU5,UDP-phosphate galactose phosphotransferase,69222
+AEWDK,A0A075DM37,Envelope glycoprotein,11676
+AEWDK,A7VE30,Tetratricopeptide repeat protein,411489
+AEWDK,A0A0B7HIA0,Putative macrolide-specific efflux protein macA,28188
+AEWDK,A0A085GCT6,Glucose-6-phosphate 1-dehydrogenase,1006004
+AEWDK,C6PXC2,Mannitol dehydrogenase domain protein,536227
+AEWDK,A0A028DZR7,Peptide ABC transporter substrate-binding protein,1446549
+AEWDK,K7JW00,Uncharacterized protein,7425
+AEWDK,N4VLK9,Methyltransferase type 11,1213857
+AEWDK,A0A0W1F2L2,Uncharacterized protein,1759066
+AEWDK,A0A0C7CZ75,Uncharacterized protein,287
+AEWDK,A0A0F7QXR8,Peptide chain release factor RF-3,287
+AEWDK,R9IEP1,Uncharacterized protein,397291
+AEWDK,S2DKW7,Archaeal ATPase,1189612
+AEWDK,A0A0L0HV80,Uncharacterized protein,645134
+AEWDK,V6ALH4,Uncharacterized protein,1306165
+AEWDK,A0A109JKW7,ABC transporter substrate-binding protein,1755240
+AEWDK,A0A0L7ADG4,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0C2EG53,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0H0HGJ9,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0V8AMV1,Phage scaffold protein,1360
+AEWDK,K8E5B4,Phosphoenolpyruvate-protein phosphotransferase,1234679
+AEWDK,A0A0H0R1D8,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A059N1T9,Phosphoenolpyruvate-protein phosphotransferase,1338519
+AEWDK,V4RV99,Uncharacterized protein,1263865
+AEWDK,I6FX43,"Bacterial extracellular solute-binding s, 5 Middle family protein",766143
+AEWDK,G2FNQ0,Stage IV sporulation protein A,913865
+AEWDK,A0A0U5LPF4,UDP-galactose-lipid carrier transferase,1619313
+AEWDK,B4W321,"Bacterial extracellular solute-binding protein, family 7",118168
+AEWDK,E0LW23,Glucose-6-phosphate 1-dehydrogenase,517433
+AEWDK,A0A0Q1BLV3,Uncharacterized protein,350893
+AEWDK,J6H5Q4,Uncharacterized protein,1134800
+AEWDK,W9BWD6,Uncharacterized protein,1419876
+AEWDK,G0J3S9,Uncharacterized protein,880070
+AEWDK,G8ERZ8,Envelope glycoprotein,11676
+AEWDK,R6Q974,3D-(3 5/4)-trihydroxycyclohexane-1 2-dione hydrolase,1262886
+AEWDK,V0U1S6,"Dipeptide ABC transporter, permease protein DppA",1268985
+AEWDK,A0A0G8AVB9,Peroxidase,1608213
+AEWDK,I0QXK5,Glucose-6-phosphate 1-dehydrogenase,932213
+AEWDK,A0A099XS97,Na(+)-translocating NADH-quinone reductase subunit F,1336803
+AEWDK,M8TEG1,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116032
+AEWDK,A4A005,Putative sporulation protein R,314230
+AEWDK,F9VE38,Phage scaffold protein,420890
+AEWDK,A0A0K4AQN4,ABC transporter substrate-binding protein,562
+AEWDK,D8B246,"Dipeptide ABC transporter, permease protein DppA",749544
+AEWDK,K3JXJ5,Putative hemin-binding lipoprotein,1005567
+AEWDK,A0A080F7P0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444116
+AEWDK,A0A0T9QPP6,Glucose-6-phosphate 1-dehydrogenase,419257
+AEWDK,H2IXX9,Glucose-6-phosphate 1-dehydrogenase,745277
+AEWDK,N2HEY6,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116047
+AEWDK,U6RZE5,Phosphoenolpyruvate-protein phosphotransferase,1244143
+AEWDK,W1X0H6,"Putative D,D-dipeptide-binding periplasmic protein ddpA",1403943
+AEWDK,G8DH45,Serine peptidase,754068
+AEWDK,F1UH77,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",765072
+AEWDK,A0A0D9XQH7,Uncharacterized protein,77586
+AEWDK,A0A0M2YDS7,UDP-phosphate galactose phosphotransferase,553
+AEWDK,A0A0E1NSA7,Glucose-6-phosphate 1-dehydrogenase,360102
+AEWDK,J6GZ55,Phosphoenolpyruvate-protein phosphotransferase,1134800
+AEWDK,A0A0Q1H7R8,Na(+)-translocating NADH-quinone reductase subunit F,1547436
+AEWDK,A0A0M8U1Q9,Uncharacterized protein,1415562
+AEWDK,A0A0J9XA77,Uncharacterized protein,1173061
+AEWDK,Q9WDC4,Envelope glycoprotein,11676
+AEWDK,T2CW21,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,H8XQ69,Probable membrane fusion efflux protein,1094466
+AEWDK,A0A0A8U7H8,D-ala-D-a la transporter subunit periplasmic-binding component of ABC superfamily,244319
+AEWDK,F0XWX9,Putative uncharacterized protein,44056
+AEWDK,E3K9M8,Uncharacterized protein,418459
+AEWDK,L3QKV9,D-Ala-D-Ala transporter subunit,1182683
+AEWDK,A0A073FXZ5,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444266
+AEWDK,A0A073VN94,Undecaprenyl-phosphate galactose phosphotransferase WbaP family protein,1444046
+AEWDK,A0A0J6NGP8,Decarboxylase,1628212
+AEWDK,E2YXD8,Phosphoenolpyruvate-protein phosphotransferase,749509
+AEWDK,A0A0H4PFE0,Uncharacterized protein,320787
+AEWDK,A3J4D8,Na(+)-translocating NADH-quinone reductase subunit F,391598
+AEWDK,L4VT92,D-Ala-D-Ala transporter subunit,1169376
+AEWDK,U3QP82,ABC transporter permease,1366050
+AEWDK,I4MTI1,Uncharacterized protein,795665
+AEWDK,A0A0B9A7X2,Glucose-6-phosphate 1-dehydrogenase,546367
+AEWDK,R7ZUH4,Probable GTP-binding protein EngB,1232681
+AEWDK,E6IB35,Phosphoenolpyruvate-protein phosphotransferase,749510
+AEWDK,J6LYQ3,Phosphoenolpyruvate-protein phosphotransferase,1134786
+AEWDK,J6MBQ5,Uncharacterized protein,1134786
+AEWDK,A0A0V8ECI0,Phage scaffold protein,1360
+AEWDK,A0A0A0Z707,UDP-phosphate galactose phosphotransferase,1484158
+AEWDK,R0A6Z4,Uncharacterized protein,997894
+AEWDK,A0A0K3CFL3,Uncharacterized protein,5286
+AEWDK,J6H446,Uncharacterized protein,1134799
+AEWDK,T9H813,D-Ala-D-Ala transporter subunit,1281227
+AEWDK,A0A101Y179,NAD(P)-dependent oxidoreductase,1780103
+AEWDK,D7ZSZ5,"Dipeptide ABC transporter, permease protein DppA",749547
+AEWDK,H3A4E8,Uncharacterized protein,7897
+AEWDK,W3VFH9,Uncharacterized protein,1391700
+AEWDK,A0A0F5F9V6,Glucose-6-phosphate 1-dehydrogenase,470931
+AEWDK,U3U4J7,Undecaprenyl-phosphate galactose phosphotransferase,891974
+AEWDK,S9QNM4,Uncharacterized protein,1123360
+AEWDK,A0A0S2G9M2,Peptidyl-prolyl cis-trans isomerase,262324
+AEWDK,W7A307,Uncharacterized protein,930090
+AEWDK,A0A0R2I8G9,Phosphoenolpyruvate-protein phosphotransferase,114090
+AEWDK,E6H2J6,Phosphoenolpyruvate-protein phosphotransferase,749504
+AEWDK,J7RGA1,Putative hemin-binding lipoprotein,475609
+AEWDK,S0YE65,D-Ala-D-Ala transporter subunit,1169354
+AEWDK,N2QWJ2,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116036
+AEWDK,D0EC47,Envelope glycoprotein,11676
+AEWDK,N4XQ46,Uncharacterized protein,665024
+AEWDK,M9GMN7,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116133
+AEWDK,E0HHT1,Phosphoenolpyruvate-protein phosphotransferase,749506
+AEWDK,A0A0R3M2L3,Uncharacterized protein,280332
+AEWDK,A0A0P0LW40,"Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase",1678129
+AEWDK,M9M8H3,Adenosine monophosphate deaminase,1151754
+AEWDK,A0A0A0DS29,Uncharacterized protein,1538295
+AEWDK,A0A0S7AKW4,Family 5 extracellular solute-binding protein,1297799
+AEWDK,D8ABH9,"Putative dipeptide ABC transporter, permease protein DppA",749527
+AEWDK,A0A0Q8JBG9,Peptidyl-prolyl cis-trans isomerase,1736588
+AEWDK,A0A0A2EMK5,Cobinamide kinase,1517682
+AEWDK,R7ZX33,Archaeal ATPase,1232681
+AEWDK,C6RN56,Uncharacterized protein,596318
+AEWDK,F4NG10,"Dipeptide ABC transporter, permease protein DppA",556266
+AEWDK,Q320S6,Putative hemin-binding lipoprotein,300268
+AEWDK,J2V0C0,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP glycosylphosphotransferase",1144341
+AEWDK,Q8XAU4,Putative hemin-binding lipoprotein,83334
+AEWDK,A0A0D6IJ37,Uncharacterized protein,287
+AEWDK,V4AJD4,Uncharacterized protein,225164
+AEWDK,N4N8B8,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116067
+AEWDK,F7NJ94,"Trap-t family protein transporter, dctp",1009370
+AEWDK,A3WC57,tRNA-dihydrouridine synthase,237727
+AEWDK,A0A0Q9LE42,C4-dicarboxylate ABC transporter,1736392
+AEWDK,A0A073UG35,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444047
+AEWDK,A0A0N1UXU9,Glucose-6-phosphate 1-dehydrogenase,273526
+AEWDK,S6ES38,Uncharacterized protein,1137134
+AEWDK,A0A0D0C0A7,"Unplaced genomic scaffold GYMLUscaffold_128, whole genome shotgun sequence",944289
+AEWDK,G8ES03,Envelope glycoprotein,11676
+AEWDK,Q2L851,Endogenous retrovirus group K member 7 Env polyprotein,11676
+AEWDK,N6YPV5,TRAP dicarboxylate transporter subunit DctP,1234381
+AEWDK,A0A0Q7XE64,Cyanophycinase,1736471
+AEWDK,M9GED8,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116066
+AEWDK,V0A143,"Dipeptide ABC transporter, permease protein DppA",1269007
+AEWDK,E2YA61,Phosphoenolpyruvate-protein phosphotransferase,749490
+AEWDK,V0YR24,"Dipeptide ABC transporter, permease protein DppA",1268998
+AEWDK,A0A0L0H3J1,Regulatory protein,379893
+AEWDK,A0A0U3LLW9,Transketolase,1172567
+AEWDK,A0A0P0MEH0,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,1678129
+AEWDK,Q66AT1,Glucose-6-phosphate 1-dehydrogenase,273123
+AEWDK,H3REK6,Undecaprenyl-phosphate UDP-galactose phosphotransferase,660596
+AEWDK,A0A0A7HFP7,FAD linked oxidase domain protein,1519
+AEWDK,A0A0P7VNB5,Putative hemin transport protein,1666914
+AEWDK,A0A015KDZ4,Uncharacterized protein,1432141
+AEWDK,G5HIR5,Uncharacterized protein,742733
+AEWDK,A0A0K4XWH3,ABC transporter substrate-binding protein,562
+AEWDK,A0A0D8WDL6,Peptide ABC transporter substrate-binding protein,562
+AEWDK,J6DL99,Uncharacterized protein,1134792
+AEWDK,G0Q299,Transketolase,1609288
+AEWDK,A0A0M1Z959,Phosphoenolpyruvate-protein phosphotransferase,1151186
+AEWDK,L3BK23,D-Ala-D-Ala transporter subunit,1181739
+AEWDK,I3Z8K2,Putative aminopeptidase,866536
+AEWDK,W7Z5Z6,Transcriptional regulator MraZ,1460640
+AEWDK,A0A0T9LP17,Glucose-6-phosphate 1-dehydrogenase,631
+AEWDK,A0A0D5WV30,Glucose-6-phosphate 1-dehydrogenase,1134687
+AEWDK,B7N4P9,D-ala-D-a la transporter subunit periplasmic-binding component of ABC superfamily,585056
+AEWDK,A0A0X2P3G2,Glucose-6-phosphate 1-dehydrogenase,613
+AEWDK,I4SHL0,D-ala-D-ala transporter subunit DdpA,752785
+AEWDK,W2F2D7,Transketolase,316330
+AEWDK,A0A0C2NBA7,Pro-Pol polyprotein,669202
+AEWDK,F3WHU0,"Putative D,D-dipeptide-binding periplasmic protein ddpA domain protein",766141
+AEWDK,A0A0R2K7M8,Phosphoenolpyruvate-protein phosphotransferase enzyme I,2751
+AEWDK,M7Y8S3,Aminopeptidase,1239962
+AEWDK,B6YQR4,Ferredoxin-nitrite reductase,511995
+AEWDK,A0A0F8CUT1,Restriction endonuclease subunit R,1483600
+AEWDK,B5AJN6,Endogenous retrovirus group K member 21 Env polyprotein,11676
+AEWDK,B5AJN3,Endogenous retrovirus group K member 7 Env polyprotein,11676
+AEWDK,B5AJN5,Endogenous retrovirus group K member 21 Env polyprotein,11676
+AEWDK,K7RN87,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",1171373
+AEWDK,J0VUT4,Dihydroxyacetone kinase,754522
+AEWDK,A0A086T6I3,6-hydroxy-D-nicotine oxidase-like protein,857340
+AEWDK,A0A077JMK5,Peptide chain release factor RF-3,287
+AEWDK,J5HCK0,Phosphoenolpyruvate-protein phosphotransferase,1134797
+AEWDK,A0A089W5J2,Glucose-6-phosphate 1-dehydrogenase,158822
+AEWDK,K4WH27,Family 5 extracellular solute-binding protein,1165944
+AEWDK,V6Q3A0,Phosphoenolpyruvate-protein phosphotransferase,1408226
+AEWDK,W7DV22,Single-stranded-DNA-specific exonuclease RecJ,1265846
+AEWDK,W6FQ50,Serine/threonine kinase,313624
+AEWDK,A0A070UHZ7,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444151
+AEWDK,D3BLW5,Uncharacterized protein,13642
+AEWDK,A0A073VM77,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444157
+AEWDK,A0A0F5C3B1,Uncharacterized protein,54126
+AEWDK,A0A0E9BBF3,Glucose-6-phosphate 1-dehydrogenase,553
+AEWDK,A0A0U0Y6D7,Conserved exported protein of uncharacterised function,36809
+AEWDK,A0A0N1RUW6,Glucose-6-phosphate 1-dehydrogenase,1095774
+AEWDK,I6EAW5,"Bacterial extracellular solute-binding s, 5 Middle family protein",766140
+AEWDK,A0A0B1R023,Glucose-6-phosphate 1-dehydrogenase,1076549
+AEWDK,A0A0G0LVN4,Uncharacterized protein,1618921
+AEWDK,A0A070D065,Peptide ABC transporter substrate-binding protein,1446583
+AEWDK,A0A0P8CTI0,"Putative D,D-dipeptide-binding periplasmic protein DdpA",913091
+AEWDK,S0K014,Phosphoenolpyruvate-protein phosphotransferase,1140001
+AEWDK,K0X6L3,"Bacterial extracellular solute-binding s, 5 Middle family protein",766155
+AEWDK,O89788,Envelope glycoprotein,11676
+AEWDK,G8ES11,Envelope glycoprotein,11676
+AEWDK,M4PCR5,Endogenous retrovirus group K member 21 Env polyprotein,11676
+AEWDK,C9E146,Envelope glycoprotein,11676
+AEWDK,B5AJP0,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,M4PJA3,Endogenous retrovirus group K member 24 Env polyprotein,11676
+AEWDK,U7M8G4,Vitamin B12-dependent ribonucleotide reductase,1203576
+AEWDK,A0A0U6HAA1,Putative colanic biosynthesis UDP-glucose lipid carrier transferase,615
+AEWDK,A0A0G8BG45,Glucose-6-phosphate dehydrogenase,615
+AEWDK,A0A0E3L772,"Type I restriction-modification system, restriction subunit R",1434100
+AEWDK,A0A0H3MGY9,D-ala-D-a la transporter subunit periplasmic-binding component of ABC superfamily,585057
+AEWDK,A0A085B4B1,Vitamin B12-dependent ribonucleotide reductase,1271528
+AEWDK,A0A0L7DL50,UDP-phosphate galactose phosphotransferase,1690502
+AEWDK,T6M5U7,D-Ala-D-Ala transporter subunit,1281024
+AEWDK,A3SZ31,"Na+/H+ antiporter, NhaC family protein",314267
+AEWDK,J5F8E8,Uncharacterized protein,1134793
+AEWDK,A0A0H3L201,UDP-galactose-lipid carrier transferase AmsG,932677
+AEWDK,A0A0Q4MUG5,Glucose-6-phosphate 1-dehydrogenase,1736223
+AEWDK,F4BNX3,Phosphoenolpyruvate-protein phosphotransferase,208596
+AEWDK,A0A0E3LD61,"Type I restriction-modification system, restriction subunit R",1434118
+AEWDK,F9YPT4,Probable macrolide-specific efflux protein macA,860228
+AEWDK,E2YIK6,Phosphoenolpyruvate-protein phosphotransferase,749489
+AEWDK,I3ZAS6,Uncharacterized protein,866536
+AEWDK,A0A087DPR6,LPXTG-motif cell wall anchor domain protein,762211
+AEWDK,J7IJZ3,Heme oxygenase,91750
+AEWDK,S1IB76,D-Ala-D-Ala transporter subunit,1182704
+AEWDK,I0XM01,Uncharacterized protein,1049972
+AEWDK,A0A109Q0D7,Peptide chain release factor RF-3,1411700
+AEWDK,A0A0E3JWX7,Mannitol dehydrogenase domain protein,1548
+AEWDK,A0A0J8B161,Uncharacterized protein,3555
+AEWDK,A0A0U4IG88,Glucose-6-phosphate 1-dehydrogenase,47917
+AEWDK,A0A0H2Y6I0,Glucose-6-phosphate 1-dehydrogenase,360102
+AEWDK,J6CBR2,Uncharacterized protein,1134791
+AEWDK,D8ECU2,"Dipeptide ABC transporter, permease protein DppA",679206
+AEWDK,A1ZTW6,Tail-specific protease,313606
+AEWDK,A0A0W0Y6S3,Uncharacterized protein,45073
+AEWDK,A0A0A6YT80,"Efflux transporter, RND family, MFP subunit",706436
+AEWDK,M4PBQ8,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,B5AJN2,Endogenous retrovirus group K member 8 Env polyprotein,11676
+AEWDK,M4P963,Endogenous retrovirus group K member 7 Env polyprotein,11676
+AEWDK,B5AJP1,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,V5FZM4,Uncharacterized protein,1356009
+AEWDK,D3FZZ9,PHP family histidinol phosphatase/hydrolase,398511
+AEWDK,A0A0F6F680,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component Putative hemin-binding lipoprotein",1330457
+AEWDK,A0A069XGC7,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444252
+AEWDK,A0A0D1CUF1,Glucose-6-phosphate 1-dehydrogenase,1544796
+AEWDK,X1JIF2,Uncharacterized protein,412755
+AEWDK,U2B6U5,Uncharacterized protein,1226325
+AEWDK,A0A125W5B1,Phosphoenolpyruvate-protein phosphotransferase,749495
+AEWDK,E4HML4,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",765109
+AEWDK,R7BDP2,3D-(3 5/4)-trihydroxycyclohexane-1 2-dione hydrolase,1263019
+AEWDK,A0A0C4EXM5,Uncharacterized protein,630390
+AEWDK,W4UDC1,Ribonucleotide reductase,1302244
+AEWDK,E6GUU7,Phosphoenolpyruvate-protein phosphotransferase,749503
+AEWDK,D6J9T5,Putative uncharacterized protein,550677
+AEWDK,A0A086TWI5,Peptide ABC transporter substrate-binding protein,562
+AEWDK,D4EPT4,Phosphoenolpyruvate-protein phosphotransferase,699185
+AEWDK,A0A070KIQ4,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444150
+AEWDK,G7LMY4,Glucose-6-phosphate 1-dehydrogenase,598467
+AEWDK,A0A125X3E2,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444132
+AEWDK,V9LD79,Non-syndromic hearing impairment protein 5-like protein,7868
+AEWDK,E0LZK7,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",517433
+AEWDK,A0A0B9H0W6,Sulfatase,1295392
+AEWDK,H4UIY1,"Bacterial extracellular solute-binding s, 5 Middle family protein",868160
+AEWDK,E1SIN0,Undecaprenyl-phosphategalactosephosphotransferase,712898
+AEWDK,A0A0P0QFP0,Glucose-6-phosphate 1-dehydrogenase,615
+AEWDK,X8K1Q0,DNA ligase (NAD+),888727
+AEWDK,V0RG82,"Dipeptide ABC transporter, permease protein DppA",1268977
+AEWDK,A0A0Q4MX73,Glucose-6-phosphate 1-dehydrogenase,1736225
+AEWDK,R7YCQ3,Uncharacterized protein,1316928
+AEWDK,M9XBX7,Family 5 extracellular solute-binding protein,504728
+AEWDK,I2WNJ2,"Dipeptide ABC transporter, permease protein DdpA",869687
+AEWDK,W1XQ19,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component",408170
+AEWDK,E6BQQ7,"Dipeptide ABC transporter, permease protein DppA",679202
+AEWDK,D8EUI8,"Dipeptide ABC transporter, permease protein DppA",679207
+AEWDK,U9ZNU1,"Dipeptide ABC transporter, permease protein DppA",1268986
+AEWDK,J6R155,Phosphoenolpyruvate-protein phosphotransferase,1134798
+AEWDK,F4SIS7,"Dipeptide ABC transporter, permease protein DppA",656414
+AEWDK,A0A0F3UQ13,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0J1LZV2,D-Ala-D-Ala transporter subunit,1686381
+AEWDK,R5N7A5,Ig-like domain-containing surface protein,1262951
+AEWDK,Q022X5,Putative esterase,234267
+AEWDK,A0A0U1QV40,Glucose-6-phosphate 1-dehydrogenase,349747
+AEWDK,J7ISK7,Heme oxygenase,91750
+AEWDK,A0A0H5LSF1,Glucose-6-phosphate 1-dehydrogenase,631
+AEWDK,A8XUQ7,Protein CBR-NPA-1,6238
+AEWDK,A0A127V789,Uncharacterized protein,188932
+AEWDK,X7PKT4,D-Ala-D-Ala transporter subunit,1328434
+AEWDK,U3TW84,Glucose-6-phosphate 1-dehydrogenase,891974
+AEWDK,L2V2G4,D-Ala-D-Ala transporter subunit,1169330
+AEWDK,L9IBF4,"Bacterial extracellular solute-binding s, 5 Middle family protein",1051347
+AEWDK,D6IAI5,Peptide/nickel transport system substrate-binding protein,550676
+AEWDK,N3KEL1,"Bacterial extracellular solute-binding s, 5 Middle family protein",1125638
+AEWDK,D2VWD2,Predicted protein,5762
+AEWDK,D2W5D0,Predicted protein,5762
+AEWDK,A0A0R1YJJ6,Phosphoenolpyruvate-protein phosphotransferase,1423721
+AEWDK,X1AIY5,Uncharacterized protein,412755
+AEWDK,A0A0C1DY93,Uncharacterized protein,1566023
+AEWDK,V1AE45,"Dipeptide ABC transporter, permease protein DppA",1269003
+AEWDK,A0A095VAW6,Glucose-6-phosphate 1-dehydrogenase,642227
+AEWDK,A0A060HLJ5,Uncharacterized protein,1401256
+AEWDK,S1GXP3,D-Ala-D-Ala transporter subunit,1182699
+AEWDK,A0A0M2W7H7,Glucose-6-phosphate 1-dehydrogenase,300181
+AEWDK,J6QX76,Uncharacterized protein,1134797
+AEWDK,A0A084HA85,Uncharacterized protein,1423321
+AEWDK,A0A0P9EEK4,Uncharacterized protein,578459
+AEWDK,S0AF90,UDp-galactose-lipid carrier transferase AmsG,682634
+AEWDK,A0A010KDI9,Putative cob(I)alamin adenosyltransferase,1310683
+AEWDK,J6QD10,Phosphoenolpyruvate-protein phosphotransferase,1134793
+AEWDK,A0A0T9LYP8,Glucose-6-phosphate 1-dehydrogenase,633
+AEWDK,A0A0N0ZA71,Glucose-6-phosphate 1-dehydrogenase,1354267
+AEWDK,J5HVP9,Uncharacterized protein,1134798
+AEWDK,A0A0P7R8Y1,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0H0GHB7,Peptide ABC transporter substrate-binding protein,562
+AEWDK,T9SGS8,D-Ala-D-Ala transporter subunit,1281269
+AEWDK,K1LIQ3,Uncharacterized protein,1225176
+AEWDK,W8VX54,Na(+)-translocating NADH-quinone reductase subunit F,1454201
+AEWDK,A0A0V8BGY6,Phage scaffold protein,1360
+AEWDK,A0A0L0YNL5,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0K4S0B2,ABC transporter substrate-binding protein,562
+AEWDK,J7ITT9,Heme oxygenase,91750
+AEWDK,A0A0C3N6P7,"TRAP-T family sorbitol/mannitol transporter, periplasmic binding protein, SmoM",1572758
+AEWDK,G7LT30,"ABC-type transporter, periplasmic subunit",598467
+AEWDK,M2UBI8,Uncharacterized protein,701091
+AEWDK,K9WSD5,Serine/threonine protein kinase,56107
+AEWDK,J6NDW4,Phosphoenolpyruvate-protein phosphotransferase,1134788
+AEWDK,W6KAI8,Uncharacterized protein,1288970
+AEWDK,A0A0D8IXC1,Uncharacterized protein,1550024
+AEWDK,A0A086AEP3,Uncharacterized protein,991
+AEWDK,A0A0E2GIK2,Uncharacterized protein,981334
+AEWDK,W9YNF5,Uncharacterized protein,1182541
+AEWDK,B5AJP2,Endogenous retrovirus group K member 113 Env polyprotein,11676
+AEWDK,C6C0R3,Diguanylate phosphodiesterase,526222
+AEWDK,A0A0X1RVG8,CCA-adding enzyme,1750719
+AEWDK,A0A0Q9XYY2,Uncharacterized protein,480284
+AEWDK,C7WVZ4,Phosphoenolpyruvate-protein phosphotransferase,565645
+AEWDK,R5SC24,Uncharacterized protein,1262690
+AEWDK,A0A0F9C7F4,Uncharacterized protein,412755
+AEWDK,A0A0Q7PLR4,Peptidyl-prolyl cis-trans isomerase,1736549
+AEWDK,A0A0L7D884,UDP-phosphate galactose phosphotransferase,1690502
+AEWDK,A0A0A2B262,Arginine biosynthesis bifunctional protein ArgJ,167551
+AEWDK,C2L158,"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain protein",585501
+AEWDK,J5ZVG7,Phosphoenolpyruvate-protein phosphotransferase,1134785
+AEWDK,A0A0T9J8Y6,Glucose-6-phosphate 1-dehydrogenase,633
+AEWDK,A0A070CH33,Peptide ABC transporter substrate-binding protein,1446599
+AEWDK,W1L4E2,Uncharacterized protein,1336745
+AEWDK,J6CPF5,Uncharacterized protein,1134789
+AEWDK,J6PAB5,Phosphoenolpyruvate-protein phosphotransferase,1134792
+AEWDK,A0A0Q2YD59,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0X5HKT6,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0B1FIP3,Peptide ABC transporter substrate-binding protein,562
+AEWDK,W6N5F3,"Glycolate dehydrogenase , subunit GlcD",1408889
+AEWDK,A0A109RVM1,Uncharacterized protein,1236179
+AEWDK,A0A0E3SSJ9,"Type I restriction-modification system, restriction subunit R",1434104
+AEWDK,A0A085HTA3,"Ortho-halobenzoate 1,2-dioxygenase beta-ISP protein",1006000
+AEWDK,A0A0F3M0V3,UDP-phosphate galactose phosphotransferase,1628190
+AEWDK,U7MAF9,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",1203575
+AEWDK,A0A0P1DG75,Uncharacterized protein,1356855
+AEWDK,C0X7Y6,Uncharacterized protein,491074
+AEWDK,A0A095AWS9,Calcium-binding EF-hand protein,1502850
+AEWDK,A0A0D2JYJ1,Thioredoxin,145388
+AEWDK,T2CWP1,Endogenous retrovirus group K member 24 Env polyprotein,11676
+AEWDK,M4PJ15,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,Q8AEX6,Gp120,11676
+AEWDK,A0A064TGY4,Uncharacterized protein,1438695
+AEWDK,M4XN66,Cytochrome c5,1294143
+AEWDK,A0A0A3Z9E3,UDP-phosphate galactose phosphotransferase,371042
+AEWDK,A0A087KB61,Transketolase,1525753
+AEWDK,A0A139CUR2,"Type I restriction enzyme, R subunit",1794908
+AEWDK,L3KPN2,D-Ala-D-Ala transporter subunit,1182658
+AEWDK,A0A059ICY7,UDP-phosphate galactose phosphotransferase,1408177
+AEWDK,J6F8T2,Phosphoenolpyruvate-protein phosphotransferase,1134796
+AEWDK,A0A0S6VED4,Glucose-6-phosphate 1-dehydrogenase,1460083
+AEWDK,A0A0Q8RWS7,Uncharacterized protein,1736491
+AEWDK,F4TG01,"Dipeptide ABC transporter, permease protein DppA",656419
+AEWDK,J6NTI4,Phosphoenolpyruvate-protein phosphotransferase,1134789
+AEWDK,A0A0T9PMH7,Glucose-6-phosphate 1-dehydrogenase,29484
+AEWDK,A0A0A1A4V0,Peptide ABC transporter substrate-binding protein,562
+AEWDK,E6GP94,Phosphoenolpyruvate-protein phosphotransferase,749498
+AEWDK,Q8TP05,Type I site-specific deoxyribonuclease,188937
+AEWDK,A0A0D0NZG3,Diguanylate phosphodiesterase,277
+AEWDK,A0A0B1K5C8,Peptide ABC transporter substrate-binding protein,562
+AEWDK,Q8D0F3,Glucose-6-phosphate 1-dehydrogenase,632
+AEWDK,H1CXX7,"Undecaprenyl-phosphate galactose phosphotransferase, WbaP",742743
+AEWDK,A0A069X1K4,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444251
+AEWDK,Q02WU4,Uncharacterized protein,272622
+AEWDK,E1JCQ3,"Dipeptide ABC transporter, permease protein DppA",679205
+AEWDK,A0A074IML5,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444219
+AEWDK,A0A0H7NJJ4,Putative ABC transporter periplasmic-binding protein yddS,624
+AEWDK,W4U1G7,Ribonucleotide reductase,1302243
+AEWDK,G8ES09,Envelope glycoprotein,11676
+AEWDK,G0YAB0,Envelope glycoprotein,11676
+AEWDK,G8ERZ9,Envelope glycoprotein,11676
+AEWDK,A0A074IHE1,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444179
+AEWDK,I2XDD9,"Dipeptide ABC transporter, permease protein DdpA",869688
+AEWDK,R9IPR6,Uncharacterized protein,397291
+AEWDK,H3RFN5,Glucose-6-phosphate 1-dehydrogenase,660596
+AEWDK,I4C9P0,Methylase involved in ubiquinone/menaquinone biosynthesis,706587
+AEWDK,A0A0U9HLB8,Uncharacterized protein,3175
+AEWDK,S1G8H9,D-Ala-D-Ala transporter subunit,1182698
+AEWDK,A0A0K3SRU9,ABC transporter substrate-binding protein,562
+AEWDK,K4XLP7,Family 5 extracellular solute-binding protein,1165939
+AEWDK,N9WJK8,Tyrosine decarboxylase,999411
+AEWDK,A0A0A2EW34,Phosphoenolpyruvate carboxykinase [ATP],1517682
+AEWDK,W7YQJ6,RNA polymerase sigma factor SigM,869213
+AEWDK,L3P716,D-Ala-D-Ala transporter subunit,1182673
+AEWDK,T9E5Y1,D-Ala-D-Ala transporter subunit,1281218
+AEWDK,A0A062YCM0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444037
+AEWDK,E9XKB8,Extracellular solute-binding protein,656449
+AEWDK,C6BC91,Uncharacterized protein,428406
+AEWDK,T6AUA5,D-Ala-D-Ala transporter subunit,1280991
+AEWDK,A0A0B1KMA2,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0I4BP99,Putative ABC transporter periplasmic-binding protein yddS,624
+AEWDK,A0A0P8AIL8,Uncharacterized protein,1305737
+AEWDK,A0A0G2XGI3,Peptide ABC transporter substrate-binding protein,621
+AEWDK,D8ULU4,Putative uncharacterized protein,3068
+AEWDK,A0A0S2F9B4,FKBP-type peptidyl-prolyl cis-trans isomerase family protein,84531
+AEWDK,E1SFZ6,Glucose-6-phosphate 1-dehydrogenase,712898
+AEWDK,Q9HW14,Uncharacterized protein,208964
+AEWDK,D2S892,Uncharacterized protein,526225
+AEWDK,D4HDI5,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",553199
+AEWDK,G8ES08,Envelope glycoprotein,11676
+AEWDK,D0EC56,Envelope glycoprotein,11676
+AEWDK,T2CVZ6,Endogenous retrovirus group K member 21 Env polyprotein,11676
+AEWDK,U7G9E8,Uncharacterized protein,1397530
+AEWDK,A0A0C2S0I1,ATPase AAA,316
+AEWDK,A0A023WYB7,ATPase AAA,316
+AEWDK,A0A059I9A8,Glucose-6-phosphate 1-dehydrogenase,1408177
+AEWDK,A0A0U3T1Q4,UDP-phosphate galactose phosphotransferase,158822
+AEWDK,R3KR29,Phosphoenolpyruvate-protein phosphotransferase,1169311
+AEWDK,N3NLE7,"Bacterial extracellular solute-binding s, 5 Middle family protein",1125642
+AEWDK,A0A0A2LYL8,Uncharacterized protein,1406840
+AEWDK,W9FLF5,Transketolase,457430
+AEWDK,A0A0D7CZL9,Transketolase,1573406
+AEWDK,A5GQY0,Peroxiredoxin,316278
+AEWDK,A0A085NXH2,Peptide ABC transporter substrate-binding protein,562
+AEWDK,M9KFX0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116119
+AEWDK,D2T9V7,Glucose-6-phosphate 1-dehydrogenase,644651
+AEWDK,A0A0M9EII9,Hemin transport protein HemS,1389006
+AEWDK,E6EW35,Phosphoenolpyruvate-protein phosphotransferase,749508
+AEWDK,C8RYM0,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,371731
+AEWDK,A0A0J9BAN9,Glucose-6-phosphate 1-dehydrogenase,1628856
+AEWDK,I2UFX4,"Dipeptide ABC transporter, permease protein DdpA",869681
+AEWDK,A0A0E1LX69,D-ala-D-a la transporter subunit,745156
+AEWDK,A0A0E9B7S5,UDP-galactose-lipid carrier transferase,553
+AEWDK,A0A0N0WJT7,Uncharacterized protein,59511
+AEWDK,A0A090Y4J2,Uncharacterized protein,44252
+AEWDK,A0A063BXT2,Uncharacterized protein,1159556
+AEWDK,V0Y0I5,"Dipeptide ABC transporter, permease protein DppA",1268995
+AEWDK,I0WI43,HlyD family secretion protein,946077
+AEWDK,D4I467,Glucose-6-phosphate 1-dehydrogenase,665029
+AEWDK,E8Y9W4,Extracellular solute-binding protein family 5,595495
+AEWDK,A0A0F8C9D0,Restriction endonuclease subunit R,1483596
+AEWDK,N4P8S0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116070
+AEWDK,A0A0M2YD31,Glucose-6-phosphate dehydrogenase,553
+AEWDK,H0B859,Transketolase,1055352
+AEWDK,A0A0F0DZ14,Peptide chain release factor RF-3,1619948
+AEWDK,D3AFW1,Tetratricopeptide repeat protein,566550
+AEWDK,Q4LB56,P-type ATPase,189428
+AEWDK,A0A0P1IU93,Sporulation related domain protein,1715690
+AEWDK,G4CZR4,Vitamin B12-dependent ribonucleotide reductase,997355
+AEWDK,A0A083ZY33,Glucose-6-phosphate 1-dehydrogenase,1410619
+AEWDK,E7SZZ9,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component",932676
+AEWDK,A0A0L8Q7Z6,Transketolase,285575
+AEWDK,A0A0F9J744,Uncharacterized protein,412755
+AEWDK,Q58PP5,Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase,311783
+AEWDK,H1B746,Uncharacterized protein,469614
+AEWDK,A0A0G8ASP3,Peroxidase,1608419
+AEWDK,N6Y5F0,TRAP dicarboxylate transporter subunit DctP,497321
+AEWDK,D6HWZ8,Peptide/nickel transport system substrate-binding protein,550672
+AEWDK,X6NQV3,Uncharacterized protein,46433
+AEWDK,Q0WF90,Glucose-6-phosphate 1-dehydrogenase,632
+AEWDK,L3Q5X0,D-Ala-D-Ala transporter subunit,1182682
+AEWDK,J6P9M0,Phosphoenolpyruvate-protein phosphotransferase,1134790
+AEWDK,A0A0E3L8D0,"Type I restriction-modification system, restriction subunit R",1434120
+AEWDK,A0A0K3YYD8,ABC transporter substrate-binding protein,562
+AEWDK,A0A0L6XT73,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0H3QUF5,Uncharacterized protein,1125697
+AEWDK,W7ZMB0,Transcriptional regulator MraZ,1460639
+AEWDK,A0A0X6ZYS4,Uncharacterized protein,477195
+AEWDK,J0MLX8,Glucose-6-phosphate 1-dehydrogenase,1202448
+AEWDK,A0A125MMJ7,Peptidyl-prolyl cis-trans isomerase,1444315
+AEWDK,M9M7Y7,Oligoendopeptidase F,1212764
+AEWDK,C5ERB3,Tetratricopeptide repeat protein,457421
+AEWDK,A0A087L4A2,Glucose-6-phosphate 1-dehydrogenase,1524467
+AEWDK,K4FYP8,Non-syndromic hearing impairment protein 5,7868
+AEWDK,A0A0F5F656,UDP-phosphate galactose phosphotransferase,470931
+AEWDK,M7X1P9,Uncharacterized protein,1239962
+AEWDK,S0ZI24,D-Ala-D-Ala transporter subunit,1169355
+AEWDK,A0A0M1V569,Glucose-6-phosphate 1-dehydrogenase,373665
+AEWDK,H2W270,Uncharacterized protein,281687
+AEWDK,C0X2C5,Phosphoenolpyruvate-protein phosphotransferase,491074
+AEWDK,A0A120LPF8,UDP-phosphate galactose phosphotransferase,549
+AEWDK,A0A089XQU7,Uncharacterized protein,1358
+AEWDK,B3FPT6,Envelope glycoprotein,11676
+AEWDK,J3HN08,Putative SAM-dependent methyltransferase,1144343
+AEWDK,A0A0U5GQJ2,Uncharacterized protein,454130
+AEWDK,A0A0K2M3M3,Serine/threonine protein kinase,1647413
+AEWDK,A0A089WM72,ABC transporter substrate-binding protein,158822
+AEWDK,A0A0U3UQ35,Glucose-6-phosphate 1-dehydrogenase,158822
+AEWDK,A0A0E3TC67,RND transporter,96345
+AEWDK,S1EMG3,D-Ala-D-Ala transporter subunit,1182680
+AEWDK,I2WAH0,"Dipeptide ABC transporter, permease protein DdpA",869686
+AEWDK,C7V905,Phosphoenolpyruvate-protein phosphotransferase,565644
+AEWDK,A0A029MUW8,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444134
+AEWDK,A0A0A1B1W4,Glucose-6-phosphate 1-dehydrogenase,1484157
+AEWDK,J5GQN9,Uncharacterized protein,1134794
+AEWDK,A0A0F3SU98,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0K3STT4,ABC transporter substrate-binding protein,562
+AEWDK,U7IXK8,Vitamin B12-dependent ribonucleotide reductase,1203629
+AEWDK,J7IKJ3,Heme oxygenase,91750
+AEWDK,J7ITT2,Heme oxygenase,91750
+AEWDK,A0A0Q6DJB5,Transketolase,1736375
+AEWDK,E3E572,Terminase,886882
+AEWDK,B1W107,Transketolase,455632
+AEWDK,A0A0B1RET2,UDP-phosphate galactose phosphotransferase,1076549
+AEWDK,D3GRM0,"ABC transporter, substrate-binding protein",216592
+AEWDK,I2S2U0,"Dipeptide ABC transporter, permease protein DdpA",869670
+AEWDK,U1TBL9,Glucose-6-phosphate 1-dehydrogenase,1358411
+AEWDK,A0A059WRR0,DNA modification methylase,1500713
+AEWDK,U6M0X4,"KH domain-containing protein, putative",5804
+AEWDK,V6FL29,"Dipeptide ABC transporter, permease protein DdpA",869672
+AEWDK,A0A027ZG78,Peptide ABC transporter substrate-binding protein,1446753
+AEWDK,B5AJN7,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,M4PBW6,Endogenous retrovirus group K member 9 Env polyprotein,11676
+AEWDK,G8ES05,Envelope glycoprotein,11676
+AEWDK,A0A0U1AUB3,Phosphoenolpyruvate-protein phosphotransferase,36809
+AEWDK,A0A0Q2QLG0,Uncharacterized protein,2371
+AEWDK,K1U467,Putative cell wall assembly and cell proliferation coordinating protein,408170
+AEWDK,A0A0Q1APA6,Peptide chain release factor RF-3,287
+AEWDK,A0A0D2B9P2,Uncharacterized protein,569365
+AEWDK,A0A085EWI6,"Isoquinoline 1-oxidoreductase, beta subunit",1502851
+AEWDK,S2D2X9,Uncharacterized protein,1189612
+AEWDK,A0A0T9Q7G3,Glucose-6-phosphate 1-dehydrogenase,367190
+AEWDK,F7KH74,Uncharacterized protein,658086
+AEWDK,S0AGM8,Glucose-6-phosphate 1-dehydrogenase,682634
+AEWDK,A0A085BSN5,Sodium:proton antiporter,1525218
+AEWDK,S3HHH1,Component of ABC transporter,990285
+AEWDK,U3B8V7,Uncharacterized protein,1215092
+AEWDK,A0A0P7P477,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0P8GNE8,Glucose-6-phosphate 1-dehydrogenase,211759
+AEWDK,A0A0X3WCP3,Transketolase,1609095
+AEWDK,A0A0R2L634,Phosphoenolpyruvate-protein phosphotransferase,348151
+AEWDK,L7VKI9,"Extracellular solute-binding protein, family 1",1121335
+AEWDK,D7ZGM0,"Dipeptide ABC transporter, permease protein DppA",749531
+AEWDK,A0A0L7QQZ1,Uncharacterized protein,597456
+AEWDK,A0A0H3X8N1,D-ala-D-a la transporter subunit,1358422
+AEWDK,Q6A8Y8,Ribonucleoside-diphosphate reductase alpha chain,267747
+AEWDK,E3LPK6,CRE-NPA-1 protein,31234
+AEWDK,A0A0V8BTT6,Phage scaffold protein,1360
+AEWDK,N2KBW0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1125641
+AEWDK,R2R0E1,Uncharacterized protein,1158602
+AEWDK,B5AJN1,Envelope glycoprotein gp160,11676
+AEWDK,N2K265,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116068
+AEWDK,A0A0X2NWK6,UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase,613
+AEWDK,V8FGD1,Peptide ABC transporter substrate-binding protein,1405293
+AEWDK,A8U900,Phosphoenolpyruvate-protein phosphotransferase,333990
+AEWDK,U9YN86,"Dipeptide ABC transporter, permease protein DppA",1268975
+AEWDK,A0A0E0TZD1,"D,D-dipeptide-binding periplasmic protein DdpA",696406
+AEWDK,W1KA44,Phosphoenolpyruvate-protein phosphotransferase,1288492
+AEWDK,B3H2A7,Putative sugar transferase,537457
+AEWDK,S4DF45,Phosphoenolpyruvate-protein phosphotransferase,1260363
+AEWDK,W4TQW8,Ribonucleotide reductase,1302242
+AEWDK,B5AJN9,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,A0A0R2ND25,Phosphoenolpyruvate-protein phosphotransferase,480391
+AEWDK,A0A0A3ZFQ1,ABC transporter substrate-binding protein,556
+AEWDK,U9XWC9,"Dipeptide ABC transporter, permease protein DppA",1268978
+AEWDK,A6H1F4,Probable membrane fusion efflux protein,402612
+AEWDK,U2P227,Glucose-6-phosphate 1-dehydrogenase,1332069
+AEWDK,B7L7I6,DdpA protein,585055
+AEWDK,B9Y9D5,Tetratricopeptide repeat protein,545696
+AEWDK,I2RMF6,"Putative dipeptide ABC transporter, permease protein DdpA",869669
+AEWDK,A0A0E0Y2W2,"D-ala-D-a la transporter subunit, periplasmic-binding component of ABC superfamily protein",1133852
+AEWDK,A0A029PMC2,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444065
+AEWDK,M5EWI9,Uncharacterized protein,1297569
+AEWDK,A0A0J8YLV8,UDP-phosphate galactose phosphotransferase,1628855
+AEWDK,V0YBN3,"Dipeptide ABC transporter, permease protein DppA",1268996
+AEWDK,M9FCT1,"Bacterial extracellular solute-binding s, 5 Middle family protein",1125634
+AEWDK,A0A0D0LMM0,Peptide ABC transporter substrate-binding protein,562
+AEWDK,T2CW67,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,J7IKJ8,Heme oxygenase,91750
+AEWDK,F3P0G6,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",999892
+AEWDK,A0A073GF17,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444223
+AEWDK,T1KQV0,Uncharacterized protein,32264
+AEWDK,D8MUG8,"UDP-galactose-lipid carrier transferase (Exopolysaccharide biosynthesis protein, similar to amsG)",634500
+AEWDK,G8PDX2,Phosphoenolpyruvate-protein phosphotransferase,701521
+AEWDK,A0A0F8G576,Restriction endonuclease subunit R,1483598
+AEWDK,A0A0B2VDH6,Receptor-type tyrosine-protein phosphatase N2,6265
+AEWDK,V7ZR29,Phosphoenolpyruvate-protein phosphotransferase,1410655
+AEWDK,U1TWK5,UDP-phosphate galactose phosphotransferase,1358411
+AEWDK,A0A0H4L033,Uncharacterized protein,988812
+AEWDK,A0A0X8Q789,Glucose-6-phosphate 1-dehydrogenase,549
+AEWDK,M4PJ89,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,A0A0E1YFF7,"Ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent",765064
+AEWDK,R6R9R0,Methyltransferase,1263023
+AEWDK,A0A0Q5NCQ5,Uncharacterized protein,1736286
+AEWDK,A0A0Q4ID96,Uncharacterized protein,1735687
+AEWDK,A0A0F8W3B2,Uncharacterized protein,412755
+AEWDK,A0A0D6THI7,Na(+)-translocating NADH-quinone reductase subunit F,1603293
+AEWDK,M7XG04,Uncharacterized protein,1130832
+AEWDK,A0A0C1CJM5,Histidyl-tRNA synthetase,1423323
+AEWDK,Q12YI5,Restriction endonuclease,259564
+AEWDK,A0A0A2V7P1,Glucose-6-phosphate 1-dehydrogenase,1245745
+AEWDK,A0A0E3KME6,"Putative D,D-dipeptide-binding periplasmic protein DdpA",941323
+AEWDK,R3JUB2,Phosphoenolpyruvate-protein phosphotransferase,1169307
+AEWDK,U7IU32,Vitamin B12-dependent ribonucleotide reductase,1203633
+AEWDK,J5E1W6,Uncharacterized protein,1134790
+AEWDK,U4L8N5,Uncharacterized protein,1076935
+AEWDK,A0A0J8YNI1,Glucose-6-phosphate 1-dehydrogenase,1628855
+AEWDK,A0A0G4FHW9,Uncharacterized protein,1169540
+AEWDK,A0A0M2VKB0,Uncharacterized protein,1642570
+AEWDK,U5C5T4,ATPase AAA,1123057
+AEWDK,D8AU06,"Dipeptide ABC transporter, permease protein DppA",749538
+AEWDK,C8UPS8,D-ala-D-ala transporter subunit DdpA,585396
+AEWDK,J6R7F9,Phosphoenolpyruvate-protein phosphotransferase,1134799
+AEWDK,A0A0E0V5W4,D-ala-D-a la transporter subunit,1072459
+AEWDK,E0J6D4,D-ala-D-ala transporter subunit DdpA,566546
+AEWDK,M1L7N9,Endogenous retrovirus group K member 6 Env polyprotein,11676
+AEWDK,N9R9Y8,ATP:cob(I)alamin adenosyltransferase,1217708
+AEWDK,A0A075L2E7,Putative ABC transporter periplasmic-binding protein yddS,340184
+AEWDK,I2SSX4,"Dipeptide ABC transporter, permease protein DdpA",869675
+AEWDK,W1EX75,"Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2) Putative hemin-binding lipoprotein",1432555
+AEWDK,A0A0S8FXZ6,Proline--tRNA ligase,1703358
+AEWDK,A0A081BSN8,Methyltransferase,1499966
+AEWDK,A0A073HHN0,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444102
+AEWDK,O85804,CpsA,66271
+AEWDK,U5S7X9,Phosphoenolpyruvate-protein phosphotransferase,1266845
+AEWDK,A0A085EM69,Histidyl-tRNA synthetase,1492737
+AEWDK,M7B6R5,Uncharacterized protein,8469
+AEWDK,M4PD09,Endogenous retrovirus group K member 18 Env polyprotein,11676
+AEWDK,G8ES10,Envelope glycoprotein,11676
+AEWDK,A0A0H2ZGN0,Uncharacterized protein,208963
+AEWDK,Q3Z1N0,Putative hemin-binding lipoprotein,300269
+AEWDK,A0A0A6W142,Glucose-6-phosphate 1-dehydrogenase,66269
+AEWDK,A0A112VMM9,Phosphoenolpyruvate-protein phosphotransferase,1639
+AEWDK,A0A0T1WFS5,Uncharacterized protein,1736457
+AEWDK,N6YSY2,TRAP dicarboxylate transporter subunit DctP,1123367
+AEWDK,T5P887,D-Ala-D-Ala transporter subunit,1280961
+AEWDK,G4TPM8,Related to RAD54-DNA-dependent ATPase of the Snf2p family,1109443
+AEWDK,E5B6A7,Glucose-6-phosphate 1-dehydrogenase,889211
+AEWDK,A0A136S3M5,Peptide ABC transporter substrate-binding protein,562
+AEWDK,D6AQ74,Transketolase,457431
+AEWDK,A0A0M0IPS6,Histidine kinase,170661
+AEWDK,A0A070TUS8,"Bacterial extracellular solute-binding s, 5 Middle family protein",1444231
+AEWDK,L4JA23,D-Ala-D-Ala transporter subunit,1182725
+AEWDK,A0A066X0I5,Histidyl-tRNA synthetase,1492738
+AEWDK,A0A0F8N7P3,Restriction endonuclease subunit R,1483601
+AEWDK,A0A109CWS2,"Phage terminase, large subunit, PBSX family",207745
+AEWDK,A0A0H2YHF8,Glucose-6-phosphate 1-dehydrogenase,377628
+AEWDK,A0A0Q7JXQ1,C4-dicarboxylate ABC transporter,1736538
+AEWDK,A6VB62,Uncharacterized protein,381754
+AEWDK,M4PCF8,Endogenous retrovirus group K member 19 Env polyprotein,11676
+AEWDK,S4EPQ1,Phosphoenolpyruvate-protein phosphotransferase,1244152
+AEWDK,A0A0E2TXD8,Peptide ABC transporter substrate-binding protein,1446741
+AEWDK,M9HC66,"Bacterial extracellular solute-binding s, 5 Middle family protein",1116139
+AEWDK,A0A0T5J7H8,D-ala-D-ala transporter subunit DdpA,1176728
+AEWDK,A0A011QI50,Uncharacterized protein,1454003
+AEWDK,V5Z8F9,Glucose-6-phosphate 1-dehydrogenase,1161919
+AEWDK,A0A0A7PMM9,Uncharacterized protein,1515612
+AEWDK,A0A0H3S2R8,Uncharacterized protein,1402535
+AEWDK,B2U1M8,Putative ABC transporter periplasmic-binding protein yddS,344609
+AEWDK,A0A0P0N4E9,Split-Soret cytochrome c,1273541
+AEWDK,A0A0G1NXB3,Uncharacterized protein,1618527
+AEWDK,X5NWR5,Phosphoenolpyruvate-protein phosphotransferase,1400521
+AEWDK,G2S9I9,Glucose-6-phosphate 1-dehydrogenase,640513
+AEWDK,L2EAQ9,Uncharacterized protein,1249621
+AEWDK,A0A0H3L139,Glucose-6-phosphate 1-dehydrogenase,932677
+AEWDK,A0A124FXN2,Na(+)-translocating NADH-quinone reductase subunit F,294710
+AEWDK,B1ZBX6,CBS domain containing membrane protein,441620
+AEWDK,V6U9P6,Transketolase,1396518
+AEWDK,M2T4H2,Uncharacterized protein,665912
+AEWDK,A0A0J2EHI0,D-Ala-D-Ala transporter subunit,562
+AEWDK,A0A0J8W4C0,Peptide ABC transporter substrate-binding protein,562
+AEWDK,A0A0W3E3G0,Peptide chain release factor RF-3,303
+AEWDK,A0A0P1IJZ8,Hemin transport protein HemS,1715693
+AEWDK,K1L3G6,Uncharacterized protein,1225176
+AEWDK,A0A0N0RHD9,Transketolase,1704590
+AEWDK,F3V5G0,"Putative D,D-dipeptide-binding periplasmic protein ddpA",766142
+AEWDK,T0B2D1,ABC transporter substrate-binding protein,1348657

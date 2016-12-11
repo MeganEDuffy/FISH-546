@@ -1,0 +1,313 @@
+peptide,uniprot_id,protein_name,taxon_id
+VPSSLR,A0A080ZVC7,Uncharacterized protein,1317066
+VPSSLR,W2N2E6,Uncharacterized protein,4792
+VPSSLR,A0A0A2UYY5,Uncharacterized protein,1385513
+VPSSLR,I2WTE7,Phage tail collar domain protein,869687
+VPSSLR,A0A0B1Z4K3,3-methyladenine DNA glycosylase,104087
+VPSSLR,A0A0R1TPK5,Uncharacterized protein,1423785
+VPSSLR,S9U9X0,Protein kinase,28005
+VPSSLR,E3XNR6,Tail fiber domain protein,670897
+VPSSLR,A0A0C3D4H3,Uncharacterized protein,913774
+VPSSLR,A0A0R3WW55,Uncharacterized protein,6205
+VPSSLR,H4KHH0,Phage Tail Collar domain protein,868140
+VPSSLR,A0A0R0K000,Uncharacterized protein,3847
+VPSSLR,A7E822,Uncharacterized protein,665079
+VPSSLR,A0A113FH12,Bacteriophage tail fiber protein,90370
+VPSSLR,S9V882,Uncharacterized protein,59799
+VPSSLR,U6ZSY1,3-oxoacyl-ACP synthase,1387231
+VPSSLR,A0A080ZVC9,Uncharacterized protein,1317066
+VPSSLR,I2WN24,Uncharacterized protein,869687
+VPSSLR,A0A067CIC0,Uncharacterized protein,695850
+VPSSLR,T6GEU1,Uncharacterized protein,1281011
+VPSSLR,I2WKY2,Uncharacterized protein,869686
+VPSSLR,A0A083UQW9,3-methyladenine DNA glycosylase,303
+VPSSLR,V3T8R5,Uncharacterized protein,104623
+VPSSLR,H2WGU7,Uncharacterized protein,281687
+VPSSLR,T0XWI8,Uncharacterized protein,410659
+VPSSLR,T6GUR2,Uncharacterized protein,1281011
+VPSSLR,M5ILD2,"Cell division transporter, ATP-binding protein FtsE",1244083
+VPSSLR,H4IBX1,Phage Tail Collar domain protein,868134
+VPSSLR,W2YYN6,Uncharacterized protein,1317064
+VPSSLR,F8CI88,Non-ribosomal peptide synthase,483219
+VPSSLR,A0A087YH53,Uncharacterized protein,48698
+VPSSLR,A0A0K4BP55,Variable tail fiber protein,562
+VPSSLR,A0A0K4Q0S0,Variable tail fiber protein,562
+VPSSLR,M3JBG5,50S ribosomal protein L25 (General stress protein Ctc),1073353
+VPSSLR,A0A0M8YCK5,Uncharacterized protein,1519494
+VPSSLR,A0A139XGM9,Uncharacterized protein,128403
+VPSSLR,A0A0Q6XWH1,Glutamine synthetase,1736525
+VPSSLR,F2D015,Predicted protein,112509
+VPSSLR,E9DDT9,Putative uncharacterized protein,443226
+VPSSLR,H3KNW2,Phage Tail Collar domain protein,868139
+VPSSLR,A0A0S8IVX4,Uncharacterized protein,1703427
+VPSSLR,W2MZU2,Uncharacterized protein,4792
+VPSSLR,H9UT48,Uncharacterized protein,910348
+VPSSLR,W2KWA8,Uncharacterized protein,4792
+VPSSLR,F1R1I4,Uncharacterized protein,7955
+VPSSLR,A0A0G1YAK0,ATPase AAA-2 domain protein,1619063
+VPSSLR,I2WH95,Uncharacterized protein,869686
+VPSSLR,A0A0K3ZBX8,Tail fiber protein,562
+VPSSLR,A0A0G2B2Y5,ATPase AAA-2 domain protein,1619060
+VPSSLR,Q8Z6S8,Alternative bacteriophage tail fiber C-terminus,90370
+VPSSLR,A0A0J1BHB9,Peptide synthetase,595434
+VPSSLR,A0A139WJ40,Cadherin-related tumor suppressor-like Protein,7070
+VPSSLR,M3VCD6,Putative drug resistance transporter,1223542
+VPSSLR,V9ERS7,Uncharacterized protein,1317065
+VPSSLR,J3F3X2,3-methyladenine DNA glycosylase,1144327
+VPSSLR,M7U1X6,Uncharacterized protein,1290391
+VPSSLR,A0A0Q4KT97,Uncharacterized protein,1736215
+VPSSLR,R5JUN3,Uncharacterized protein,1262737
+VPSSLR,J2UKN1,3-methyladenine DNA glycosylase,1144336
+VPSSLR,H2YAC5,Kinesin-like protein,51511
+VPSSLR,H3HAV6,Uncharacterized protein,164328
+VPSSLR,M2Q6X9,Phosphoenolpyruvate carboxykinase [GTP],1238180
+VPSSLR,I9HC30,Uncharacterized protein,997887
+VPSSLR,A0A072UQW1,Uncharacterized protein,3880
+VPSSLR,A0A0F9PLZ3,Uncharacterized protein,412755
+VPSSLR,A0A0F9F9D0,Uncharacterized protein,412755
+VPSSLR,I2WRA0,Phage tail collar domain protein,869687
+VPSSLR,G0VAA4,Uncharacterized protein,1064592
+VPSSLR,A0A0K3ZBM8,Tail fiber protein,562
+VPSSLR,W2IME8,Uncharacterized protein,4792
+VPSSLR,M1WXT3,Fmu (Sun) domain protein,1322246
+VPSSLR,A0A0S8GF44,Uncharacterized protein,1703385
+VPSSLR,K9I677,Uncharacterized protein,936046
+VPSSLR,J2RJG0,3-methyladenine DNA glycosylase,1144330
+VPSSLR,M7XGE4,Leucine-rich repeat protein,1130832
+VPSSLR,I1K374,Uncharacterized protein,3847
+VPSSLR,D7X6V0,Phage Tail Collar Domain protein,749549
+VPSSLR,A0A0N0DU90,Uncharacterized protein,157538
+VPSSLR,S2F946,3-methyladenine DNA glycosylase,1268068
+VPSSLR,W2PYH2,Uncharacterized protein,761204
+VPSSLR,A0A063X6G1,Glycosyl transferase,1457393
+VPSSLR,W2PXM5,Uncharacterized protein,761204
+VPSSLR,A0A0L9UB92,Uncharacterized protein,3914
+VPSSLR,A0A0S8L1H0,Uncharacterized protein,1703384
+VPSSLR,U5H6F9,Uncharacterized protein,683840
+VPSSLR,A0A0Q8HSL0,3-methyladenine DNA glycosylase,1736585
+VPSSLR,V5Z5M1,Laccase domain protein,1161919
+VPSSLR,A0A094PRL3,Phosphoenolpyruvate carboxykinase [GTP],1427749
+VPSSLR,A0A0S7K0L9,F185A,188132
+VPSSLR,B9D226,"ABC transporter, ATP-binding protein",553218
+VPSSLR,W1EZV7,Phage tail fiber protein,1432555
+VPSSLR,M9TSC2,Uncharacterized protein,1265601
+VPSSLR,A0A068X0R2,Integrator complex subunit 1,6210
+VPSSLR,C6RG18,"ABC transporter, ATP-binding protein",553219
+VPSSLR,A0A0D9AUG7,3-methyladenine DNA glycosylase,294
+VPSSLR,A0A0S8ZI28,3-methyladenine DNA glycosylase,1736221
+VPSSLR,W2WQ91,Uncharacterized protein,1317063
+VPSSLR,E1VCM9,K05338 holin-like protein,768066
+VPSSLR,H0HWN3,Transposase IS66,1107882
+VPSSLR,A0A0S7Z4L0,(2Fe-2S)-binding protein,1703404
+VPSSLR,H1VE32,Uncharacterized protein,759273
+VPSSLR,I2WBL9,Phage tail collar domain protein,869686
+VPSSLR,T0S4E6,Uncharacterized protein,1156394
+VPSSLR,J3G483,3-methyladenine DNA glycosylase,1144331
+VPSSLR,A0A0K3WF45,Phage tail fiber protein,562
+VPSSLR,F0VHJ2,Uncharacterized protein,572307
+VPSSLR,F2UHM5,Hyperpolarization-activated ion channel protein,946362
+VPSSLR,F7AAT4,CD209 antigen,9544
+VPSSLR,R4T4P8,Phosphoenolpyruvate carboxykinase [GTP],1156913
+VPSSLR,A0A0T7UV28,Gifsy-2 prophage tail fiber protein,90370
+VPSSLR,S1HIX8,Phage tail protein,1182699
+VPSSLR,A0A0S3RHX8,Uncharacterized protein,157739
+VPSSLR,A0A0G3XJP4,Na(+)/H(+) antiporter NhaA,1348774
+VPSSLR,E3XGL1,Tail fiber,670897
+VPSSLR,W1NBA7,Uncharacterized protein,1178482
+VPSSLR,A0A0F4TB98,3-methyladenine DNA glycosylase,294
+VPSSLR,A2QXW9,"Aspergillus niger contig An11c0350, genomic contig",425011
+VPSSLR,G3YBY7,Uncharacterized protein,380704
+VPSSLR,E8WAW5,Bifunctional DNA primase/polymerase,591167
+VPSSLR,A0A010RDW3,Uncharacterized protein,1445577
+VPSSLR,E3PC64,Phage tail fibre protein,316401
+VPSSLR,E3PGB2,Putative phage collar protein,316401
+VPSSLR,A0A068YGQ6,Integrator complex subunit 1,6211
+VPSSLR,D6RQH0,Uncharacterized protein,240176
+VPSSLR,A0A0N0YJ37,DNA primase,1519471
+VPSSLR,J6EEJ1,MRP49-like protein,226230
+VPSSLR,L1IW18,Uncharacterized protein,905079
+VPSSLR,W2IPD7,Uncharacterized protein,4792
+VPSSLR,Q9P3Z8,MIG repressor,4903
+VPSSLR,B9S9V5,"E3 ubiquitin protein ligase upl2, putative",3988
+VPSSLR,A0A0Q7KWD3,DNA primase,1736454
+VPSSLR,A0A0B2R0Y5,E3 ubiquitin-protein ligase UPL1,3848
+VPSSLR,A0A059L754,3-methyladenine DNA glycosylase,1419583
+VPSSLR,A0A0R0K0X0,Uncharacterized protein,3847
+VPSSLR,A0A0C2ZX45,Uncharacterized protein,1036808
+VPSSLR,C1MQU4,Yabby-like transcription factor,564608
+VPSSLR,V9ERU4,Uncharacterized protein,1317065
+VPSSLR,A0A0C4DQ17,Uncharacterized protein,644358
+VPSSLR,W2GIH2,Uncharacterized protein,4792
+VPSSLR,W6KUP8,Uncharacterized protein,134013
+VPSSLR,K5XBE6,Uncharacterized protein,597362
+VPSSLR,I3KC01,Uncharacterized protein,8128
+VPSSLR,A0A139WIP3,Cadherin-related tumor suppressor-like Protein,7070
+VPSSLR,G5JX95,Uncharacterized protein,764298
+VPSSLR,A0A0Q7UNS5,DNA primase,1736554
+VPSSLR,A0A0F7UQC4,AP2 domain transcription factor AP2XI-5,572307
+VPSSLR,A0A0C3AJ72,Uncharacterized protein,933852
+VPSSLR,J2Y0K7,3-methyladenine DNA glycosylase,1144329
+VPSSLR,H4HWE9,Phage Tail Collar domain protein,868133
+VPSSLR,A0A109MGT8,Phage tail protein,564
+VPSSLR,A0A0M0SJ40,Peptide synthetase,1704290
+VPSSLR,A0A0D2QIT4,Uncharacterized protein,29730
+VPSSLR,W2YXG7,Uncharacterized protein,1317064
+VPSSLR,A0A0D2MFT0,Uncharacterized protein,29730
+VPSSLR,J3ES77,3-methyladenine DNA glycosylase,1144324
+VPSSLR,Q47430,Sc protein ( SvNprotein ),562
+VPSSLR,A0A0X8VIE3,Uncharacterized protein,1705
+VPSSLR,W9G147,Uncharacterized protein,1386089
+VPSSLR,A0A0W8C9H4,Cohesin subunit SA-1,4790
+VPSSLR,T0RYC6,Uncharacterized protein,1156394
+VPSSLR,A0A0Q3Y137,Leucine rich repeat-containing 18,8496
+VPSSLR,L5K9W6,Phosphodiesterase,9402
+VPSSLR,A0A0Q8P6D9,3-methyladenine DNA glycosylase,1736593
+VPSSLR,D3QN58,Phage-related tail fibre protein,701177
+VPSSLR,A0A0X8HGT6,Uncharacterized protein,507626
+VPSSLR,H4LCD4,Phage Tail Collar domain protein,868142
+VPSSLR,V6KZW4,Uncharacterized protein,1380770
+VPSSLR,I0YN32,Uncharacterized protein,574566
+VPSSLR,A0A028E0L5,Phage tail protein,1446549
+VPSSLR,S9V0I9,Protein kinase,28005
+VPSSLR,A0A0B3B1K5,Uncharacterized protein,1579379
+VPSSLR,A0A0U5GSY7,Uncharacterized protein,454130
+VPSSLR,G2YNG2,Uncharacterized protein,999810
+VPSSLR,J3B361,3-methyladenine DNA glycosylase,1144333
+VPSSLR,I1K373,Uncharacterized protein,3847
+VPSSLR,A0A061B3D3,RHTO0S09e02784g1_1,5286
+VPSSLR,W2WN12,Uncharacterized protein,1317063
+VPSSLR,A0A072UNN4,Uncharacterized protein,3880
+VPSSLR,C5P121,Uncharacterized protein,222929
+VPSSLR,E7G880,Uncharacterized protein,469596
+VPSSLR,A0A0L0D158,Serine/threonine protein kinase,461836
+VPSSLR,A0A0J9XDU6,Similar to Saccharomyces cerevisiae YFL033C RIM15 Glucose-repressible protein kinase involved in signal transduction during cell proliferation in resp,1173061
+VPSSLR,B4GTJ0,GL14269,7234
+VPSSLR,W2KU49,Uncharacterized protein,4792
+VPSSLR,B2VIQ0,Laccase domain protein,465817
+VPSSLR,A0A0B0MZK4,Uncharacterized protein,29729
+VPSSLR,C4TE14,Non-ribosomal peptide synthetase,285478
+VPSSLR,F2U8I6,Putative uncharacterized protein,946362
+VPSSLR,A0A131XF17,Putative px domain-containing protein,257692
+VPSSLR,A0A0B1M923,Phage tail protein,562
+VPSSLR,W2GG88,Uncharacterized protein,4792
+VPSSLR,A0A0P1AU23,2-amino-3-ketobutyrate coenzyme a ligase,4781
+VPSSLR,F2CRY5,Uncharacterized protein,112509
+VPSSLR,W5J9S7,Uncharacterized protein,43151
+VPSSLR,A0A0P8X567,Methyladenine glycosylase family protein,294
+VPSSLR,H4JNQ9,Phage Tail Collar domain protein,868137
+VPSSLR,H2VPR3,Uncharacterized protein,281687
+VPSSLR,W6UC58,Integrator complex subunit,6210
+VPSSLR,A0A139WIU3,Cadherin-related tumor suppressor-like Protein,7070
+VPSSLR,A0A075V6V6,Phosphoenolpyruvate carboxykinase [GTP],208439
+VSNLAR,B0DP69,Predicted protein,486041
+VSNLAR,Q98C74,Mlr5268 protein,266835
+VSNLAR,A1YZU2,Putative uncharacterized protein,417280
+VSNLAR,A0A0C3HR93,Uncharacterized protein,913774
+VSNLAR,Q6DIF0,MGC89596 protein,8364
+VSNLAR,A0A0C3RDI0,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C,58133
+VSNLAR,A0A131X989,Putative histone-lysine n-methyltransferase setmar,257692
+VSNLAR,A2E7W0,Uncharacterized protein,5722
+VSNLAR,A0A0Q8BGP5,Two-component system sensor histidine kinase/response regulator,1736564
+VSNLAR,U1XGJ8,Transposase IS426,1390361
+VSNLAR,I4I017,"Putative CDP-glucose 4,6-dehydratase",1160284
+VSNLAR,A0A0F4M2X8,UDP-N-acetylmuramoylalanine--D-glutamate ligase,1684
+VSNLAR,W8AY44,Glycosaminoglycan xylosylkinase,7213
+VSNLAR,B3LWR1,"Uncharacterized protein, isoform B",7217
+VSNLAR,A0A0G1D4T6,Uncharacterized protein,1618390
+VSNLAR,A0A0P0CN60,Sialate O-acetylesterase,512763
+VSNLAR,G6XL34,Pyridoxal 4-dehydrogenase,1088869
+VSNLAR,C0NYL2,Phosphatidylinositol-4-phosphate 5-kinase fab1,447093
+VSNLAR,B8HEE6,Uncharacterized protein,452863
+VSNLAR,A3DLJ5,"Peptidase M29, aminopeptidase II",399550
+VSNLAR,C6XT36,TonB-dependent receptor plug,485917
+VSNLAR,Q0K474,2-Nitropropane dioxygenase,381666
+VSNLAR,A6RDS2,Uncharacterized protein,339724
+VSNLAR,L1JGH0,Uncharacterized protein,905079
+VSNLAR,A0A0G2HPZ4,Putative 1-phosphatidylinositol-3-phosphate 5-kinase fab1,1214573
+VSNLAR,V7I0F9,RNA methyltransferase,994573
+VSNLAR,A0A0B7KMD6,Uncharacterized protein,29856
+VSNLAR,A0A0S1YK76,Membrane protein YedZ,1160720
+VSNLAR,A0A0G2G7M8,Putative atp-dependent rna helicase dbp8,420778
+VSNLAR,H3AR26,Uncharacterized protein,7897
+VSNLAR,F4P8Y3,Putative uncharacterized protein,684364
+VSNLAR,A0A0F7TG11,Putative Phosphatidylinositol-3-phosphate/phosphatidylinos itol 5-kinase,104259
+VSNLAR,D8REH5,Putative uncharacterized protein,88036
+VSNLAR,A0A0L0CBS4,Uncharacterized protein,7375
+VSNLAR,A0A0A1VV22,"Similar to CDP-glucose 4,6-dehydratase",449439
+VSNLAR,A0A0M4ELV0,CG3631,30019
+VSNLAR,V4JPM1,Uncharacterized protein,1385625
+VSNLAR,A0A132AJT1,Inosine-5'-monophosphate dehydrogenase 2-like protein,52283
+VSNLAR,Q29AI3,Uncharacterized protein,46245
+VSNLAR,B2VWZ9,ATP-dependent RNA helicase DBP8,426418
+VSNLAR,F0U9S5,Phosphatidylinositol-4-phosphate 5-kinase fab1,544711
+VSNLAR,H0A462,Capsule polysaccharide biosynthesis protein,1054213
+VSNLAR,A0A0T7R4Y8,Uncharacterised protein,520
+VSNLAR,A0A0X2YG03,Leucine/isoleucine/valine transporter ATP-binding subunit,196367
+VSNLAR,A0A0X2Y1D8,RlpA-like lipoprotein,36773
+VSNLAR,A0A0X8XXU1,RlpA-like lipoprotein,36773
+VSNLAR,E3LM08,CRE-FER-1 protein,31234
+VSNLAR,A0A0G1MSF1,Uncharacterized protein,1618525
+VSNLAR,K0TCW1,Uncharacterized protein,159749
+VSNLAR,B4G6E5,GL23850,7234
+VSNLAR,J7R7T2,Uncharacterized protein,1071383
+VSNLAR,A0A0Q5NZW7,ABC transporter ATP-binding protein,1736287
+VSNLAR,W9T1G4,Aluminum-activated malate transporter 2,981085
+VSNLAR,A0A125SNE0,ABC transporter ATP-binding protein,1795043
+VSNLAR,A0A0C9WR03,"Unplaced genomic scaffold K443scaffold_82, whole genome shotgun sequence",1095629
+VSNLAR,A0A0F2S6P9,Uncharacterized protein,1629718
+VSNLAR,H1VE63,Activating signal cointegrator 1 complex subunit 3,759273
+VSNLAR,R5SEK5,ATP-dependent zinc metalloprotease FtsH,1262690
+VSNLAR,A0A0R0D2U2,Uncharacterized protein,517011
+VSNLAR,C6H8L8,1-phosphatidylinositol-3-phosphate 5-kinase,544712
+VSNLAR,A0A0K2F9X4,Glyoxalase,59893
+VSNLAR,A0A127QJF2,Flp pilus-assembly TadE/G-like family protein,279058
+VSNLAR,D6TJG9,Uncharacterized protein,485913
+VSNLAR,A0A0G1MMH1,Uncharacterized protein,1618384
+VSNLAR,C4Y3K8,Uncharacterized protein,306902
+VSNLAR,E3J536,TspO and MBR like protein,298654
+VSNLAR,A0A0B1U1T0,"RNA methyltransferase, TrmH family, group 3",1562888
+VSNLAR,E3RV51,Putative uncharacterized protein,861557
+AASPNK,Q9USW1,Uncharacterized protein C21B10.03c,284812
+AASPNK,D4AWF0,Uncharacterized protein,663331
+AASPNK,A0A066X0N2,Putative serine carboxypeptidase S28,1173701
+AASPNK,A0A022UME6,Uncharacterized protein,1215336
+AASPNK,A0A0S3QZ82,Uncharacterized protein,157739
+AASPNK,S8E7E1,Uncharacterized protein,743788
+AASPNK,D4DDQ8,Uncharacterized protein,663202
+AASPNK,F4RNH9,Putative uncharacterized protein,747676
+AASPNK,I1C2T1,Uncharacterized protein,246409
+AASPNK,L5LMR0,Nuclear factor 1 A-type,225400
+AASPNK,E7A2U7,Related to GPI13-protein involved in glycosylphosphatidylinositol biosynthesis,999809
+AASPNK,A0A0M4F5C5,Ball,30019
+AASPNK,U5HF69,Uncharacterized protein,683840
+AASPNK,F0XZI7,Putative uncharacterized protein,44056
+AASPNK,A0A067TMU1,Uncharacterized protein,685588
+AASPNK,A0A061E0W2,"F-box family protein, putative isoform 1",3641
+AASPNK,R9NY02,Uncharacterized protein,1305764
+AASPNK,V5EG11,Uncharacterized protein,1365824
+AASPNK,M5WHM1,Uncharacterized protein,3760
+AASPNK,A0A059JJH9,Uncharacterized protein,1215338
+AASPNK,F2S726,Putative uncharacterized protein,647933
+AASPNK,A0A109JWU5,Uncharacterized protein,1755240
+AASPNK,F2PWV2,Putative uncharacterized protein,559882
+AASPNK,L8GPI4,Variant sh3 domain containing protein,1257118
+AASPNK,I2QEE5,Uncharacterized protein,319003
+AASPNK,A0A0D2D3F0,Uncharacterized protein,569365
+AASPNK,A0A0F7U6R8,"Novel protein (Zgc:63649), related",572307
+AASPNK,A0A061E008,"F-box family protein, putative isoform 4",3641
+AASPNK,R9NYQ6,Phosphoethanolamine N-methyltransferase,1305764
+AASPNK,A0A0F7S5J0,Uncharacterized protein,49012
+AASPNK,N2AFZ3,Uncharacterized protein,97139
+AASPNK,H1V7I3,Serine carboxypeptidase S28,759273
+AASPNK,M1W112,Uncharacterized protein,1111077
+AASPNK,F0VCY3,"Novel protein (Zgc:63649), related",572307
+AASPNK,A0A0K1DZ48,"Carbohydrate ABC transporter substrate-binding protein, CUT1 family",1227555
+AASPNK,A0A0R0BUM3,Uncharacterized protein,40324
+AASPNK,A0A0N0VMC0,ATP-binding protein,1514904
+AASPNK,A0A140KMD7,Related to GPI13-protein involved in glycosylphosphatidylinositol biosynthesis,49012
+AASPNK,A0A093G4H4,Cold shock domain-containing protein E1,118200
+AASPNK,A0A0L9TK91,Uncharacterized protein,3914
+HTASEAR,B9A935,Putative uncharacterized protein GF2gp17,190193
+HTASEAR,A0A066Y4I1,Uncharacterized protein,358823
+HTASEAR,M9WY14,Uncharacterized protein,1236908
+HTASEAR,G2Q9E3,Uncharacterized protein,573729

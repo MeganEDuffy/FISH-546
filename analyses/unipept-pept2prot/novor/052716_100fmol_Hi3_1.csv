@@ -1,0 +1,204 @@
+peptide,uniprot_id,protein_name,taxon_id
+AHGSGK,A0A0E3L5I3,ATP-dependent DNA helicase RecQ,1434102
+AHGSGK,A0A0E3NKA2,ATP-dependent DNA helicase RecQ,1434103
+AHGSGK,A0A091AJE9,Uncharacterized protein,1537917
+AHGSGK,A0A0V0Q4K7,Uncharacterized protein,1745182
+AHGSGK,A0A0E3SAA8,ATP-dependent DNA helicase RecQ,1434110
+AHGSGK,A0A0L7FF16,Cell wall associated protein,1491
+AHGSGK,B9K0S3,Phosphate transporter,311402
+AHGSGK,A0A0E3WSE7,ATP-dependent DNA helicase RecQ,1434111
+AHGSGK,U1GFA5,"Hydrolase, alpha/beta domain-containing protein",1160719
+AHGSGK,A0A103YHR1,Chromo domain-containing protein,59895
+AHGSGK,K4CIV2,Uncharacterized protein,4081
+AHGSGK,F6WB24,Uncharacterized protein,9258
+AHGSGK,M1A552,Uncharacterized protein,4113
+AHGSGK,A0A0M0I2D9,DeoR faimly transcriptional regulator,171383
+AHGSGK,X1TEQ4,Uncharacterized protein,412755
+AHGSGK,A0A0L1HU04,Short-chain dehydrogenase,183478
+AHGSGK,A0A0V0IT05,Putative loricrin-like,4108
+AHGSGK,A0A0D2S6A4,Uncharacterized protein,29730
+AHGSGK,B9XBR3,Uncharacterized protein,320771
+AHGSGK,A2DKQ3,"Clan MC, family M14, Zinc carboxypeptidase-like metallopeptidase",5722
+AHGSGK,U7JRL6,Uncharacterized protein,1203573
+AHGSGK,A0A067M786,Uncharacterized protein,930990
+AHGSGK,U1FSV9,"Hydrolase, alpha/beta domain protein",1292373
+AHGSGK,D8PM95,Putative uncharacterized protein,578458
+AHGSGK,A0A0D2QL55,Uncharacterized protein,29730
+AHGSGK,A0A0K3AZ88,"Phage-related protein, tail component",703222
+AHGSGK,A0A031FVK8,Cro/CI family transcriptional regulator,273677
+AHGSGK,A0A0F9IQ77,Uncharacterized protein,412755
+AHGSGK,A0A0F0L2Y9,Helix-turn-helix protein,82380
+AHGSGK,I0YPD7,Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain-containing protein,574566
+GHGSAK,G7LPQ6,Uncharacterized conserved protein UCP021525,598467
+GHGSAK,A0A0H5PT29,AAA domain protein,29410
+GHGSAK,A0A083ZUQ6,Uncharacterized protein,1410619
+GHGSAK,A0A0F8U7E6,Uncharacterized protein,308745
+GHGSAK,C5XTN9,Putative uncharacterized protein Sb04g035080,4558
+GHGSAK,R0L8A6,Uncharacterized protein,8839
+GHGSAK,A0A0F8XDQ4,Uncharacterized protein,138278
+GHGSAK,A0A0H4TE74,30S ribosomal protein S19,1665128
+GHGSAK,A0A0U4C3K4,N-acetylmuramoyl-L-alanine amidase,1768108
+GHGSAK,M5W2I3,Uncharacterized protein,3760
+GHGSAK,Q0D145,Endopolyphosphatase,341663
+NVGLGK,P30155,"50S ribosomal protein L27, chloroplastic",4097
+NVGLGK,A5CF98,50S ribosomal protein L27,357244
+NVGLGK,A8EZV2,50S ribosomal protein L27,293613
+NVGLGK,B3EUD7,50S ribosomal protein L27,452471
+NVGLGK,B3CV08,50S ribosomal protein L27,334380
+NVGLGK,A0A0K2XJI6,50S ribosomal protein L27,35817
+NVGLGK,A0A101TH45,Glycosyl transferase,661399
+NVGLGK,A0A0D1XWH1,Mitochondrial GTPase 1,212818
+NVGLGK,R5W3T5,Chromosome partition protein Smc,1262867
+NVGLGK,A0A087SD80,50S ribosomal protein L27,3075
+NVGLGK,A0A067F982,Uncharacterized protein,2711
+NVGLGK,I3S326,Uncharacterized protein,34305
+NVGLGK,T1JZS9,Uncharacterized protein,32264
+NVGLGK,A0A101T0L4,Glycosyl transferase,285568
+NVGLGK,X1EKY0,Uncharacterized protein,412755
+NVGLGK,V7BVB2,Uncharacterized protein,3885
+NVGLGK,K4DA39,Uncharacterized protein,4081
+NVGLGK,A0A124H6G5,Glycosyl transferase,146536
+NVGLGK,A0A0E3ZVD6,50S ribosomal protein L27,1379870
+NVGLGK,R8B966,Uncharacterized protein,1286976
+NVGLGK,A0A0K8PKM0,Family 2 glycosyl transferase,146537
+NVGLGK,I2GLC5,50S ribosomal protein L27,1185876
+NVGLGK,B9RBH2,"Ribosomal protein L27, putative",3988
+NVGLGK,A0A0D7AE84,NAD(P)-binding protein,1128425
+NVGLGK,A0A061EDW6,Ribosomal protein large subunit 27,3641
+NVGLGK,A5BCW1,Putative uncharacterized protein,29760
+NVGLGK,E3LCH0,Putative uncharacterized protein,31234
+NVGLGK,M1BQF5,Uncharacterized protein,4113
+NVGLGK,I1LL99,Uncharacterized protein,3847
+NVGLGK,A0A0Q6XN84,Glycosyl transferase,1736523
+NVGLGK,A0A0M2ARD4,Uncharacterized protein,1169299
+NVGLGK,E0HGI5,"Glycosyltransferase, group 2 family protein",749506
+NVGLGK,A0A0D2NLR5,Uncharacterized protein,29730
+NVGLGK,A0A140QRZ3,Glycosyl transferase 2 family protein,1310734
+NVGLGK,V4U330,Uncharacterized protein,85681
+NVGLGK,C8X4W8,50S ribosomal protein L27,485915
+NVGLGK,T1JZS0,Uncharacterized protein,32264
+NVGLGK,A0A0B2Q1M8,"50S ribosomal protein L27, chloroplastic",3848
+NVGLGK,T1K9X0,Uncharacterized protein,32264
+NVGLGK,A8V0V3,50S ribosomal protein L27,392423
+NVGLGK,A0A0M2H0Z3,Glycosyl transferase,284040
+NVGLGK,A0A0Q4M8U7,Amylovoran biosynthesis protein AmsE,1736223
+NVGLGK,C4Y0X0,Uncharacterized protein,306902
+NVGLGK,F3B165,Uncharacterized protein,575593
+NVGLGK,T1K123,Uncharacterized protein,32264
+NVGLGK,A0A0M8V587,Glycosyl transferase,1519489
+NVGLGK,A0A0J7Z807,Glycosyl transferase,1938
+NVGLGK,E2Y910,"Glycosyltransferase, group 2 family protein",749490
+NVGLGK,A0A0K1JRW5,Putative progesterone 5beta-reductase,28532
+NVGLGK,A0A0V0H8L1,"Putative 50S ribosomal protein L27, chloroplastic-like",4108
+NVGLGK,A0A140H4W0,CYP392D11,93129
+NVGLGK,D2T8V9,Putative glycosyltransferase wceM,644651
+NVGLGK,T1K724,Uncharacterized protein,32264
+NVGLGK,A8PM46,50S ribosomal protein L27,59196
+NVGLGK,D6A3N1,Glycosyl transferase,566461
+NVGLGK,I1JWI0,Uncharacterized protein,3847
+NVGLGK,A0A0D2Q342,Uncharacterized protein,29730
+NVGLGK,A0A0F3QM43,50S ribosomal protein L27,682184
+NVGLGK,W6CPY4,Progesterone 5-beta-reductase,3719
+NVGLGK,T1JZS6,Uncharacterized protein,32264
+NVGLGK,S3VCN1,50S ribosomal protein L27,1193011
+NVGLGK,V5Z8L5,Putative glycosyltransferase,1161919
+NVGLGK,A0A0X3XHD0,Glycosyl transferase,1609103
+NVGLGK,A0A095VD97,Filamentous hemagglutinin,1532557
+NVGLGK,T1K9W8,Uncharacterized protein,32264
+NVGLGK,S4MSE5,Putative glycosyltransferase EpsJ,1283301
+NVGLGK,A0A081R5G7,Transposase,1303
+NVGLGK,A0A117R3U6,Glycosyl transferase,67304
+NVGLGK,A0A0G1XYC3,50S ribosomal protein L27,1618605
+NVGLGK,A0A0E9MNU7,50S ribosomal protein L27,1219043
+NVGLGK,A0A0M2CH27,Uncharacterized protein,1391496
+NVGLGK,M5WZ86,Uncharacterized protein,3760
+NVGLGK,A0A0F3P9I4,50S ribosomal protein L27,1359176
+NVGLGK,S2YQJ1,Uncharacterized protein,1078086
+NVGLGK,A0A101SFY0,Glycosyl transferase,58343
+NVGLGK,A0A081SIK6,50S ribosomal protein L27,1519464
+NVGLGK,A0A0F3MMU5,50S ribosomal protein L27,1359186
+NVGLGK,A0A0L9UJ20,Uncharacterized protein,3914
+NVGLGK,D2QGJ1,50S ribosomal protein L27,504472
+NVGLGK,T1K9X2,Uncharacterized protein,32264
+NVGLGK,A0A101P5M8,Glycosyl transferase,67386
+NVGLGK,B5HXB9,Glycosyl transferase family 2 protein,463191
+NVGLGK,A0A0A0CUQ6,Uncharacterized protein,29488
+NVGLGK,C7X0K2,Glycoside transferase family 2,565645
+NVGLGK,V6HB11,50S ribosomal protein L27,1049790
+NVGLGK,D4EL84,"Glycosyltransferase, group 2 family protein",699185
+NVGLGK,A0A117P4A5,Glycosyl transferase,67340
+NVGLGK,A0A0L8LRC8,Glycosyl transferase,67356
+NVGLGK,K1Z907,50S ribosomal protein L27,717931
+NVGLGK,A0A0B2NXS8,"50S ribosomal protein L27, chloroplastic",3848
+NVGLGK,F8E5Y5,50S ribosomal protein L27,717231
+NVGLGK,D4ET27,"Glycosyltransferase, group 2 family protein",699186
+NVGLGK,A0A0N1LA80,50S ribosomal protein L27,1523432
+NVGLGK,A0A0F3RPL0,50S ribosomal protein L27,1441384
+NVGLGK,Q6BQ39,DEHA2E08602p,284592
+NVGLGK,W9SAM0,50S ribosomal protein L27,981085
+NVGLGK,A0A0J8C6B5,Uncharacterized protein,3555
+NVGLGK,R3KFM1,Uncharacterized protein,1169311
+NVGLGK,L8HA95,RhoGEF domain containing protein,1257118
+NVGLGK,G2G7E3,Putative glycosyl transferase,700597
+NVGLGK,F6QJR0,Uncharacterized protein,8364
+NVGLGK,F5SPV9,Amylovoran biosynthesis glycosyltransferase AmsE,1002339
+NVGLGK,H3REI1,Putative glycosyltransferase,660596
+NVGLGK,A0A0U2VZM5,Ammonia monooxygenase,118060
+NVGLGK,A0A0M8XBX8,Glycosyl transferase,1415549
+NVGLGK,A0A124HI41,Glycosyl transferase,66877
+NVGLGK,T1JZS1,Uncharacterized protein,32264
+NVGLGK,A0A0G2AY95,50S ribosomal protein L27,1618607
+NVGLGK,A0A0M8TQ23,Glycosyl transferase,1415546
+NVGLGK,I1G8H0,Uncharacterized protein,400682
+NVGLGK,A0A021X719,Cytochrome c oxidase subunit 1,1410620
+NVGLGK,T1K721,Uncharacterized protein,32264
+NVGLGK,A0A101NFC8,Glycosyl transferase,67285
+NVGLGK,A0A0F3MEB9,50S ribosomal protein L27,1359184
+NVGLGK,T1K9W5,Uncharacterized protein,32264
+NVGLGK,A0A086Z211,50S ribosomal protein L27,1437605
+NVGLGK,A0A0S3SKQ6,Uncharacterized protein,157739
+NVGLGK,U2BMA2,Putative amylovoran biosynthesis glycosyltransferase AmsE,411472
+NVGLGK,U3GK60,Glycosyltransferase,28901
+NVGLGK,A0A0G1VDB9,50S ribosomal protein L27,1618842
+NVGLGK,E3DJ48,Glycosyltransferase WceM,215689
+NVGLGK,L8PAJ5,Putative Glycosyl transferase family 2 protein,1160705
+NVGLGK,L1I4W8,Uncharacterized protein,905079
+NVGLGK,V4TIQ6,Uncharacterized protein,85681
+NVGLGK,A0A117MR82,Glycosyl transferase,68262
+NVGLGK,A0A0F3MGX8,50S ribosomal protein L27,1359168
+NVGLGK,A0A0M4MEN1,Cytochrome P450,93129
+NVGLGK,A0A0M9IAF5,Putative glycosyl transferase,134375
+NVGLGK,A0A0F8BUR0,Duodenase-1,215358
+NVGLGK,W6CRF5,Putative progesterone 5-beta-reductase,228870
+NVGLGK,A0A0F3MHD8,50S ribosomal protein L27,1359185
+NVGLGK,A0A086WCL9,Uncharacterized protein,1549812
+NVGLGK,R9H3H1,50S ribosomal protein L27,1150600
+NVGLGK,I1JWH9,Uncharacterized protein,3847
+NVGLGK,T1JZS4,Uncharacterized protein,32264
+NVGLGK,F7EPX2,Uncharacterized protein,8364
+NVGLGK,W0NTI6,Cytochrome P450,93129
+NVGLGK,A0A137PDL1,P-loop containing nucleoside triphosphate hydrolase protein,796925
+NVGLGK,A0A0Q7EJ68,Amylovoran biosynthesis protein AmsE,1736444
+NVGLGK,A0A0D2JM76,50S ribosomal protein L27,1306947
+NVGLGK,A0A0N0A8E7,Glycosyl transferase,1519493
+NVGLGK,T0GKV7,50S ribosomal protein L27,1049789
+NVGLGK,A0A0B0MDL9,"50S ribosomal L27, chloroplastic-like protein",29729
+NVGLGK,A0A087YPP9,Uncharacterized protein,48698
+NVGLGK,A0A067F947,Uncharacterized protein,2711
+NVGLGK,V9MHD6,Cytochrome P450 monooxygenase,50023
+NVGLGK,A0A117PT90,Glycosyl transferase,67350
+NVGLGK,D7SVP5,Putative uncharacterized protein,29760
+NVGLGK,A0A067LD23,Uncharacterized protein,180498
+NVGLGK,A0A0A0LQ66,Uncharacterized protein,3659
+NVGLGK,M2U4E5,50S ribosomal protein L27,1234595
+NVGLGK,D3PB01,50S ribosomal protein L27,639282
+NVGLGK,E2YIE3,"Glycosyltransferase, group 2 family protein",749489
+NVGLGK,A0A0K6G334,Uncharacterized protein,456999
+NVGLGK,Q0QF32,Malate dehydrogenase,9796
+NVGLGK,A0A066Y7X4,Glycosyl transferase,358823
+SVVLEPK,A0A0F5IA74,Flagellar basal-body rod protein FlgC,1123719
+SVVLEPK,A0A0F5I0E2,Flagellar basal-body rod protein FlgC,1221996
+SVVLEPK,W7L9S2,Flagellar basal-body rod protein FlgC,1307436
+SVVLEPK,E5WD05,Flagellar basal-body rod protein FlgC,665959
+SVVLEPK,A0A0J5Z1W7,Flagellar basal-body rod protein FlgC,1399
+SVVLEPK,A0A0M0GGW8,Flagellar basal-body rod protein FlgC,1459
