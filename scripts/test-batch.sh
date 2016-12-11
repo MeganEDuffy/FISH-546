@@ -18,9 +18,9 @@ echo *.csv
 #output_dir="practice-exports"
 #output_file="${sample_name}.txt"
 
-#for *.csv; do
-    #wc -l
-#done
+for *.csv; do
+    wc -l
+done
 
 #for *.csv 
 #do
