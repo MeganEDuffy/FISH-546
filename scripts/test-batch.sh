@@ -1,7 +1,7 @@
 #!/bin/bash #SHEBANG 
 set -e #terminate script if any command exits with a nonzero exit status
 #set -u #abort script if variable's value is unset
-set -o pipefail #nonzero exit status in a pipe will cause the entire pipe to return a nonzero status
+#set -o pipefail #nonzero exit status in a pipe will cause the entire pipe to return a nonzero status
 
 #This script is to practce doing some action (like extracting a columns from a csv file) from all like files in a directory
 
@@ -13,14 +13,22 @@ cd ~/Documents/Detritus/python_learning/practice-csv
 echo listing the .csv files in current directory
 echo *.csv
 
+
+file_array=($(find *.csv))  # find all .csv files
+for i in $file_array  # wc -l
+	do
+	wc -l $i 
+done
+
+
 #set variables
 #echo set variables
 #output_dir="practice-exports"
 #output_file="${sample_name}.txt"
 
-for *.csv; do
-    wc -l
-done
+#for *.csv; do
+   # wc -l
+#done
 
 #for *.csv 
 #do
