@@ -1,6 +1,6 @@
 #!/bin/bash #SHEBANG 
 set -e #terminate script if any command exits with a nonzero exit status
-set -u #abort script if variable's value is unset
+#set -u #abort script if variable's value is unset
 set -o pipefail #nonzero exit status in a pipe will cause the entire pipe to return a nonzero status
 
 #This script is to practce doing some action (like extracting a columns from a csv file) from all like files in a directory
@@ -18,8 +18,8 @@ echo *.csv
 #output_dir="practice-exports"
 #output_file="${sample_name}.txt"
 
-#for i in *.csv; do
-    wc -l
+#for *.csv; do
+    #wc -l
 #done
 
 #for *.csv 
