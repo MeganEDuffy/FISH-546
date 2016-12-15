@@ -2,20 +2,18 @@
 
 1. Sample collection
 
-  Samples were collected on 2015-05-10 by L. Mayer, and frozen at -20 until extraction.
+  Samples were collected in the ETNP at station 6 (see figure below) by _in situ_ filtering of approxmatly 10 L seawater onto 0.77 um glass fiber filters. Samples were frozen at -80 C until extraction. Samples are from the following depths:
   
-  | Sample   | Depth (cm)|
-  | -------- | --------- |
-  | R2       |  0        |
-  | R4       |  1        |
-  | R3       |  2        |
-  | R10      |  3        |
-  | R8       |  4        |
-  | R9       |  5        |
-  | R5       |  7        |
-  | R12      |  11       |
-  | R11      |  15       |
-  | R1       |  17       |
+ | Depth (m) |
+ | --------- |
+ |  55       |
+ |  65       |
+ |  100      |
+ |  145      |
+ |  160      |
+ |  250      |
+ |  2500     |
+  
   
 2. Protein extraction and trypic digestion
 
